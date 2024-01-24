@@ -60,6 +60,7 @@
 - [education](#education)
 - [electron](#electron)
 - [emulator](#emulator)
+- [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
@@ -661,6 +662,10 @@
 
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
+## english 
+
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
+
 ## es6 
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (December 2023)
@@ -1026,6 +1031,7 @@
 - [fnky/particle-life](https://github.com/fnky/particle-life) - Game of life with particles
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
+- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
@@ -1571,7 +1577,6 @@
 - [adambard/steam-liquidator](https://github.com/adambard/steam-liquidator) - Sell all your Steam items for cents upon cents!
 - [LingDong-/shan-shui-inf](https://github.com/LingDong-/shan-shui-inf) - Procedurally generated Chinese landscape painting.
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
-- [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [plopjs/node-plop](https://github.com/plopjs/node-plop) - programmatic plopping for fun and profit
 - [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
