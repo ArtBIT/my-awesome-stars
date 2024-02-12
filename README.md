@@ -190,6 +190,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day.
 - [codrops/CardStackEffects](https://github.com/codrops/CardStackEffects) - Some effect inspiration for card stacks. The idea is to show animation ideas for positive (accept) or negative (reject) feedback on a generic card element.
@@ -346,6 +347,7 @@
 
 ## JavaScript 
 
+- [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [pinbackit/pinback](https://github.com/pinbackit/pinback) - Backup and export bookmarklet for Pinterest
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
@@ -966,7 +968,6 @@
 
 ## SCSS 
 
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
