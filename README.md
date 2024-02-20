@@ -347,6 +347,7 @@
 
 ## JavaScript 
 
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [pinbackit/pinback](https://github.com/pinbackit/pinback) - Backup and export bookmarklet for Pinterest
