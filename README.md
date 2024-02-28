@@ -72,6 +72,7 @@
 
 ## C 
 
+- [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [jamriska/ebsynth](https://github.com/jamriska/ebsynth) - Fast Example-based Image Synthesis and Style Transfer
@@ -783,13 +784,14 @@
 
 ## Python 
 
+- [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - Implementation of the ECS pattern (Entity Component System) for creating games
 - [Notenlish/pygame_ecs](https://github.com/Notenlish/pygame_ecs) - An simple ECS library built for pygame
 - [StanislavPetrovV/SpriteStacking](https://github.com/StanislavPetrovV/SpriteStacking) - Sprite Stacking Graphics Engine with Python and Pygame
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [spirometaxas/periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console
 - [saketh12/Auto1111SDK](https://github.com/saketh12/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
 - [sopelj/hass-ember-mug-component](https://github.com/sopelj/hass-ember-mug-component) - Ember Mug Integration for Home Assistant
-- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
+- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [rougier/ML-Recipes](https://github.com/rougier/ML-Recipes) - A collection of stand-alone Python machine learning recipes
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
