@@ -749,6 +749,7 @@
 
 ## game-development 
 
+- [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
 - [BdR76/GimpSpriteAtlas](https://github.com/BdR76/GimpSpriteAtlas) - GIMP plug-in to create a spriteatlas (aka spritetexture or spritesheet). Takes all layers as images and compiles them into one sprite atlas texture, using a 2D packing algorithm so that the final text
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
@@ -772,6 +773,8 @@
 
 ## gamedev 
 
+- [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - Implementation of the ECS pattern (Entity Component System) for creating games
+- [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
 - [Coac/wave-function-collapse](https://github.com/Coac/wave-function-collapse) - Wave function collapse python implementation
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -786,6 +789,7 @@
 
 ## games 
 
+- [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - Implementation of the ECS pattern (Entity Component System) for creating games
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## gis 
@@ -1391,7 +1395,7 @@
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [pinbackit/pinback](https://github.com/pinbackit/pinback) - Backup and export bookmarklet for Pinterest
-- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
+- [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
@@ -2024,6 +2028,8 @@
 
 ## python 
 
+- [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - Implementation of the ECS pattern (Entity Component System) for creating games
+- [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 - [spirometaxas/periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console
 - [saketh12/Auto1111SDK](https://github.com/saketh12/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
@@ -2066,6 +2072,7 @@
 
 ## python3 
 
+- [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - Implementation of the ECS pattern (Entity Component System) for creating games
 - [mhthies/smarthomeconnect](https://github.com/mhthies/smarthomeconnect) - Python 3 AsyncIO-based home automation and interfacing framework
 - [DotBow/Blender-Launcher](https://github.com/DotBow/Blender-Launcher) - Standalone client for managing official builds of Blender 3D
 - [ArtBIT/Droptopus](https://github.com/ArtBIT/Droptopus) - Droptopus allows you to create visual drop targets for files, links, and text, allowing you to process the dragged object via script or copy it to a folder.
