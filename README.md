@@ -789,7 +789,7 @@
 - [StanislavPetrovV/SpriteStacking](https://github.com/StanislavPetrovV/SpriteStacking) - Sprite Stacking Graphics Engine with Python and Pygame
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [spirometaxas/periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console
-- [saketh12/Auto1111SDK](https://github.com/saketh12/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
+- [Auto1111SDK/Auto1111SDK](https://github.com/Auto1111SDK/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
 - [sopelj/hass-ember-mug-component](https://github.com/sopelj/hass-ember-mug-component) - Ember Mug Integration for Home Assistant
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
