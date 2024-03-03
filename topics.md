@@ -122,6 +122,7 @@
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
@@ -1293,6 +1294,10 @@
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [thorsten/phpMyFAQ](https://github.com/thorsten/phpMyFAQ) - phpMyFAQ - Open Source FAQ web application for PHP 8.1+ and MySQL, PostgreSQL and other databases
+
+## natural-language-processing 
+
+- [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
 
 ## neovim 
 
