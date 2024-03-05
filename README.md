@@ -784,6 +784,7 @@
 
 ## Python 
 
+- [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing in GIMP
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - Implementation of the ECS pattern (Entity Component System) for creating games
 - [Notenlish/pygame_ecs](https://github.com/Notenlish/pygame_ecs) - An simple ECS library built for pygame
 - [StanislavPetrovV/SpriteStacking](https://github.com/StanislavPetrovV/SpriteStacking) - Sprite Stacking Graphics Engine with Python and Pygame
