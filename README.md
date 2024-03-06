@@ -447,7 +447,7 @@
 - [flowbased/fbp](https://github.com/flowbased/fbp) - FBP flow definition language parser
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
-- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator.
+- [metalsmith/metalsmith](https://github.com/metalsmith/metalsmith) - An extremely simple, pluggable static site generator for Node.js
 - [hurrymaplelad/metalsmith-feed](https://github.com/hurrymaplelad/metalsmith-feed) - A metalsmith plugin to generate an RSS feed for a collection
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
 - [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
