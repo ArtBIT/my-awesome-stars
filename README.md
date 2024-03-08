@@ -990,6 +990,7 @@
 
 ## Shell 
 
+- [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
