@@ -1615,7 +1615,7 @@
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
 - [skorokithakis/catt](https://github.com/skorokithakis/catt) - Cast All The Things allows you to send videos from many, many online sources to your Chromecast.
 - [plopjs/node-plop](https://github.com/plopjs/node-plop) - programmatic plopping for fun and profit
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [grakic/jfreesteel](https://github.com/grakic/jfreesteel) - A native Java library, a Swing GUI application and an applet to read the Serbian eID card, built on javax.smartcardio
