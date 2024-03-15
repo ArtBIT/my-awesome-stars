@@ -156,7 +156,7 @@
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
 - [HackerPoet/Particle-Life](https://github.com/HackerPoet/Particle-Life) - A game of life with particles
 - [HackerPoet/MarbleMarcher](https://github.com/HackerPoet/MarbleMarcher) - A Fractal Physics Game
-- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) - Yoga is an embeddable layout engine targeting web standards.
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [probonopd/ESP8266HueEmulator](https://github.com/probonopd/ESP8266HueEmulator) - Emulate a Philips Hue bridge running on an ESP8266 using the Arduino IDE.
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) - World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
