@@ -375,7 +375,6 @@
 - [pramodshenoy7/cld_video_concatenator](https://github.com/pramodshenoy7/cld_video_concatenator) - 
 - [exus85/Home-assistant-config](https://github.com/exus85/Home-assistant-config) - My Home Assistant Config Tablet Kiosk mode
 - [PacktPublishing/Redux-Quick-Start-Guide](https://github.com/PacktPublishing/Redux-Quick-Start-Guide) - Redux Quick Start Guide, Published by Packt
-- [reactserbia/uplatnica](https://github.com/reactserbia/uplatnica) - Quick and simple way to get NBS QR code. 🧾
 - [blakeembrey/metalsmith-pagination](https://github.com/blakeembrey/metalsmith-pagination) - A Metalsmith plugin for paginating arrays and collections
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [hellatan/metalsmith-archive](https://github.com/hellatan/metalsmith-archive) - Create an archives page for Metalsmith
@@ -713,7 +712,6 @@
 - [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - ⚡️ A collection of tips to help take your CSS skills pro 🦾
-- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
 - [agis/git-style-guide](https://github.com/agis/git-style-guide) - A Git Style Guide
 - [jtoy/awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow) - TensorFlow - A curated list of dedicated resources http://tensorflow.org
@@ -1013,6 +1011,7 @@
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
+- [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [andreafabrizi/Dropbox-Uploader](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a BASH script which can be used to upload, download, list or delete files from Dropbox, an online file sharing, synchronization and backup service.
@@ -1074,6 +1073,7 @@
 - [Cogoport/cogo-toast](https://github.com/Cogoport/cogo-toast) - Beautiful, Zero Configuration, Toast Messages for React. Only ~ 4kb gzip, with styles and icons
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
+- [reactserbia/uplatnica](https://github.com/reactserbia/uplatnica) - Quick and simple way to get NBS QR code. 🧾
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
 - [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
