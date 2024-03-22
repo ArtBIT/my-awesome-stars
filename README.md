@@ -192,7 +192,6 @@
 - [codrops/CardStackEffects](https://github.com/codrops/CardStackEffects) - Some effect inspiration for card stacks. The idea is to show animation ideas for positive (accept) or negative (reject) feedback on a generic card element.
 - [codrops/LineMenuStyles](https://github.com/codrops/LineMenuStyles) - An open collection of menu styles that use the line as creative design element.
 - [denehyg/reveal.js-toolbar](https://github.com/denehyg/reveal.js-toolbar) - Toolbar plugin for reveal.js
-- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [iTimeTraveler/hexo-theme-hiker](https://github.com/iTimeTraveler/hexo-theme-hiker) - An attractive theme for Hexo. called "Hiker", short for "HikerNews".
 - [pattle/simpsons-in-css](https://github.com/pattle/simpsons-in-css) - Simpsons characters in CSS
 - [codrops/DistortedButtonEffects](https://github.com/codrops/DistortedButtonEffects) - A set of inspirational, highly experimental distortion effects for buttons using SVG filters. By Adrien Denat.
@@ -974,6 +973,7 @@
 
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
+- [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 
