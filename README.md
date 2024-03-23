@@ -221,7 +221,6 @@
 
 ## Dockerfile 
 
-- [hassio-addons/addon-tasmoadmin](https://github.com/hassio-addons/addon-tasmoadmin) - TasmoAdmin - Home Assistant Community Add-ons
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2024)
 
 ## Elixir 
@@ -614,6 +613,7 @@
 
 ## Jinja 
 
+- [hassio-addons/addon-tasmoadmin](https://github.com/hassio-addons/addon-tasmoadmin) - TasmoAdmin - Home Assistant Community Add-ons
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
 ## Jupyter Notebook 
