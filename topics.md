@@ -251,7 +251,7 @@
 ## android 
 
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
-- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Fire streaming stick, Chromecast, NVIDIA Shield, Roku, Xiaomi Mi, and Android TV remote control emulator for Home Assistant
+- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Fire streaming stick, Chromecast, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
@@ -935,7 +935,7 @@
 - [toverainc/willow](https://github.com/toverainc/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [kreisklasse/HomeAssistant](https://github.com/kreisklasse/HomeAssistant) - My Home-Assistant SetUp
-- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Fire streaming stick, Chromecast, NVIDIA Shield, Roku, Xiaomi Mi, and Android TV remote control emulator for Home Assistant
+- [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Fire streaming stick, Chromecast, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
 - [hassio-addons/addon-tasmoadmin](https://github.com/hassio-addons/addon-tasmoadmin) - TasmoAdmin - Home Assistant Community Add-ons
 - [nerdaxic/glados-voice-assistant](https://github.com/nerdaxic/glados-voice-assistant) - DIY Voice Assistant based on the GLaDOS character from Portal video game series. Works with home assistant!
