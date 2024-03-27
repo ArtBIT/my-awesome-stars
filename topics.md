@@ -606,6 +606,7 @@
 
 ## deployment 
 
+- [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 
@@ -751,6 +752,7 @@
 
 ## game-development 
 
+- [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
 - [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
 - [BdR76/GimpSpriteAtlas](https://github.com/BdR76/GimpSpriteAtlas) - GIMP plug-in to create a spriteatlas (aka spritetexture or spritesheet). Takes all layers as images and compiles them into one sprite atlas texture, using a 2D packing algorithm so that the final text
