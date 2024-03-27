@@ -229,6 +229,7 @@
 
 ## Go 
 
+- [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
