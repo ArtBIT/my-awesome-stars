@@ -1672,7 +1672,7 @@
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [unity3d-jp/FrameCapturer](https://github.com/unity3d-jp/FrameCapturer) - export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [SteamGridDB/steam-rom-manager](https://github.com/SteamGridDB/steam-rom-manager) - An app for managing ROMs in Steam
 - [dashersw/pedalboard.js](https://github.com/dashersw/pedalboard.js) - Open source JavaScript framework for developing audio effects for guitars using the Web Audio API.
 - [denilsonsa/html5-knob](https://github.com/denilsonsa/html5-knob) - A rotary web input component
