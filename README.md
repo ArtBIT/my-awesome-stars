@@ -16,6 +16,7 @@
 - [CoffeeScript](#coffeescript)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
+- [GDScript](#gdscript)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -130,6 +131,7 @@
 
 ## C++ 
 
+- [appsinacup/godot-box2d](https://github.com/appsinacup/godot-box2d) - Godot Box2D – C++ Godot Extension that integrates the Box2D physics engine.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
@@ -226,6 +228,12 @@
 ## Elixir 
 
 - [yeo/betterdev.link](https://github.com/yeo/betterdev.link) - Links to improve programing skill
+
+## GDScript 
+
+- [ramokz/phantom-camera](https://github.com/ramokz/phantom-camera) - 👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.
+- [don-tnowe/godot-auto-layout](https://github.com/don-tnowe/godot-auto-layout) - Press Shift+A to add a container for your green fellows.
+- [Ark2000/PankuConsole](https://github.com/Ark2000/PankuConsole) - Feature-packed real-time debugging toolkit for Godot Engine.
 
 ## Go 
 
@@ -783,6 +791,7 @@
 
 ## Python 
 
+- [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [PrathamMehta08/GazeControl](https://github.com/PrathamMehta08/GazeControl) - GazeControl is a Python-based project that utilizes computer vision to enable gaze-controlled interaction
 - [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing in GIMP
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - Implementation of the ECS pattern (Entity Component System) for creating games
