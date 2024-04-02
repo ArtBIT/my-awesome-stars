@@ -832,6 +832,7 @@
 
 ## godot 
 
+- [gdquest-demos/godot-3-demos](https://github.com/gdquest-demos/godot-3-demos) - Dozens of free and open source demos for the Godot game engine, version 3. Head to the link below for newer demos for Godot 4+
 - [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!
 - [ramokz/phantom-camera](https://github.com/ramokz/phantom-camera) - 👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.
 - [appsinacup/godot-box2d](https://github.com/appsinacup/godot-box2d) - Godot Box2D – C++ Godot Extension that integrates the Box2D physics engine.
