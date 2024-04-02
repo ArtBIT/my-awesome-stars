@@ -231,6 +231,7 @@
 
 ## GDScript 
 
+- [gdquest-demos/godot-3-demos](https://github.com/gdquest-demos/godot-3-demos) - Dozens of free and open source demos for the Godot game engine, version 3. Head to the link below for newer demos for Godot 4+
 - [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!
 - [tomeyro/godot-sfxr](https://github.com/tomeyro/godot-sfxr) - Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor.
 - [GuyUnger/HyperLog](https://github.com/GuyUnger/HyperLog) - 
