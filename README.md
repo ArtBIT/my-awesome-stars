@@ -231,6 +231,8 @@
 
 ## GDScript 
 
+- [matterda/godot-destructible-terrain](https://github.com/matterda/godot-destructible-terrain) - Destructible terrain for the Godot engine
+- [jontopielski/sprite-stacking-tutorial](https://github.com/jontopielski/sprite-stacking-tutorial) - 
 - [RPicster/Godot-particle-and-vfx-textures](https://github.com/RPicster/Godot-particle-and-vfx-textures) - A collection of textures I created to be used for lensflares, lights, particles and visual effects.
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
 - [gdquest-demos/godot-3-demos](https://github.com/gdquest-demos/godot-3-demos) - Dozens of free and open source demos for the Godot game engine, version 3. Head to the link below for newer demos for Godot 4+
