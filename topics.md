@@ -1412,6 +1412,8 @@
 
 ## others 
 
+- [matterda/godot-destructible-terrain](https://github.com/matterda/godot-destructible-terrain) - Destructible terrain for the Godot engine
+- [jontopielski/sprite-stacking-tutorial](https://github.com/jontopielski/sprite-stacking-tutorial) - 
 - [RPicster/Godot-particle-and-vfx-textures](https://github.com/RPicster/Godot-particle-and-vfx-textures) - A collection of textures I created to be used for lensflares, lights, particles and visual effects.
 - [tomeyro/godot-sfxr](https://github.com/tomeyro/godot-sfxr) - Godot plugin that adds the SfxrStreamPlayer node to generate sound effects inside the editor.
 - [GuyUnger/HyperLog](https://github.com/GuyUnger/HyperLog) - 
