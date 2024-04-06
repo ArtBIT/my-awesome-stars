@@ -231,6 +231,8 @@
 
 ## GDScript 
 
+- [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
+- [BenjaTK/Gaea](https://github.com/BenjaTK/Gaea) - Procedural generation add-on for Godot 4.
 - [matterda/godot-destructible-terrain](https://github.com/matterda/godot-destructible-terrain) - Destructible terrain for the Godot engine
 - [jontopielski/sprite-stacking-tutorial](https://github.com/jontopielski/sprite-stacking-tutorial) - 
 - [RPicster/Godot-particle-and-vfx-textures](https://github.com/RPicster/Godot-particle-and-vfx-textures) - A collection of textures I created to be used for lensflares, lights, particles and visual effects.
@@ -245,6 +247,7 @@
 
 ## Go 
 
+- [bashbunni/OnlyChars](https://github.com/bashbunni/OnlyChars) - A TUI that lets you swipe right or left on ASCII art
 - [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
