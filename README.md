@@ -231,6 +231,7 @@
 
 ## GDScript 
 
+- [dueddel/godot-3d-ui-demo](https://github.com/dueddel/godot-3d-ui-demo) - Sample setup for 3D based UI in Godot
 - [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
 - [BenjaTK/Gaea](https://github.com/BenjaTK/Gaea) - Procedural generation add-on for Godot 4.
 - [matterda/godot-destructible-terrain](https://github.com/matterda/godot-destructible-terrain) - Destructible terrain for the Godot engine
