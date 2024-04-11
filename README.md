@@ -748,7 +748,7 @@
 - [anissen/awesome-snowkit](https://github.com/anissen/awesome-snowkit) - A curated list of resources by the snõwkit collective (http://snowkit.org/)
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [SethRobertson/GitFixUm](https://github.com/SethRobertson/GitFixUm) - On undoing, fixing, or removing commits or mistakes in git
-- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [JoshuaKGoldberg/Old-Deleted-FullScreenMario](https://github.com/JoshuaKGoldberg/Old-Deleted-FullScreenMario) - An HTML5 remake of the original Super Mario Brothers - expanded for wide screens.
 - [HarlequinVG/shaders](https://github.com/HarlequinVG/shaders) - 
