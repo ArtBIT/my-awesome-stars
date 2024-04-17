@@ -1424,6 +1424,7 @@
 
 ## others 
 
+- [angrychill/q-dollar-gesture-godot](https://github.com/angrychill/q-dollar-gesture-godot) - 
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
 - [RPicster/Godot-Collected-Thingies](https://github.com/RPicster/Godot-Collected-Thingies) - 
 - [dueddel/godot-3d-ui-demo](https://github.com/dueddel/godot-3d-ui-demo) - Sample setup for 3D based UI in Godot
