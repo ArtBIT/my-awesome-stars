@@ -1426,6 +1426,7 @@
 
 ## others 
 
+- [MyreMylar/pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
 - [angrychill/q-dollar-gesture-godot](https://github.com/angrychill/q-dollar-gesture-godot) - 
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
 - [RPicster/Godot-Collected-Thingies](https://github.com/RPicster/Godot-Collected-Thingies) - 
@@ -2076,6 +2077,7 @@
 
 ## python 
 
+- [philippj/SteamworksPy](https://github.com/philippj/SteamworksPy) - A working Python API system for Valve's Steamworks.
 - [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing in GIMP
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
 - [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
@@ -2265,6 +2267,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
 
 ## sass 
 
