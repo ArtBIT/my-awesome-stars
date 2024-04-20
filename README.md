@@ -809,6 +809,8 @@
 
 ## Python 
 
+- [philippj/SteamworksPy](https://github.com/philippj/SteamworksPy) - A working Python API system for Valve's Steamworks.
+- [MyreMylar/pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
 - [PrathamMehta08/GazeControl](https://github.com/PrathamMehta08/GazeControl) - GazeControl is a Python-based project that utilizes computer vision to enable gaze-controlled interaction
 - [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing in GIMP
