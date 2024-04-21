@@ -1426,6 +1426,7 @@
 
 ## others 
 
+- [David20321/ProjectGibbon](https://github.com/David20321/ProjectGibbon) - 
 - [MyreMylar/pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
 - [angrychill/q-dollar-gesture-godot](https://github.com/angrychill/q-dollar-gesture-godot) - 
 - [fwartner/home-assistant-wakewords-collection](https://github.com/fwartner/home-assistant-wakewords-collection) - Community Collection of Wake-Words for Home Assistant
