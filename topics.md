@@ -2212,6 +2212,7 @@
 
 ## react-native 
 
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the secure note taking and to-do app with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [chantastic/reactpatterns](https://github.com/chantastic/reactpatterns) - Patterns for React Developers
