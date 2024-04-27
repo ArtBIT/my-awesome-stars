@@ -810,6 +810,7 @@
 
 ## Python 
 
+- [MiniGlome/Tiktok-uploader](https://github.com/MiniGlome/Tiktok-uploader) - Python3 script to upload and schedule TikTok videos
 - [philippj/SteamworksPy](https://github.com/philippj/SteamworksPy) - A working Python API system for Valve's Steamworks.
 - [MyreMylar/pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
 - [cumulo-autumn/StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion) - StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
@@ -1090,7 +1091,7 @@
 - [honzaap/SlashSaber](https://github.com/honzaap/SlashSaber) - An endless slashing game made with three.js and Vue
 - [photown/private-pdf](https://github.com/photown/private-pdf) - PrivatePDF is a free web tool that lets you make quick PDF edits from within your web browser, without uploading anything anywhere.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
-- [tldraw/tldraw](https://github.com/tldraw/tldraw) - Infinite canvas.
+- [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
