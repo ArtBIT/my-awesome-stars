@@ -1421,6 +1421,9 @@
 
 ## others 
 
+- [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
+- [gustavopezzi/voxelspace](https://github.com/gustavopezzi/voxelspace) - 
+- [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
 - [MiniGlome/Tiktok-uploader](https://github.com/MiniGlome/Tiktok-uploader) - Python3 script to upload and schedule TikTok videos
 - [David20321/ProjectGibbon](https://github.com/David20321/ProjectGibbon) - 
 - [MyreMylar/pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
