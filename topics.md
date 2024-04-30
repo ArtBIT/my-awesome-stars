@@ -1421,6 +1421,7 @@
 
 ## others 
 
+- [JamesMcMahon/monocle-engine](https://github.com/JamesMcMahon/monocle-engine) - Mirror of Maddy Thorson's C# Game Engine. "A MonoGame C# game engine! Based on the TowerFall Ascension core engine code."
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
 - [gustavopezzi/voxelspace](https://github.com/gustavopezzi/voxelspace) - 
 - [NoelFB/Celeste](https://github.com/NoelFB/Celeste) - Celeste Bugs & Issue Tracker + some Source Code
