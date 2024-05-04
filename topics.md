@@ -831,6 +831,7 @@
 
 ## godot 
 
+- [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
 - [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
 - [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
@@ -941,6 +942,7 @@
 
 ## home-assistant 
 
+- [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
 - [sopelj/hass-ember-mug-component](https://github.com/sopelj/hass-ember-mug-component) - Ember Mug Integration for Home Assistant
 - [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
 - [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
