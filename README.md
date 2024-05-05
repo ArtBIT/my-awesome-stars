@@ -8,6 +8,7 @@
 - [API Blueprint](#api-blueprint)
 - [ActionScript](#actionscript)
 - [Arduino](#arduino)
+- [Assembly](#assembly)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -70,6 +71,10 @@
 ## Arduino 
 
 - [vheun/ArduinoPlaysTimberman](https://github.com/vheun/ArduinoPlaysTimberman) - Arduino Plays Timberman
+
+## Assembly 
+
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 
 ## C 
 
