@@ -111,6 +111,7 @@
 - [learning](#learning)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -1221,6 +1222,11 @@
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 - [scanmem/scanmem](https://github.com/scanmem/scanmem) - memory scanner for Linux
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
+
+## llm 
+
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 
 ## lua 
 
