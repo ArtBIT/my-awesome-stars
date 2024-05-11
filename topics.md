@@ -150,6 +150,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [qt](#qt)
+- [quantitative-finance](#quantitative-finance)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -1429,6 +1430,7 @@
 
 ## others 
 
+- [jle64/gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) - Pass password manager search provider for gnome-shell
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [JamesMcMahon/monocle-engine](https://github.com/JamesMcMahon/monocle-engine) - Mirror of Maddy Thorson's C# Game Engine. "A MonoGame C# game engine! Based on the TowerFall Ascension core engine code."
 - [s-macke/VoxelSpace](https://github.com/s-macke/VoxelSpace) - Terrain rendering algorithm in less than 20 lines of code
@@ -2155,6 +2157,10 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+
+## quantitative-finance 
+
+- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
 
 ## rails 
 
