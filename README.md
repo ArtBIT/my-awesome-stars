@@ -821,6 +821,7 @@
 
 ## Python 
 
+- [jle64/gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) - Pass password manager search provider for gnome-shell
 - [MiniGlome/Tiktok-uploader](https://github.com/MiniGlome/Tiktok-uploader) - Python3 script to upload and schedule TikTok videos
 - [philippj/SteamworksPy](https://github.com/philippj/SteamworksPy) - A working Python API system for Valve's Steamworks.
 - [MyreMylar/pygame_gui](https://github.com/MyreMylar/pygame_gui) - A GUI system for pygame.
