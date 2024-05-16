@@ -1436,6 +1436,7 @@
 
 ## others 
 
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [jle64/gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) - Pass password manager search provider for gnome-shell
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [JamesMcMahon/monocle-engine](https://github.com/JamesMcMahon/monocle-engine) - Mirror of Maddy Thorson's C# Game Engine. "A MonoGame C# game engine! Based on the TowerFall Ascension core engine code."
