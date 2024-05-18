@@ -1436,6 +1436,7 @@
 
 ## others 
 
+- [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [jle64/gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) - Pass password manager search provider for gnome-shell
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
@@ -1771,7 +1772,7 @@
 - [googleads/videojs-ima](https://github.com/googleads/videojs-ima) - IMA SDK Plugin for Video.js
 - [googlecreativelab/aiexperiments-ai-duet](https://github.com/googlecreativelab/aiexperiments-ai-duet) - A piano that responds to you.
 - [onema/vagrant-lamp-development](https://github.com/onema/vagrant-lamp-development) - 
-- [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep same and cross domain iFrames sized to their content with support for window/content resizing, in page links, nesting and multiple iFrames
+- [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep same and cross domain iFrames sized to their content.
 - [fmalk/codeigniter-phpunit](https://github.com/fmalk/codeigniter-phpunit) - Hack to make CodeIgniter work with PHPUnit.
 - [Victa/scrolly](https://github.com/Victa/scrolly) - PROJECT IS NOT MAINTAINED - Super simple and easy to use parallax plugin for jQuery
 - [CNMAT/OSC](https://github.com/CNMAT/OSC) - OSC: Arduino and Teensy implementation of OSC encoding
