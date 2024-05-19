@@ -1092,6 +1092,7 @@
 
 ## TypeScript 
 
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [SandroMaglione/infinite-html-canvas](https://github.com/SandroMaglione/infinite-html-canvas) - Infinite HTML &lt;canvas&gt; that can be zoomed and panned using touch on mobile 🤏
