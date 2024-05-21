@@ -138,6 +138,7 @@
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
+- [p2p](#p2p)
 - [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [phaser](#phaser)
@@ -2023,6 +2024,10 @@
 - [AdamAtomic/flixel](https://github.com/AdamAtomic/flixel) - flixel is a free Actionscript (Flash) library that I distilled from a variety of Flash games that I've worked on over the last couple years, including Gravity Hook, Fathom and Canabalt.  It's primary 
 - [adamgriffiths/ag-auth](https://github.com/adamgriffiths/ag-auth) - The Easiest Authentication Library for the CodeIgniter PHP Framework.
 - [seaofclouds/tweet](https://github.com/seaofclouds/tweet) - put twitter on your website with tweet, an unobtrusive javascript plugin for jquery
+
+## p2p 
+
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transfor
 
 ## package-manager 
 
