@@ -866,6 +866,7 @@
 - [sopelj/python-ember-mug](https://github.com/sopelj/python-ember-mug) - Python Library to Interact with Ember Mugs
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [davem2/sfz2bitwig](https://github.com/davem2/sfz2bitwig) - Convert .SFZ files into Bitwig Studio multisample instruments.
 - [CiaraStrawberry/TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
 - [pathofleastresistor/activity-manager](https://github.com/pathofleastresistor/activity-manager) - A Home Assistant custom component to manage recurring activities.
@@ -1108,7 +1109,6 @@
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - SDK for creating whiteboards and canvas experiences on the web.
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, Groq 
 - [daybrush/scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
 - [ievgennaida/animation-timeline-control](https://github.com/ievgennaida/animation-timeline-control) - Canvas based TypeScript animation timeline editor.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
