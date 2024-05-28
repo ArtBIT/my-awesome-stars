@@ -379,6 +379,7 @@
 
 ## JavaScript 
 
+- [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
