@@ -2045,6 +2045,7 @@
 
 ## phaser 
 
+- [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
 - [yandeu/phaser-project-template](https://github.com/yandeu/phaser-project-template) - 🕹️ Phaser 3 - Starter Template with TypeScript and webpack.
 - [colinvella/phaser-tilemap-plus](https://github.com/colinvella/phaser-tilemap-plus) - Tilemap animations, physics, events and custom property enhancements for Tiled JSON map files
 - [azerion/phaser-nineslice](https://github.com/azerion/phaser-nineslice) - NineSlice plugin for Phaser!
