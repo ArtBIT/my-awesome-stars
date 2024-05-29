@@ -1446,6 +1446,8 @@
 
 ## others 
 
+- [Bitlytic/Strategy-GDScript](https://github.com/Bitlytic/Strategy-GDScript) - 
+- [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [sharkdp/great-puzzles](https://github.com/sharkdp/great-puzzles) - A curated list of great puzzles
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
