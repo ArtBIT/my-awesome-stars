@@ -244,6 +244,8 @@
 
 ## GDScript 
 
+- [Bitlytic/Strategy-GDScript](https://github.com/Bitlytic/Strategy-GDScript) - 
+- [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
 - [angrychill/q-dollar-gesture-godot](https://github.com/angrychill/q-dollar-gesture-godot) - 
 - [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
