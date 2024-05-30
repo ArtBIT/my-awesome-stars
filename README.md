@@ -27,6 +27,7 @@
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Less](#less)
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Markdown](#markdown)
@@ -673,6 +674,10 @@
 ## Kotlin 
 
 - [rogro82/PiPup](https://github.com/rogro82/PiPup) - Enhanced notifications for Android TV
+
+## Less 
+
+- [geoffb/dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) - Limited color palettes by DawnBringer in various formats.
 
 ## Lua 
 
