@@ -1270,6 +1270,7 @@
 
 ## macos 
 
+- [geoffb/dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) - Limited color palettes by DawnBringer in various formats.
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The s
@@ -2515,6 +2516,7 @@
 
 ## unity 
 
+- [geoffb/dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) - Limited color palettes by DawnBringer in various formats.
 - [mixandjam/Celeste-Movement](https://github.com/mixandjam/Celeste-Movement) - Recreating the movement and feel from Celeste
 - [mixandjam/MonumentValley-LevelDesign](https://github.com/mixandjam/MonumentValley-LevelDesign) - Recreating the Level Design from Monument Valley
 - [Scrawk/2D-Deformable-body-in-Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity) - A 2D Deformable body simulation in Unity using FEM
