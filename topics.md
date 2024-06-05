@@ -843,6 +843,7 @@
 
 ## godot 
 
+- [atadenizoktay/godot-click-through-transparent-window](https://github.com/atadenizoktay/godot-click-through-transparent-window) - A demo project for the Godot Engine that features a transparent window with click-through capability.
 - [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
 - [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
