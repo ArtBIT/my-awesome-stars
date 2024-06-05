@@ -248,6 +248,7 @@
 
 ## GDScript 
 
+- [atadenizoktay/godot-click-through-transparent-window](https://github.com/atadenizoktay/godot-click-through-transparent-window) - A demo project for the Godot Engine that features a transparent window with click-through capability.
 - [GitKindoSaurProductionsHub/-OLD-Tournament-Fighter](https://github.com/GitKindoSaurProductionsHub/-OLD-Tournament-Fighter) - Hello everyone, here are the files for the Godot Engine (v3.3) Arcade Tutorial series from my Youtube channel.
 - [Bitlytic/Strategy-GDScript](https://github.com/Bitlytic/Strategy-GDScript) - 
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
