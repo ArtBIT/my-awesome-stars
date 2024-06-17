@@ -38,6 +38,7 @@
 - [continuous-integration](#continuous-integration)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
@@ -517,6 +518,10 @@
 ## cryptocurrency 
 
 - [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+
+## cryptography 
+
+- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 
 ## csharp 
 
@@ -1789,7 +1794,6 @@
 - [inikulin/publish-please](https://github.com/inikulin/publish-please) - Safe and highly functional replacement for `npm publish`.
 - [lrse/sptam](https://github.com/lrse/sptam) - S-PTAM: Stereo Parallel Tracking and Mapping
 - [uzh-rpg/rpg_svo](https://github.com/uzh-rpg/rpg_svo) - Semi-direct Visual Odometry
-- [pstadler/keybase-gpg-github](https://github.com/pstadler/keybase-gpg-github) - Step-by-step guide on how to create a GPG key on keybase.io, adding it to a local GPG setup and using it with Git and GitHub.
 - [Dharengo/Spriter2UnityDX](https://github.com/Dharengo/Spriter2UnityDX) - Converts Spriter .scml files to Unity prefabs
 - [msurguy/triangles](https://github.com/msurguy/triangles) - Delaunay triangulation + Lambertian reflectance
 - [PorkShoulderHolder/morph](https://github.com/PorkShoulderHolder/morph) - mathematical morphology for javascript
