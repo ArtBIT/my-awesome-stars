@@ -1459,6 +1459,7 @@
 
 ## others 
 
+- [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [GitKindoSaurProductionsHub/-OLD-Tournament-Fighter](https://github.com/GitKindoSaurProductionsHub/-OLD-Tournament-Fighter) - Hello everyone, here are the files for the Godot Engine (v3.3) Arcade Tutorial series from my Youtube channel.
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
@@ -1566,7 +1567,7 @@
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [pramodshenoy7/cld_video_concatenator](https://github.com/pramodshenoy7/cld_video_concatenator) - 
-- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance home video integration and automation platform
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [Kode/Kha](https://github.com/Kode/Kha) - Ultra-portable, high performance, open source multimedia framework.
 - [exus85/Home-assistant-config](https://github.com/exus85/Home-assistant-config) - My Home Assistant Config Tablet Kiosk mode
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) - 
