@@ -272,6 +272,7 @@
 
 ## Go 
 
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [bashbunni/OnlyChars](https://github.com/bashbunni/OnlyChars) - A TUI that lets you swipe right or left on ASCII art
 - [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
 - [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker) - The lazier way to manage everything docker
