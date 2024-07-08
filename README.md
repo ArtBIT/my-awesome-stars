@@ -145,6 +145,7 @@
 
 ## C++ 
 
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An open-source and fully functional Steamworks SDK / API module and plug-in for the Godot Game Engine.
 - [appsinacup/godot-box2d](https://github.com/appsinacup/godot-box2d) - Godot Box2D – C++ Godot Extension that integrates the Box2D physics engine.
