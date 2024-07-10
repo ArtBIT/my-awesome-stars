@@ -417,7 +417,6 @@
 - [muratcorlu/connect-api-mocker](https://github.com/muratcorlu/connect-api-mocker) - Connect middleware that creates mocks for REST APIs
 - [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
 - [mharrys/fluids-2d](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js
-- [nikitavoloboev/knowledge](https://github.com/nikitavoloboev/knowledge) - Everything I know
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [pramodshenoy7/cld_video_concatenator](https://github.com/pramodshenoy7/cld_video_concatenator) - 
 - [exus85/Home-assistant-config](https://github.com/exus85/Home-assistant-config) - My Home Assistant Config Tablet Kiosk mode
@@ -737,6 +736,7 @@
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
+- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) - 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kreisklasse/HomeAssistant](https://github.com/kreisklasse/HomeAssistant) - My Home-Assistant SetUp
@@ -947,7 +947,7 @@
 - [vifon/ledger-web-api](https://github.com/vifon/ledger-web-api) - A HTTP API created for Ledger-Tasker integration; superseded by https://github.com/vifon/ledger-web
 - [Time-Travel-Rephotography/Time-Travel-Rephotography.github.io](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io) - We simulate traveling back in time with a modern camera to rephotograph famous historical subjects.
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [OpenBB-finance/OpenBBTerminal](https://github.com/OpenBB-finance/OpenBBTerminal) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [bnpr/Malt](https://github.com/bnpr/Malt) - Render framework for NPR.
 - [Jandals/HairNet](https://github.com/Jandals/HairNet) - HairNet addon for Blender
 - [cgtinker/blendartrack](https://github.com/cgtinker/blendartrack) - blender add-on for importing augmented reality motion tracking data recorded with the mobile application blendartrack
