@@ -2258,7 +2258,7 @@
 - [ledesmablt/quickscope](https://github.com/ledesmablt/quickscope) - A simple but powerful search bar for your new tab.
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
-- [pmndrs/react-xr](https://github.com/pmndrs/react-xr) - 🤳 VR/AR for react-three-fiber
+- [pmndrs/xr](https://github.com/pmndrs/xr) - 🤳 VR/AR for react-three-fiber
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [adobe/generator-tsx](https://github.com/adobe/generator-tsx) - Yeoman generator for CRA + TypeScript + React + Redux + Router + Testing Library.
