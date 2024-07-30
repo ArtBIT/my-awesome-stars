@@ -1465,6 +1465,7 @@
 
 ## others 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [BinaryTechLabs/bayesian](https://github.com/BinaryTechLabs/bayesian) - Home Assistant Bayesian Sensor
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
