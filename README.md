@@ -12,6 +12,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CMake](#cmake)
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
@@ -201,6 +202,10 @@
 - [surjikal/component-game-objects](https://github.com/surjikal/component-game-objects) - Component-based game object system experiments
 - [solarus-games/solarus](https://github.com/solarus-games/solarus) - This repository was moved to GitLab: https://gitlab.com/solarus-games/solarus
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+
+## CMake 
+
+- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 
 ## CSS 
 
@@ -840,6 +845,7 @@
 
 ## Python 
 
+- [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
 - [jle64/gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) - Pass password manager search provider for gnome-shell
 - [MiniGlome/Tiktok-uploader](https://github.com/MiniGlome/Tiktok-uploader) - Python3 script to upload and schedule TikTok videos
@@ -896,7 +902,6 @@
 - [gd3kr/BlenderGPT](https://github.com/gd3kr/BlenderGPT) - Use commands in English to control Blender with OpenAI's GPT-4
 - [allenai/objaverse-rendering](https://github.com/allenai/objaverse-rendering) - 📷 Scripts for rendering Objaverse
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
-- [dreamworksanimation/openmoonray](https://github.com/dreamworksanimation/openmoonray) - MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [BdR76/GimpSpriteAtlas](https://github.com/BdR76/GimpSpriteAtlas) - GIMP plug-in to create a spriteatlas (aka spritetexture or spritesheet). Takes all layers as images and compiles them into one sprite atlas texture, using a 2D packing algorithm so that the final text
 - [jkirsons/FacialMotionCapture](https://github.com/jkirsons/FacialMotionCapture) - 
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive) - Real-time face swap for PC streaming or video calls
