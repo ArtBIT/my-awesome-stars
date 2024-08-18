@@ -292,7 +292,7 @@
 - [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
 - [DesconBelgrade/Klimerko](https://github.com/DesconBelgrade/Klimerko) - ☁ DIY Air Quality Monitoring Device
 - [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
-- [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+- [SamZorSec/Open-Home-Automation](https://github.com/SamZorSec/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [arjo129/uSpeech](https://github.com/arjo129/uSpeech) - Speech recognition toolkit for the arduino
 - [FortySevenEffects/arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library) - MIDI for Arduino
 
@@ -990,7 +990,7 @@
 - [nerdaxic/glados-voice-assistant](https://github.com/nerdaxic/glados-voice-assistant) - DIY Voice Assistant based on the GLaDOS character from Portal video game series. Works with home assistant!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.
-- [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+- [SamZorSec/Open-Home-Automation](https://github.com/SamZorSec/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 
 ## homebrew 
 
