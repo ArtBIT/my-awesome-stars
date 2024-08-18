@@ -184,7 +184,7 @@
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [unity3d-jp/FrameCapturer](https://github.com/unity3d-jp/FrameCapturer) - export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [smrtnt/Open-Home-Automation](https://github.com/smrtnt/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+- [SamZorSec/Open-Home-Automation](https://github.com/SamZorSec/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
 - [Auburn/FastNoiseSIMD](https://github.com/Auburn/FastNoiseSIMD) - C++ SIMD Noise Library
 - [openenergymonitor/emonTxFirmware](https://github.com/openenergymonitor/emonTxFirmware) - An open-source wireless energy monitoring node
 - [lrse/sptam](https://github.com/lrse/sptam) - S-PTAM: Stereo Parallel Tracking and Mapping
