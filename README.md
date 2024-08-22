@@ -847,7 +847,7 @@
 - [bieniu/ha-shellies-discovery](https://github.com/bieniu/ha-shellies-discovery) - Script that adds MQTT discovery support for Shellies devices
 - [facebookresearch/vggsfm](https://github.com/facebookresearch/vggsfm) - VGGSfM: Visual Geometry Grounded Deep Structure From Motion
 - [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus) - Focus on prompting and generating
-- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MyShell.
+- [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell.
 - [jle64/gnome-pass-search-provider](https://github.com/jle64/gnome-pass-search-provider) - Pass password manager search provider for gnome-shell
 - [MiniGlome/Tiktok-uploader](https://github.com/MiniGlome/Tiktok-uploader) - Python3 script to upload and schedule TikTok videos
 - [philippj/SteamworksPy](https://github.com/philippj/SteamworksPy) - A working Python API system for Valve's Steamworks.
