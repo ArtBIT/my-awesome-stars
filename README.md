@@ -381,6 +381,7 @@
 
 ## Java 
 
+- [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [symless/synergy-android-7](https://github.com/symless/synergy-android-7) - Synergy for Android client with support for android 7+
 - [grakic/jfreesteel](https://github.com/grakic/jfreesteel) - A native Java library, a Swing GUI application and an applet to read the Serbian eID card, built on javax.smartcardio
@@ -1124,7 +1125,6 @@
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
-- [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [SandroMaglione/infinite-html-canvas](https://github.com/SandroMaglione/infinite-html-canvas) - Infinite HTML &lt;canvas&gt; that can be zoomed and panned using touch on mobile 🤏
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
