@@ -28,6 +28,7 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
+- [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
@@ -438,6 +439,11 @@
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
+
+## chatbot 
+
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 
 ## chatgpt 
 
@@ -881,7 +887,7 @@
 
 ## golang 
 
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 - [dkorunic/e-dnevnik-bot](https://github.com/dkorunic/e-dnevnik-bot) - e-Dnevnik grade/exam alerting system (https://ocjene.skole.hr)
@@ -924,7 +930,7 @@
 ## hacktoberfest 
 
 - [bieniu/ha-shellies-discovery](https://github.com/bieniu/ha-shellies-discovery) - Script that adds MQTT discovery support for Shellies devices
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
@@ -2143,7 +2149,7 @@
 
 ## project-management 
 
-- [mattermost/focalboard](https://github.com/mattermost/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
 ## publishing 
 
