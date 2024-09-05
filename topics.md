@@ -1562,7 +1562,6 @@
 - [vye16/slahmr](https://github.com/vye16/slahmr) - 
 - [mmcc-xx/WhosAtMyFeeder](https://github.com/mmcc-xx/WhosAtMyFeeder) - 
 - [WebReflection/uhooks](https://github.com/WebReflection/uhooks) - micro hooks: a minimalistic client/server hooks' implementation
-- [hacksider/roop-cam](https://github.com/hacksider/roop-cam) - real time face swap and one-click video deepfake with only a single image (Uncensored)
 - [priya-dwivedi/Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning) - 
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [imagiscope/EarthStudioTools](https://github.com/imagiscope/EarthStudioTools) - Blender Panel to import Google Earth Studio, KML Routes, and 3D Masking
