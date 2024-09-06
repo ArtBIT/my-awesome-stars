@@ -880,7 +880,7 @@
 - [mhthies/smarthomeconnect](https://github.com/mhthies/smarthomeconnect) - Python 3 AsyncIO-based home automation and interfacing framework
 - [Bassna/EZ-Image-Effects](https://github.com/Bassna/EZ-Image-Effects) - A simple program to create easy animated effects from an image, and convert them into a set amount of exported frames.
 - [ManglerFTW/ComfyI2I](https://github.com/ManglerFTW/ComfyI2I) - ComfyI2I is a set of custom nodes for ComfyUI that help with image 2 image functions.
-- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+- [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [vye16/slahmr](https://github.com/vye16/slahmr) - 
@@ -889,7 +889,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [imagiscope/EarthStudioTools](https://github.com/imagiscope/EarthStudioTools) - Blender Panel to import Google Earth Studio, KML Routes, and 3D Masking
 - [sopelj/python-ember-mug](https://github.com/sopelj/python-ember-mug) - Python Library to Interact with Ember Mugs
-- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it. Completely separate team and codebase from the AI Web App builder https://gptengineer.app
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
 - [davem2/sfz2bitwig](https://github.com/davem2/sfz2bitwig) - Convert .SFZ files into Bitwig Studio multisample instruments.
