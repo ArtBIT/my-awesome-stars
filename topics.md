@@ -100,6 +100,7 @@
 - [html5](#html5)
 - [http](#http)
 - [image-processing](#image-processing)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -1053,6 +1054,12 @@
 - [wellflat/imageprocessing-labs](https://github.com/wellflat/imageprocessing-labs) - computer vision, image processing and machine learning on the web browser or node.
 - [rendro/vintageJS](https://github.com/rendro/vintageJS) - Add a retro/vintage effect to images using the HTML5 canvas element
 - [ArtBIT/triangulate-image](https://github.com/ArtBIT/triangulate-image) - Image Triangulation
+
+## instagram 
+
+- [peterpeterparker/web-photo-filter](https://github.com/peterpeterparker/web-photo-filter) - A Web Component to apply Instagram-like WebGL filters to photos
+- [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
+- [rendro/vintageJS](https://github.com/rendro/vintageJS) - Add a retro/vintage effect to images using the HTML5 canvas element
 
 ## ios 
 
