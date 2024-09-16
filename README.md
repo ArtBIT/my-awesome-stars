@@ -53,6 +53,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 - [WebAssembly](#webassembly)
 - [Zig](#zig)
 
@@ -744,7 +745,6 @@
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
-- [nikitavoloboev/wiki](https://github.com/nikitavoloboev/wiki) - Everything I know
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) - 
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [kreisklasse/HomeAssistant](https://github.com/kreisklasse/HomeAssistant) - My Home-Assistant SetUp
@@ -1244,6 +1244,10 @@
 - [vim-scripts/marvim](https://github.com/vim-scripts/marvim) - Macro Persistent Storage and Shareable Repository for VIM
 - [hotoo/template.vim](https://github.com/hotoo/template.vim) - Smart load template for Vim.
 - [jdonaldson/vaxe](https://github.com/jdonaldson/vaxe) - A modern, modular vim mode for Haxe.
+
+## Vue 
+
+- [nikitavoloboev/data](https://github.com/nikitavoloboev/data) - All kinds of things
 
 ## WebAssembly 
 
