@@ -147,6 +147,8 @@
 
 ## C++ 
 
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
+- [probonopd/MiniDexed](https://github.com/probonopd/MiniDexed) - Dexed FM synthesizer similar to 8x DX7 (TX816/TX802) running on a bare metal Raspberry Pi (without a Linux kernel or operating system)
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
@@ -255,6 +257,7 @@
 
 ## GDScript 
 
+- [baconandgames/scene-manager-plus-v1.1](https://github.com/baconandgames/scene-manager-plus-v1.1) - New version of SM+. I wanted to keep this separate from the original because I suspect some will appreciate having easy access to both without having to mess with branches or versions. Future updates 
 - [atadenizoktay/godot-click-through-transparent-window](https://github.com/atadenizoktay/godot-click-through-transparent-window) - A demo project for the Godot Engine that features a transparent window with click-through capability.
 - [GitKindoSaurProductionsHub/-OLD-Tournament-Fighter](https://github.com/GitKindoSaurProductionsHub/-OLD-Tournament-Fighter) - Hello everyone, here are the files for the Godot Engine (v3.3) Arcade Tutorial series from my Youtube channel.
 - [Bitlytic/Strategy-GDScript](https://github.com/Bitlytic/Strategy-GDScript) - 
