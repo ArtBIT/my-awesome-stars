@@ -396,7 +396,7 @@
 - [symless/synergy-android-7](https://github.com/symless/synergy-android-7) - Synergy for Android client with support for android 7+
 - [grakic/jfreesteel](https://github.com/grakic/jfreesteel) - A native Java library, a Swing GUI application and an applet to read the Serbian eID card, built on javax.smartcardio
 - [stewsters/shipwright](https://github.com/stewsters/shipwright) - A program to procedurally generate spaceship sprites.
-- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP core project
+- [zaproxy/zaproxy](https://github.com/zaproxy/zaproxy) - The ZAP by Checkmarx Core project
 - [mikelduke/LedTable](https://github.com/mikelduke/LedTable) - Code for my LedTable, an 8x12 rgb led string based table using WS2801 chips and controlled by and Arduino using a RPi for internet connectivity and higher level functionality.
 - [watabou/pixel-dungeon](https://github.com/watabou/pixel-dungeon) - Traditional roguelike game with pixel-art graphics and simple interface
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
