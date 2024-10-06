@@ -855,6 +855,7 @@
 
 ## Python 
 
+- [davidpendergast/pygame-utils](https://github.com/davidpendergast/pygame-utils) - A collection of smaller projects I made using pygame, numpy, and/or OpenGL
 - [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - [CVPR 2024 Highlight] Code for "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
 - [bieniu/ha-shellies-discovery](https://github.com/bieniu/ha-shellies-discovery) - Script that adds MQTT discovery support for Shellies devices
