@@ -1514,6 +1514,7 @@
 
 ## others 
 
+- [Elleo/pied](https://github.com/Elleo/pied) - Pied makes it simple to install and manage text-to-speech Piper voices for use with Speech Dispatcher.
 - [davidpendergast/pygame-utils](https://github.com/davidpendergast/pygame-utils) - A collection of smaller projects I made using pygame, numpy, and/or OpenGL
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
 - [w84death/Tanks-of-Freedom](https://github.com/w84death/Tanks-of-Freedom) - Indie Turn Based Strategy in Isometric Pixel Art
@@ -1529,7 +1530,7 @@
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [BinaryTechLabs/bayesian](https://github.com/BinaryTechLabs/bayesian) - Home Assistant Bayesian Sensor
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
-- [GitKindoSaurProductionsHub/-OLD-Tournament-Fighter](https://github.com/GitKindoSaurProductionsHub/-OLD-Tournament-Fighter) - Hello everyone, here are the files for the Godot Engine (v3.3) Arcade Tutorial series from my Youtube channel.
+- [KindoSaur/-OLD-Tournament-Fighter](https://github.com/KindoSaur/-OLD-Tournament-Fighter) - Hello everyone, here are the files for the Godot Engine (v3.3) Arcade Tutorial series from my Youtube channel.
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [Bitlytic/Strategy-GDScript](https://github.com/Bitlytic/Strategy-GDScript) - 
