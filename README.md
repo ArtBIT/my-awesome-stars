@@ -16,6 +16,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CoffeeScript](#coffeescript)
+- [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
 - [GDScript](#gdscript)
@@ -247,6 +248,10 @@
 - [flosse/scaleApp](https://github.com/flosse/scaleApp) - scaleApp is a JavaScript framework for scalable and maintainable One-Page-Applications
 - [bergie/hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 
+## Dart 
+
+- [Elleo/pied](https://github.com/Elleo/pied) - Pied makes it simple to install and manage text-to-speech Piper voices for use with Speech Dispatcher.
+
 ## Dockerfile 
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
@@ -264,7 +269,7 @@
 - [KOBUGE-Incubator/ringed](https://github.com/KOBUGE-Incubator/ringed) - 2D Topdown Shooter Godot Game
 - [baconandgames/scene-manager-plus-v1.1](https://github.com/baconandgames/scene-manager-plus-v1.1) - New version of SM+. I wanted to keep this separate from the original because I suspect some will appreciate having easy access to both without having to mess with branches or versions. Future updates 
 - [atadenizoktay/godot-click-through-transparent-window](https://github.com/atadenizoktay/godot-click-through-transparent-window) - A demo project for the Godot Engine that features a transparent window with click-through capability.
-- [GitKindoSaurProductionsHub/-OLD-Tournament-Fighter](https://github.com/GitKindoSaurProductionsHub/-OLD-Tournament-Fighter) - Hello everyone, here are the files for the Godot Engine (v3.3) Arcade Tutorial series from my Youtube channel.
+- [KindoSaur/-OLD-Tournament-Fighter](https://github.com/KindoSaur/-OLD-Tournament-Fighter) - Hello everyone, here are the files for the Godot Engine (v3.3) Arcade Tutorial series from my Youtube channel.
 - [Bitlytic/Strategy-GDScript](https://github.com/Bitlytic/Strategy-GDScript) - 
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
