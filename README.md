@@ -908,7 +908,7 @@
 - [sopelj/python-ember-mug](https://github.com/sopelj/python-ember-mug) - Python Library to Interact with Ember Mugs
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
 - [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [davem2/sfz2bitwig](https://github.com/davem2/sfz2bitwig) - Convert .SFZ files into Bitwig Studio multisample instruments.
 - [CiaraStrawberry/TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
 - [pathofleastresistor/activity-manager](https://github.com/pathofleastresistor/activity-manager) - A Home Assistant custom component to manage recurring activities.
@@ -1008,7 +1008,7 @@
 - [thaines/helit](https://github.com/thaines/helit) - My machine learning/computer vision library for all of my recent papers, plus algorithms that I just like.
 - [abnd90/py-cloudapp](https://github.com/abnd90/py-cloudapp) - A drag drop uploader to cloudapp (PyQt)
 - [fzliu/style-transfer](https://github.com/fzliu/style-transfer) - An implementation of "A Neural Algorithm of Artistic Style" by L. Gatys, A. Ecker, and M. Bethge. http://arxiv.org/abs/1508.06576.
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
 - [nexhero/wolframalpha_jasper](https://github.com/nexhero/wolframalpha_jasper) - Using Wolframalpha with Jasper
 - [edouardpoitras/jasper-movies](https://github.com/edouardpoitras/jasper-movies) - Jasper module to retrieve movie information
@@ -1137,6 +1137,7 @@
 
 ## TypeScript 
 
+- [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [hywax/phaser-game-template](https://github.com/hywax/phaser-game-template) - ⚠️ WIP. Template for creating a game on Phaser.js engine
 - [framer/motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
