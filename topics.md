@@ -1830,7 +1830,7 @@
 - [unity3d-jp/FrameCapturer](https://github.com/unity3d-jp/FrameCapturer) - export framebuffer, GBuffer or any RenderTextures from Unity to file. supported format: png, exr, gif, webm, mp4
 - [airbnb/lottie-web](https://github.com/airbnb/lottie-web) - Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
-- [SteamGridDB/steam-rom-manager](https://github.com/SteamGridDB/steam-rom-manager) - An app for managing ROMs in Steam
+- [SteamGridDB/steam-rom-manager](https://github.com/SteamGridDB/steam-rom-manager) - The bulk game importer and artwork manager for Steam!
 - [dashersw/pedalboard.js](https://github.com/dashersw/pedalboard.js) - Open source JavaScript framework for developing audio effects for guitars using the Web Audio API.
 - [denilsonsa/html5-knob](https://github.com/denilsonsa/html5-knob) - A rotary web input component
 - [em/gcanvas](https://github.com/em/gcanvas) - CNC milling with HTML5 canvas
