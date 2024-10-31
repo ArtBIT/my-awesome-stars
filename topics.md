@@ -955,7 +955,6 @@
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
 - [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
-- [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Log and publish your architecture decisions (ADR)
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
@@ -969,7 +968,6 @@
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -1436,7 +1434,6 @@
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 
 ## node 
@@ -1517,6 +1514,10 @@
 
 ## others 
 
+- [daleblackwood/cookpot](https://github.com/daleblackwood/cookpot) - Cookpot is a plugin for Godot that provides essential tools for game prototyping
+- [daleblackwood/spreadjam](https://github.com/daleblackwood/spreadjam) - An OBS-based Game Jam timer and video measurer
+- [daleblackwood/goshapes](https://github.com/daleblackwood/goshapes) - Intuitive path-based level editing for Godot 4
+- [sitamet/gptpo](https://github.com/sitamet/gptpo) - 
 - [Elleo/pied](https://github.com/Elleo/pied) - Pied makes it simple to install and manage text-to-speech Piper voices for use with Speech Dispatcher.
 - [davidpendergast/pygame-utils](https://github.com/davidpendergast/pygame-utils) - A collection of smaller projects I made using pygame, numpy, and/or OpenGL
 - [mbrlabs/Lorien](https://github.com/mbrlabs/Lorien) - Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.
@@ -2589,6 +2590,7 @@
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [reduxjs/redux-templates](https://github.com/reduxjs/redux-templates) - Official Redux templates for Vite, Create-React-App, and more
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
