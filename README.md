@@ -833,7 +833,7 @@
 - [espeecat/brightonphpfftd3js2013](https://github.com/espeecat/brightonphpfftd3js2013) - Google analytics data and d3.js code for Brighton PHP October 2013 (http://brightonphp.org/) meetup.
 - [googleapis/google-api-php-client](https://github.com/googleapis/google-api-php-client) - A PHP client library for accessing Google APIs
 - [fmalk/codeigniter-phpunit](https://github.com/fmalk/codeigniter-phpunit) - Hack to make CodeIgniter work with PHPUnit.
-- [thorsten/phpMyFAQ](https://github.com/thorsten/phpMyFAQ) - phpMyFAQ - Open Source FAQ web application for PHP 8.1+ and MySQL, PostgreSQL and other databases
+- [thorsten/phpMyFAQ](https://github.com/thorsten/phpMyFAQ) - phpMyFAQ - Open Source FAQ web application for PHP 8.2+ and MySQL, PostgreSQL and other databases
 - [xcejalepax/Vaga](https://github.com/xcejalepax/Vaga) - Keep track of your body weight
 - [jonlabelle/ci-markdown](https://github.com/jonlabelle/ci-markdown) - CI Markdown is a CodeIgniter library for parsing Markdown to HTML.
 - [expressodev/ci-merchant](https://github.com/expressodev/ci-merchant) - An open source payment processing library for CodeIgniter
