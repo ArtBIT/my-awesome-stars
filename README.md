@@ -895,7 +895,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
 - [MarkelZ/pygame-render](https://github.com/MarkelZ/pygame-render) - Python package for rendering textures with shaders using pygame.
-- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
+- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and actions in your config files
 - [zju3dv/EasyMocap](https://github.com/zju3dv/EasyMocap) - Make human motion capture easier.
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
