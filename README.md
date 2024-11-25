@@ -425,7 +425,7 @@
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [WebReflection/uland](https://github.com/WebReflection/uland) - A µhtml take at neverland
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [Rezmason/drivey](https://github.com/Rezmason/drivey) - An ECMAScript port of the graphics demo "Drivey"
 - [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
