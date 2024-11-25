@@ -321,7 +321,7 @@
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
 - [muesli/beehive](https://github.com/muesli/beehive) - A flexible event/agent & automation system with lots of bees 🐝
 - [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
-- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
+- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and actions in your config files
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [thejeffreystone/home-assistant-configuration](https://github.com/thejeffreystone/home-assistant-configuration) - My Old Home Assistant Config. For more Information visit -&gt;
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -792,7 +792,7 @@
 - [hywax/phaser-game-template](https://github.com/hywax/phaser-game-template) - ⚠️ WIP. Template for creating a game on Phaser.js engine
 - [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!
 - [honzaap/SlashSaber](https://github.com/honzaap/SlashSaber) - An endless slashing game made with three.js and Vue
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [dgkanatsios/AngryBirdsStyleGame](https://github.com/dgkanatsios/AngryBirdsStyleGame) - Angry Birds style game in Unity
 - [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [surjikal/component-game-objects](https://github.com/surjikal/component-game-objects) - Component-based game object system experiments
@@ -809,7 +809,7 @@
 - [Ark2000/PankuConsole](https://github.com/Ark2000/PankuConsole) - Feature-packed real-time debugging toolkit for Godot Engine.
 - [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
 - [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [BdR76/GimpSpriteAtlas](https://github.com/BdR76/GimpSpriteAtlas) - GIMP plug-in to create a spriteatlas (aka spritetexture or spritesheet). Takes all layers as images and compiles them into one sprite atlas texture, using a 2D packing algorithm so that the final text
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -822,7 +822,7 @@
 
 ## game-engine 
 
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 - [luxeengine/alpha](https://github.com/luxeengine/alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
@@ -839,7 +839,7 @@
 - [Ark2000/PankuConsole](https://github.com/Ark2000/PankuConsole) - Feature-packed real-time debugging toolkit for Godot Engine.
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
 - [pygame-community/pygame-ce](https://github.com/pygame-community/pygame-ce) - 🐍🎮 pygame - Community Edition is a FOSS Python library for multimedia applications (like games). Built on top of the excellent SDL library.
-- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Functional, minimal, data-oriented, ultra-high performance ECS library written in JavaScript
+- [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [Coac/wave-function-collapse](https://github.com/Coac/wave-function-collapse) - Wave function collapse python implementation
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
@@ -1007,7 +1007,7 @@
 - [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
 - [sopelj/hass-ember-mug-component](https://github.com/sopelj/hass-ember-mug-component) - Ember Mug Integration for Home Assistant
 - [frenck/home-assistant-config](https://github.com/frenck/home-assistant-config) - :house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!
-- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and services in your config files
+- [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and actions in your config files
 - [AlexxIT/WebRTC](https://github.com/AlexxIT/WebRTC) - Home Assistant custom component for real-time viewing of almost any camera stream using WebRTC and other technologies.
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
 - [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
