@@ -1100,7 +1100,7 @@
 
 ## javascript 
 
-- [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Frontend for Gramps Web
+- [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Online Genealogy System
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
 - [manishbisht/Competitive-Programming](https://github.com/manishbisht/Competitive-Programming) - :pushpin: :books: Solution of competitive programming problems, code templates, Data Structures and Algorithms, hackathons, interviews and much more.
@@ -2711,7 +2711,7 @@
 
 ## web-components 
 
-- [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Frontend for Gramps Web
+- [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Online Genealogy System
 
 ## web-development 
 
