@@ -453,6 +453,7 @@
 
 ## chatgpt 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
@@ -774,6 +775,7 @@
 ## framework 
 
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [pyrocms/pyrocms](https://github.com/pyrocms/pyrocms) - Pyro is an experienced and powerful Laravel PHP CMS.
 - [flosse/scaleApp](https://github.com/flosse/scaleApp) - scaleApp is a JavaScript framework for scalable and maintainable One-Page-Applications
 
@@ -879,6 +881,7 @@
 
 ## go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -908,6 +911,7 @@
 
 ## golang 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -1100,6 +1104,7 @@
 
 ## javascript 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Online Genealogy System
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
@@ -1298,6 +1303,7 @@
 
 ## llm 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
@@ -1446,6 +1452,7 @@
 
 ## nodejs 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
@@ -1519,6 +1526,8 @@
 
 ## others 
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
+- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
 - [askui/vision-agent](https://github.com/askui/vision-agent) - Automate computer tasks in Python
 - [daleblackwood/cookpot](https://github.com/daleblackwood/cookpot) - Cookpot is a plugin for Godot that provides essential tools for game prototyping
 - [daleblackwood/spreadjam](https://github.com/daleblackwood/spreadjam) - An OBS-based Game Jam timer and video measurer
@@ -2216,6 +2225,7 @@
 
 ## python 
 
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
 - [bieniu/ha-shellies-discovery](https://github.com/bieniu/ha-shellies-discovery) - Script that adds MQTT discovery support for Shellies devices
 - [philippj/SteamworksPy](https://github.com/philippj/SteamworksPy) - A working Python API system for Valve's Steamworks.
