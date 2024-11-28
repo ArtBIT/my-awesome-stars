@@ -296,6 +296,8 @@
 
 ## Go 
 
+- [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [bashbunni/OnlyChars](https://github.com/bashbunni/OnlyChars) - A TUI that lets you swipe right or left on ASCII art
@@ -866,6 +868,8 @@
 
 ## Python 
 
+- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
+- [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [askui/vision-agent](https://github.com/askui/vision-agent) - Automate computer tasks in Python
 - [davidpendergast/pygame-utils](https://github.com/davidpendergast/pygame-utils) - A collection of smaller projects I made using pygame, numpy, and/or OpenGL
 - [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - [CVPR 2024 Highlight] Code for "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"
