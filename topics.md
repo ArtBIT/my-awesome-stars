@@ -1274,6 +1274,7 @@
 
 ## linux 
 
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
@@ -1526,6 +1527,7 @@
 
 ## others 
 
+- [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
 - [askui/vision-agent](https://github.com/askui/vision-agent) - Automate computer tasks in Python
@@ -2294,6 +2296,7 @@
 
 ## qt 
 
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
 - [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
@@ -2742,6 +2745,7 @@
 
 ## windows 
 
+- [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [feschber/lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
