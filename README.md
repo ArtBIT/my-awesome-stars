@@ -417,7 +417,7 @@
 ## JavaScript 
 
 - [sitamet/gptpo](https://github.com/sitamet/gptpo) - 
-- [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Online Genealogy System
+- [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - JSON-Schema is used here to define and validate our proposed resume json
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
