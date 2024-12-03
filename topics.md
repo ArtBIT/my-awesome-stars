@@ -1527,6 +1527,7 @@
 
 ## others 
 
+- [BreezeWhite/oemer](https://github.com/BreezeWhite/oemer) - End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.
 - [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
