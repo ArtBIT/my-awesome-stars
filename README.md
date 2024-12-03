@@ -416,6 +416,7 @@
 
 ## JavaScript 
 
+- [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [sitamet/gptpo](https://github.com/sitamet/gptpo) - 
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
@@ -695,6 +696,7 @@
 
 ## Jupyter Notebook 
 
+- [BreezeWhite/oemer](https://github.com/BreezeWhite/oemer) - End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.
 - [priya-dwivedi/Deep-Learning](https://github.com/priya-dwivedi/Deep-Learning) - 
 - [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 - [dhruvpandey662/Emotion-detection](https://github.com/dhruvpandey662/Emotion-detection) - 
@@ -1149,7 +1151,6 @@
 
 ## TypeScript 
 
-- [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
