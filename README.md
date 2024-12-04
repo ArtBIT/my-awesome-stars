@@ -871,6 +871,7 @@
 
 ## Python 
 
+- [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [askui/vision-agent](https://github.com/askui/vision-agent) - Automate computer tasks in Python
