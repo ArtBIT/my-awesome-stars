@@ -473,6 +473,7 @@
 
 ## cli 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [spirometaxas/periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console
@@ -2064,7 +2065,7 @@
 - [veltman/clmystery](https://github.com/veltman/clmystery) - A command-line murder mystery
 - [lmacken/photobooth.py](https://github.com/lmacken/photobooth.py) - A photobooth script that automatically snaps a photo, applies a watermark, uploads to a remote server, generates a QRCode, shortens the URL, ouputs an HTML template, and displays it your web browser.
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
+- [php-debugbar/php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP
 - [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
 - [martinwells/objects.js](https://github.com/martinwells/objects.js) - Core class tools and object pooling for high-performance gaming in Javascript
 - [bergie/hallo](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
@@ -2427,6 +2428,7 @@
 
 ## rust 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -2574,6 +2576,7 @@
 
 ## terminal 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [spirometaxas/periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
