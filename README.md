@@ -851,7 +851,7 @@
 - [StereoFlo/Pyrocms-news](https://github.com/StereoFlo/Pyrocms-news) - Pyrocms news module created from old module
 - [jamierumbelow/sherlock](https://github.com/jamierumbelow/sherlock) - Asset pipelining so simple, it's elementary
 - [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-- [maximebf/php-debugbar](https://github.com/maximebf/php-debugbar) - Debug bar for PHP
+- [php-debugbar/php-debugbar](https://github.com/php-debugbar/php-debugbar) - Debug bar for PHP
 - [thephpleague/omnipay](https://github.com/thephpleague/omnipay) - A framework agnostic, multi-gateway payment processing library for PHP 5.6+
 - [tcpdf-clone/tcpdf](https://github.com/tcpdf-clone/tcpdf) - A simple clone of the TCPDF SourceForge repository
 - [ericlbarnes/CodeIgniter-Events](https://github.com/ericlbarnes/CodeIgniter-Events) - Events library to build extendible applications
@@ -1055,6 +1055,7 @@
 
 ## Rust 
 
+- [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
