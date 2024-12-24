@@ -1532,6 +1532,7 @@
 
 ## others 
 
+- [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [LinuxCNC/linuxcnc](https://github.com/LinuxCNC/linuxcnc) - LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
 - [tlight9/jet](https://github.com/tlight9/jet) - Custom GUI for LinuxCNC
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to execute 
