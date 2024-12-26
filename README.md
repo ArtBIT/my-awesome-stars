@@ -872,6 +872,7 @@
 
 ## Python 
 
+- [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [LinuxCNC/linuxcnc](https://github.com/LinuxCNC/linuxcnc) - LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
 - [tlight9/jet](https://github.com/tlight9/jet) - Custom GUI for LinuxCNC
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation".
