@@ -418,6 +418,7 @@
 
 ## JavaScript 
 
+- [konato-debug/pokemon-phaser](https://github.com/konato-debug/pokemon-phaser) - A simple Pokemon-Inspired game created with Phaser 3.
 - [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [sitamet/gptpo](https://github.com/sitamet/gptpo) - 
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
