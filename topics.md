@@ -927,7 +927,7 @@
 
 ## good-first-issue 
 
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical frontend for incremental backups using rsync, with a command-line version also available. Modified files are transferred, while unchanged files are linked
 
 ## google 
 
@@ -1303,7 +1303,7 @@
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [AppImage/AppImageKit](https://github.com/AppImage/AppImageKit) - Package desktop applications as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, openSUSE, SLED, Ubuntu, Fedora, debian and derivatives. Join #AppImage on irc.libera.c
 - [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical frontend for incremental backups using rsync, with a command-line version also available. Modified files are transferred, while unchanged files are linked
 - [scanmem/scanmem](https://github.com/scanmem/scanmem) - memory scanner for Linux
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
@@ -2285,7 +2285,7 @@
 - [Melissa-AI/Melissa-Core](https://github.com/Melissa-AI/Melissa-Core) - A lovely virtual assistant for OS X, Windows and Linux systems.
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical frontend for incremental backups using rsync, with a command-line version also available. Modified files are transferred, while unchanged files are linked
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 
@@ -2315,7 +2315,7 @@
 - [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [zealdocs/zeal](https://github.com/zealdocs/zeal) - Offline documentation browser inspired by Dash
-- [bit-team/backintime](https://github.com/bit-team/backintime) - Back In Time - An easy-to-use backup tool for GNU/Linux using rsync in the back
+- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical frontend for incremental backups using rsync, with a command-line version also available. Modified files are transferred, while unchanged files are linked
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 
 ## quantitative-finance 
