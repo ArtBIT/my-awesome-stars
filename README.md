@@ -1035,7 +1035,7 @@
 - [thaines/helit](https://github.com/thaines/helit) - My machine learning/computer vision library for all of my recent papers, plus algorithms that I just like.
 - [abnd90/py-cloudapp](https://github.com/abnd90/py-cloudapp) - A drag drop uploader to cloudapp (PyQt)
 - [fzliu/style-transfer](https://github.com/fzliu/style-transfer) - An implementation of "A Neural Algorithm of Artistic Style" by L. Gatys, A. Ecker, and M. Bethge. http://arxiv.org/abs/1508.06576.
-- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical frontend for incremental backups using rsync, with a command-line version also available. Modified files are transferred, while unchanged files are linked
+- [bit-team/backintime](https://github.com/bit-team/backintime) - A comfortable and well-configurable graphical Frontend for incremental backups, with a command-line version also available. Modified files are transferred, while unchanged files are linked to the new 
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
 - [nexhero/wolframalpha_jasper](https://github.com/nexhero/wolframalpha_jasper) - Using Wolframalpha with Jasper
 - [edouardpoitras/jasper-movies](https://github.com/edouardpoitras/jasper-movies) - Jasper module to retrieve movie information
