@@ -82,6 +82,7 @@
 
 ## C 
 
+- [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! See stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
@@ -158,7 +159,7 @@
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
-- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For the Windows, Linux, and Mac platforms.
+- [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.
 - [appsinacup/godot-box2d](https://github.com/appsinacup/godot-box2d) - Godot Box2D – C++ Godot Extension that integrates the Box2D physics engine.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
@@ -299,6 +300,7 @@
 
 ## Go 
 
+- [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -877,6 +879,7 @@
 
 ## Python 
 
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [LinuxCNC/linuxcnc](https://github.com/LinuxCNC/linuxcnc) - LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
