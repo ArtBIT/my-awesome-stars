@@ -82,7 +82,7 @@
 
 ## C 
 
-- [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! See stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
+- [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [OnionUI/Onion](https://github.com/OnionUI/Onion) - OS overhaul for Miyoo Mini and Mini+
@@ -1262,6 +1262,7 @@
 
 ## Vim Script 
 
+- [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
