@@ -382,7 +382,7 @@
 - [lewislepton/kha-tutorial-series](https://github.com/lewislepton/kha-tutorial-series) - source code from kha tutorial series
 - [loudoweb/SpriterHaxeEngine](https://github.com/loudoweb/SpriterHaxeEngine) - Engine to use Brashmonkey's Spriter SCML for haxe.
 - [HaxeFlixel/flixel-addons](https://github.com/HaxeFlixel/flixel-addons) - Additional classes for HaxeFlixel
-- [luxeengine/alpha](https://github.com/luxeengine/alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
+- [snowkit/old-haxe-alpha](https://github.com/snowkit/old-haxe-alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
 - [snowkit/differ](https://github.com/snowkit/differ) - A separation axis theorem collision library for Haxe.
 - [snowkit/gif](https://github.com/snowkit/gif) - Haxe GIF encoder, implementing the NeuQuant and LZW encoding algorithms
 - [hamaluik/LuxeSightLights](https://github.com/hamaluik/LuxeSightLights) - Luxe implementation of Sight & Light by the wonderfully talented Nicky Case
