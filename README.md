@@ -422,6 +422,7 @@
 
 ## JavaScript 
 
+- [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [konato-debug/pokemon-phaser](https://github.com/konato-debug/pokemon-phaser) - A simple Pokemon-Inspired game created with Phaser 3.
 - [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [sitamet/gptpo](https://github.com/sitamet/gptpo) - 
