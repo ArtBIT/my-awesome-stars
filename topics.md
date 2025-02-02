@@ -69,6 +69,7 @@
 - [es6](#es6)
 - [eslint](#eslint)
 - [express](#express)
+- [facebook](#facebook)
 - [finance](#finance)
 - [firebase](#firebase)
 - [firefox](#firefox)
@@ -757,6 +758,11 @@
 
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
+
+## facebook 
+
+- [manishbisht/Competitive-Programming](https://github.com/manishbisht/Competitive-Programming) - :pushpin: :books: Solution of competitive programming problems, code templates, Data Structures and Algorithms, hackathons, interviews and much more.
+- [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 
 ## finance 
 
@@ -1538,6 +1544,7 @@
 
 ## others 
 
+- [qcasey/ulauncher-homeassistant](https://github.com/qcasey/ulauncher-homeassistant) - A Ulauncher extension to view and control devices in your HomeAssistant instance.
 - [img-paste-devs/img-paste.vim](https://github.com/img-paste-devs/img-paste.vim) - paste image to markdown
 - [forgani/Gas-Meter](https://github.com/forgani/Gas-Meter) - Gas Meter with reed switch and ESP8266 using Light Sleep and Blynk
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
@@ -2249,6 +2256,7 @@
 
 ## python 
 
+- [tchar/ulauncher-albert-calculate-anything](https://github.com/tchar/ulauncher-albert-calculate-anything) - A ULauncher/Albert extension that supports currency, units and date time conversion, as well as a calculator that supports complex numbers and functions.
 - [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
@@ -2299,6 +2307,7 @@
 
 ## python3 
 
+- [tchar/ulauncher-albert-calculate-anything](https://github.com/tchar/ulauncher-albert-calculate-anything) - A ULauncher/Albert extension that supports currency, units and date time conversion, as well as a calculator that supports complex numbers and functions.
 - [IndiePython/nodezator](https://github.com/IndiePython/nodezator) - A generalist Python node editor
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
 - [mhthies/smarthomeconnect](https://github.com/mhthies/smarthomeconnect) - Python 3 AsyncIO-based home automation and interfacing framework
@@ -2348,6 +2357,7 @@
 
 ## react 
 
+- [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
