@@ -1175,6 +1175,7 @@
 
 ## TypeScript 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
