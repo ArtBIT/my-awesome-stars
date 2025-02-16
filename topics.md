@@ -711,7 +711,7 @@
 ## education 
 
 - [sonic-pi-net/sonic-pi](https://github.com/sonic-pi-net/sonic-pi) - Code. Music. Live.
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [iiab/iiab](https://github.com/iiab/iiab) - Internet-in-a-Box - Build your own LIBRARY OF ALEXANDRIA with a Raspberry Pi !
 
 ## electron 
@@ -741,7 +741,7 @@
 
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [ruanyl/vim-sort-imports](https://github.com/ruanyl/vim-sort-imports) - vim port of import-sort. Sort javascript/typescript imports
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 - [Badacadabra/JavaScript-Design-Patterns](https://github.com/Badacadabra/JavaScript-Design-Patterns) - :paperclip: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
@@ -1159,7 +1159,7 @@
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [fnky/particle-life](https://github.com/fnky/particle-life) - Game of life with particles
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [javascript-tutorial/en.javascript.info](https://github.com/javascript-tutorial/en.javascript.info) - Modern JavaScript Tutorial
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -1377,6 +1377,7 @@
 
 ## markdown 
 
+- [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning & syncing, Pandoc conversion, + more, in a single portable script.
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
@@ -2238,7 +2239,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 
 ## project-management 
 
@@ -2663,6 +2664,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [daybrush/scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
+- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
 - [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
