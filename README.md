@@ -327,6 +327,7 @@
 
 ## HTML 
 
+- [mianmar11/Monsters-Mini-Jam-](https://github.com/mianmar11/Monsters-Mini-Jam-) - 
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
 - [immersive-web/webxr-samples](https://github.com/immersive-web/webxr-samples) - Samples to demonstrate use of the WebXR Device API
 - [codrops/GooeyCursor](https://github.com/codrops/GooeyCursor) - A gooey cursor background effect with SVG filters and CSS blend modes.
@@ -738,7 +739,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/docs](https://github.com/nikitavoloboev/docs) - 
+- [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
 
 ## Markdown 
 
@@ -883,6 +884,7 @@
 
 ## Python 
 
+- [ad-ha/kidschores-ha](https://github.com/ad-ha/kidschores-ha) - KidsChores Custom Integration for Home Assistant
 - [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing (Vol.147 Jul. '24)] Interactive Natural Image Matting with Segment Anything Models
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [tchar/ulauncher-albert-calculate-anything](https://github.com/tchar/ulauncher-albert-calculate-anything) - A ULauncher/Albert extension that supports currency, units and date time conversion, as well as a calculator that supports complex numbers and functions.
