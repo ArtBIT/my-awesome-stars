@@ -506,7 +506,6 @@
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
 - [wayou/t-rex-runner](https://github.com/wayou/t-rex-runner) - the t-rex runner game extracted from chromium
 - [oframe/ogl](https://github.com/oframe/ogl) - Minimal WebGL Library
-- [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [jeromeetienne/threex.webar](https://github.com/jeromeetienne/threex.webar) - three.js extensions for Augmented Reality
 - [localtunnel/localtunnel](https://github.com/localtunnel/localtunnel) - expose yourself
 - [localtunnel/server](https://github.com/localtunnel/server) - server for localtunnel.me
@@ -1183,7 +1182,7 @@
 
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - The knowledge tinkerer's notebook
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Continue is the leading open-source AI code assistant. You can connect any models and any context to build custom autocomplete and chat experiences inside VS Code and JetBrains
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [hywax/phaser-game-template](https://github.com/hywax/phaser-game-template) - ⚠️ WIP. Template for creating a game on Phaser.js engine
@@ -1254,6 +1253,7 @@
 - [GoogleChrome/rendertron](https://github.com/GoogleChrome/rendertron) - A Headless Chrome rendering solution
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) - A WebGL accelerated JavaScript library for training and deploying ML models.
 - [googleworkspace/md2googleslides](https://github.com/googleworkspace/md2googleslides) - Generate Google Slides from markdown
+- [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
