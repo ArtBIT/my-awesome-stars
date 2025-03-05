@@ -1684,7 +1684,7 @@
 - [motion-twin/WebGamesArchives](https://github.com/motion-twin/WebGamesArchives) - 
 - [blueturtleai/gimp-stable-diffusion](https://github.com/blueturtleai/gimp-stable-diffusion) - 
 - [Shopify/tracky](https://github.com/Shopify/tracky) - The easiest way to do motion tracking!
-- [jfedor2/hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
+- [jfedor2/hid-remapper](https://github.com/jfedor2/hid-remapper) - Programmable adapter for USB input devices
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [viraptor/reverse-interview](https://github.com/viraptor/reverse-interview) - Questions to ask the company during your interview
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
