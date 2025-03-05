@@ -453,7 +453,7 @@
 - [000miix/DailyGrapher](https://github.com/000miix/DailyGrapher) - A Hacs Custom Card that shows a calendar on a clock
 - [steffest/DPaint-js](https://github.com/steffest/DPaint-js) - Webbased image editor, modeled after the legendary Deluxe Paint with a focus on retro Amiga file formats: read and write Amiga icon files and IFF ILBM images
 - [cocktailpeanut/breadboard](https://github.com/cocktailpeanut/breadboard) - Stable Diffusion Browser for Windows, Mac, and Linux
-- [jfedor2/hid-remapper](https://github.com/jfedor2/hid-remapper) - USB input remapping dongle
+- [jfedor2/hid-remapper](https://github.com/jfedor2/hid-remapper) - Programmable adapter for USB input devices
 - [ircam-ismm/node-web-audio-api](https://github.com/ircam-ismm/node-web-audio-api) - Web Audio API implementation for Node.js
 - [pcottle/learnGitBranching](https://github.com/pcottle/learnGitBranching) - An interactive git visualization and tutorial. Aspiring students of git can use this app to educate and challenge themselves towards mastery of git!
 - [muratcorlu/connect-api-mocker](https://github.com/muratcorlu/connect-api-mocker) - Connect middleware that creates mocks for REST APIs
