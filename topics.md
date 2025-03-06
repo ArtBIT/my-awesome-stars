@@ -1028,6 +1028,7 @@
 
 ## home-assistant 
 
+- [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota) - Toyota Connected Services integration for Home Assistant.
 - [bieniu/ha-shellies-discovery](https://github.com/bieniu/ha-shellies-discovery) - Script that adds MQTT discovery support for Shellies devices
 - [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
 - [sopelj/hass-ember-mug-component](https://github.com/sopelj/hass-ember-mug-component) - Ember Mug Integration for Home Assistant
