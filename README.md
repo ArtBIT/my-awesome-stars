@@ -884,6 +884,7 @@
 
 ## Python 
 
+- [SensorsIot/SuperPower](https://github.com/SensorsIot/SuperPower) - Here you should find the best power supplies for your low-power projects
 - [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota) - Toyota Connected Services integration for Home Assistant.
 - [ad-ha/kidschores-ha](https://github.com/ad-ha/kidschores-ha) - KidsChores Custom Integration for Home Assistant
 - [hustvl/Matte-Anything](https://github.com/hustvl/Matte-Anything) - [Image and Vision Computing (Vol.147 Jul. '24)] Interactive Natural Image Matting with Segment Anything Models
