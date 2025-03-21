@@ -770,6 +770,7 @@
 
 ## Others 
 
+- [md-sawrab/Statistics-Book-Collections](https://github.com/md-sawrab/Statistics-Book-Collections) - This repository offers a collection of books to enhance your knowledge and skills in statistics.
 - [cessen/camera_shakify](https://github.com/cessen/camera_shakify) - Please see: https://github.com/EatTheFuture/camera_shakify
 - [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - 70 splash screens and logos for use in Godot
 - [BinaryTechLabs/bayesian](https://github.com/BinaryTechLabs/bayesian) - Home Assistant Bayesian Sensor
