@@ -1305,7 +1305,6 @@
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [pgilad/vim-skeletons](https://github.com/pgilad/vim-skeletons) - Quickly scaffold template files in your favorite editor using UltiSnips templates
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
-- [postmodern/dotfiles](https://github.com/postmodern/dotfiles) - Development Environment Configuration
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
