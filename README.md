@@ -886,6 +886,7 @@
 
 ## Python 
 
+- [098765d/AI_Tutor](https://github.com/098765d/AI_Tutor) - AI-Tutor: LLM and RAG-Enhanced AI Tutoring for Various Courses
 - [SensorsIot/SuperPower](https://github.com/SensorsIot/SuperPower) - Here you should find the best power supplies for your low-power projects
 - [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota) - Toyota Connected Services integration for Home Assistant.
 - [ad-ha/kidschores-ha](https://github.com/ad-ha/kidschores-ha) - KidsChores Custom Integration for Home Assistant
