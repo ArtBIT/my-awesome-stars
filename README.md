@@ -83,6 +83,7 @@
 
 ## C 
 
+- [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [danjulio/tCamMiniAnalog](https://github.com/danjulio/tCamMiniAnalog) - Alternative firmware generating NTSC or PAL Analog video output on tCam-Mini hardware
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [vysheng/tg](https://github.com/vysheng/tg) - telegram-cli
@@ -287,7 +288,7 @@
 - [RPicster/Godot-Collected-Thingies](https://github.com/RPicster/Godot-Collected-Thingies) - 
 - [dueddel/godot-3d-ui-demo](https://github.com/dueddel/godot-3d-ui-demo) - Sample setup for 3D based UI in Godot
 - [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
-- [BenjaTK/Gaea](https://github.com/BenjaTK/Gaea) - Procedural generation add-on for Godot 4.
+- [gaea-godot/gaea](https://github.com/gaea-godot/gaea) - Procedural generation add-on for Godot 4.
 - [matterda/godot-destructible-terrain](https://github.com/matterda/godot-destructible-terrain) - Destructible terrain for the Godot engine
 - [jontopielski/sprite-stacking-tutorial](https://github.com/jontopielski/sprite-stacking-tutorial) - 
 - [RPicster/Godot-particle-and-vfx-textures](https://github.com/RPicster/Godot-particle-and-vfx-textures) - A collection of textures I created to be used for lensflares, lights, particles and visual effects.
@@ -885,6 +886,7 @@
 
 ## Python 
 
+- [smthemex/ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic) - Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',you can use it in comfyUI
 - [098765d/AI_Tutor](https://github.com/098765d/AI_Tutor) - AI-Tutor: LLM and RAG-Enhanced AI Tutoring for Various Courses
 - [SensorsIot/SuperPower](https://github.com/SensorsIot/SuperPower) - Here you should find the best power supplies for your low-power projects
 - [DurgNomis-drol/ha_toyota](https://github.com/DurgNomis-drol/ha_toyota) - Toyota Connected Services integration for Home Assistant.
