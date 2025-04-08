@@ -219,7 +219,7 @@
 
 ## 3d 
 
-- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).
+- [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [honzaap/SlashSaber](https://github.com/honzaap/SlashSaber) - An endless slashing game made with three.js and Vue
 - [allenai/objaverse-rendering](https://github.com/allenai/objaverse-rendering) - 📷 Scripts for rendering Objaverse
