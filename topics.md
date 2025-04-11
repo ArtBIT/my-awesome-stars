@@ -54,6 +54,7 @@
 - [deno](#deno)
 - [deployment](#deployment)
 - [design](#design)
+- [development](#development)
 - [devops](#devops)
 - [django](#django)
 - [docker](#docker)
@@ -669,6 +670,12 @@
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
+
+## development 
+
+- [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
+- [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 
 ## devops 
 
@@ -1557,6 +1564,7 @@
 
 ## others 
 
+- [bytedance/UNO](https://github.com/bytedance/UNO) - 🔥🔥  UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning
 - [Ranguel/Reencor](https://github.com/Ranguel/Reencor) - 
 - [Kiri-Innovation/3dgs-render-blender-addon](https://github.com/Kiri-Innovation/3dgs-render-blender-addon) - 3DGS Render by KIRI Engine
 - [smthemex/ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic) - Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',you can use it in comfyUI
@@ -2469,6 +2477,7 @@
 
 ## rest-api 
 
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 
 ## reverse-engineering 
