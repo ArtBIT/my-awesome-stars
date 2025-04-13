@@ -306,7 +306,7 @@
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [itchio/butler](https://github.com/itchio/butler) - 🎩 Command-line itch.io helper
@@ -770,6 +770,7 @@
 
 ## Others 
 
+- [MarzEnt87/ComfyUI-Workflows](https://github.com/MarzEnt87/ComfyUI-Workflows) - Just a series of workflows I
 - [md-sawrab/Statistics-Book-Collections](https://github.com/md-sawrab/Statistics-Book-Collections) - This repository offers a collection of books to enhance your knowledge and skills in statistics.
 - [cessen/camera_shakify](https://github.com/cessen/camera_shakify) - Please see: https://github.com/EatTheFuture/camera_shakify
 - [KenneyNL/Godot-SplashScreens](https://github.com/KenneyNL/Godot-SplashScreens) - 70 splash screens and logos for use in Godot
