@@ -351,6 +351,7 @@
 - [Munawwar/flex-helper](https://github.com/Munawwar/flex-helper) - CSS3 flexbox helper classes
 - [sanojian/cellauto](https://github.com/sanojian/cellauto) - Cellular Automata in Javascript
 - [chantastic/reactpatterns](https://github.com/chantastic/reactpatterns) - Patterns for React Developers
+- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xem/raycasting-experiments](https://github.com/xem/raycasting-experiments) - 
 - [denilsonsa/html5-knob](https://github.com/denilsonsa/html5-knob) - A rotary web input component
@@ -740,7 +741,6 @@
 ## MDX 
 
 - [nikitavoloboev/nikiv.dev](https://github.com/nikitavoloboev/nikiv.dev) - Personal website, docs
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 
 ## Markdown 
 
