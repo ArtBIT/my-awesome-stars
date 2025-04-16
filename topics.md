@@ -202,6 +202,7 @@
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
+- [ui-design](#ui-design)
 - [unity](#unity)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -2743,6 +2744,10 @@
 
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
 - [sshkarupa/url-handlers](https://github.com/sshkarupa/url-handlers) - 
+
+## ui-design 
+
+- [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 
 ## unity 
 
