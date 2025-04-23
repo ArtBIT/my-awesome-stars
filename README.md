@@ -330,6 +330,7 @@
 
 ## HTML 
 
+- [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [mianmar11/Monsters-Mini-Jam-](https://github.com/mianmar11/Monsters-Mini-Jam-) - 
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
 - [immersive-web/webxr-samples](https://github.com/immersive-web/webxr-samples) - Samples to demonstrate use of the WebXR Device API
