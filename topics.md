@@ -1567,6 +1567,9 @@
 
 ## others 
 
+- [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
+- [ArtBIT/xgroups](https://github.com/ArtBIT/xgroups) - Allows adding x.com users to groups, storing in localStorage, and displaying group tags below avatar
+- [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [MarzEnt87/ComfyUI-Workflows](https://github.com/MarzEnt87/ComfyUI-Workflows) - Just a series of workflows I
 - [bytedance/UNO](https://github.com/bytedance/UNO) - 🔥🔥  UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning
 - [Ranguel/Reencor](https://github.com/Ranguel/Reencor) - 
