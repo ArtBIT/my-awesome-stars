@@ -931,7 +931,7 @@
 - [PrathamMehta08/GazeControl](https://github.com/PrathamMehta08/GazeControl) - GazeControl is a Python-based project that utilizes computer vision to enable gaze-controlled interaction
 - [kamilburda/gimp-export-layers](https://github.com/kamilburda/gimp-export-layers) - Batch layer export and editing for GIMP 2.8/2.10
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
-- [Notenlish/pygame_ecs](https://github.com/Notenlish/pygame_ecs) - An simple ECS library built for pygame
+- [Notenlish/pygame_ecs](https://github.com/Notenlish/pygame_ecs) - a simple ECS library built for pygame
 - [StanislavPetrovV/SpriteStacking](https://github.com/StanislavPetrovV/SpriteStacking) - Sprite Stacking Graphics Engine with Python and Pygame
 - [Hillobar/Rope](https://github.com/Hillobar/Rope) - GUI-focused roop
 - [spirometaxas/periodic-table-cli-py](https://github.com/spirometaxas/periodic-table-cli-py) - An interactive Periodic Table of Elements app for the console
