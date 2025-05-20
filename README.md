@@ -356,6 +356,7 @@
 - [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 - [xem/raycasting-experiments](https://github.com/xem/raycasting-experiments) - 
 - [denilsonsa/html5-knob](https://github.com/denilsonsa/html5-knob) - A rotary web input component
+- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [jed/140bytes](https://github.com/jed/140bytes) - Once a tweet-sized, fork-to-play, community-curated collection of JavaScript.
 - [ml4a/ml4a.github.io](https://github.com/ml4a/ml4a.github.io) - machine learning for artists
 - [fiebrink1/wekinator](https://github.com/fiebrink1/wekinator) - The current version of the Wekinator. It used to be mini, now it's not, but it still lives here.
@@ -1052,7 +1053,6 @@
 - [tomduck/pandoc-fignos](https://github.com/tomduck/pandoc-fignos) - A pandoc filter for numbering figures and figure references.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [keeferrourke/espeak-sings](https://github.com/keeferrourke/espeak-sings) - This is a simple (but amusing) Python script that fetches song lyrics from the internet and feeds them to the speech synthesis programme espeak.
-- [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [Shougo/deoplete.nvim](https://github.com/Shougo/deoplete.nvim) - :stars: Dark powered asynchronous completion framework for neovim/Vim8
 - [navdeep-G/setup.py](https://github.com/navdeep-G/setup.py) - 📦 A Human's Ultimate Guide to setup.py.
 - [jackromo/gestures](https://github.com/jackromo/gestures) - Basic gesture recognition software for Kinect
@@ -1251,7 +1251,7 @@
 - [teambit/bit](https://github.com/teambit/bit) - A build system for development of composable software.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The open-source Vercel alternative
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ledesmablt/quickscope](https://github.com/ledesmablt/quickscope) - A simple but powerful search bar for your new tab.
