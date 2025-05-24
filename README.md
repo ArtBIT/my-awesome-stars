@@ -429,6 +429,7 @@
 
 ## JavaScript 
 
+- [Auz/Bug](https://github.com/Auz/Bug) - Add bugs to your website
 - [ArtBIT/bash-bookmarks-firefox-add-on](https://github.com/ArtBIT/bash-bookmarks-firefox-add-on) - A bash-bookmarks companion Add-On for Firefox
 - [tsparticles/react](https://github.com/tsparticles/react) - React tsParticles official component
 - [ArtBIT/xgroups](https://github.com/ArtBIT/xgroups) - Allows adding x.com users to groups, storing in localStorage, and displaying group tags below avatar
@@ -449,7 +450,7 @@
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) - Example Firefox add-ons created using the WebExtensions API
 - [WebReflection/uland](https://github.com/WebReflection/uland) - A µhtml take at neverland
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
-- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing Api's (lightweight alternative to postman/insomnia)
+- [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [Rezmason/drivey](https://github.com/Rezmason/drivey) - An ECMAScript port of the graphics demo "Drivey"
 - [jakowenko/double-take](https://github.com/jakowenko/double-take) - Unified UI and API for processing and training images for facial recognition.
 - [mrybinski/redux-saga-take-latest](https://github.com/mrybinski/redux-saga-take-latest) - Variation of takeLatest redux-saga effect, allowing to take latest action by specified key.
@@ -1210,7 +1211,6 @@
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
-- [hywax/phaser-game-template](https://github.com/hywax/phaser-game-template) - ⚠️ WIP. Template for creating a game on Phaser.js engine
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
