@@ -429,6 +429,7 @@
 
 ## JavaScript 
 
+- [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [Auz/Bug](https://github.com/Auz/Bug) - Add bugs to your website
 - [ArtBIT/bash-bookmarks-firefox-add-on](https://github.com/ArtBIT/bash-bookmarks-firefox-add-on) - A bash-bookmarks companion Add-On for Firefox
 - [tsparticles/react](https://github.com/tsparticles/react) - React tsParticles official component
