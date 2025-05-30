@@ -574,6 +574,7 @@
 
 ## csharp 
 
+- [ramokz/phantom-camera](https://github.com/ramokz/phantom-camera) - 👻🎥 Control the movement and dynamically tween 2D & 3D cameras. Built for Godot 4. Inspired by Cinemachine.
 - [mxgmn/WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse) - Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics
 - [mxgmn/ConvChain](https://github.com/mxgmn/ConvChain) - Bitmap generation from a single example with convolutions and MCMC
 - [mxgmn/TextureSynthesis](https://github.com/mxgmn/TextureSynthesis) - Texture synthesis from examples
@@ -756,6 +757,7 @@
 
 ## es6 
 
+- [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [ruanyl/vim-sort-imports](https://github.com/ruanyl/vim-sort-imports) - vim port of import-sort. Sort javascript/typescript imports
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
@@ -1141,6 +1143,7 @@
 
 ## javascript 
 
+- [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
 - [tsparticles/react](https://github.com/tsparticles/react) - React tsParticles official component
 - [OpenInterpreter/open-interpreter](https://github.com/OpenInterpreter/open-interpreter) - A natural language interface for computers
