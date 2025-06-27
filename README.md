@@ -418,6 +418,7 @@
 
 ## Java 
 
+- [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [symless/synergy-android-7](https://github.com/symless/synergy-android-7) - Synergy for Android client with support for android 7+
