@@ -44,6 +44,7 @@
 - [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
+- [dart](#dart)
 - [data](#data)
 - [data-analysis](#data-analysis)
 - [data-science](#data-science)
@@ -120,6 +121,7 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -187,6 +189,7 @@
 - [sketch](#sketch)
 - [software](#software)
 - [spring](#spring)
+- [spring-boot](#spring-boot)
 - [sql](#sql)
 - [sql-server](#sql-server)
 - [sqlite](#sqlite)
@@ -238,6 +241,7 @@
 
 ## ai 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Create, share, and use custom AI code assistants with our open-source IDE extensions and hub of models, rules, prompts, docs, and other building blocks
 - [Auto1111SDK/Auto1111SDK](https://github.com/Auto1111SDK/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
@@ -330,6 +334,7 @@
 
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [ariya/phantomjs](https://github.com/ariya/phantomjs) - Scriptable Headless Browser
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
@@ -493,6 +498,7 @@
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [ArtBIT/bash-bookmarks](https://github.com/ArtBIT/bash-bookmarks) - CLI-first plain-text URL bookmarks manager
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
@@ -604,6 +610,10 @@
 
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
+## dart 
+
+- [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
+
 ## data 
 
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -685,6 +695,7 @@
 
 ## development 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
@@ -807,6 +818,7 @@
 
 ## flutter 
 
+- [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 
 ## framework 
@@ -1148,6 +1160,7 @@
 
 ## java 
 
+- [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 - [OpenRefine/OpenRefine](https://github.com/OpenRefine/OpenRefine) - OpenRefine is a free, open source power tool for working with messy data and improving it
 
@@ -1367,6 +1380,10 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 
+## low-code 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## lua 
 
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
@@ -1508,6 +1525,7 @@
 
 ## no-code 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
 ## node 
@@ -1594,6 +1612,7 @@
 
 ## others 
 
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [deanhume/pwa-tips-tricks](https://github.com/deanhume/pwa-tips-tricks) - A big list of Progressive Web App tips & tricks!
 - [Auz/Bug](https://github.com/Auz/Bug) - Add bugs to your website
 - [edwineas/ubuntu-text-capture](https://github.com/edwineas/ubuntu-text-capture) - Ubuntu Text Capture is a Python tool that captures a selected area of the screen, extracts text using Tesseract OCR, and copies it to the clipboard. It includes a customizable GNOME keyboard shortcut 
@@ -1603,7 +1622,7 @@
 - [ArtBIT/xgroups](https://github.com/ArtBIT/xgroups) - Allows adding x.com users to groups, storing in localStorage, and displaying group tags below avatar
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [MarzEnt87/ComfyUI-Workflows](https://github.com/MarzEnt87/ComfyUI-Workflows) - Just a series of workflows I
-- [bytedance/UNO](https://github.com/bytedance/UNO) - 🔥🔥  UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning
+- [bytedance/UNO](https://github.com/bytedance/UNO) - [ICCV 2025] 🔥🔥  UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning
 - [Ranguel/Reencor](https://github.com/Ranguel/Reencor) - 
 - [Kiri-Innovation/3dgs-render-blender-addon](https://github.com/Kiri-Innovation/3dgs-render-blender-addon) - 3DGS Render by KIRI Engine
 - [smthemex/ComfyUI_Sonic](https://github.com/smthemex/ComfyUI_Sonic) - Sonic is a method about ' Shifting Focus to Global Audio Perception in Portrait Animation',you can use it in comfyUI
@@ -2591,6 +2610,8 @@
 
 ## self-hosted 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -2644,6 +2665,10 @@
 ## spring 
 
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
+
+## spring-boot 
+
+- [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Self-hosted, open source gardening companion app
 
 ## sql 
 
@@ -2754,6 +2779,7 @@
 
 ## typescript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
 - [tsparticles/react](https://github.com/tsparticles/react) - React tsParticles official component
 - [SandroMaglione/infinite-html-canvas](https://github.com/SandroMaglione/infinite-html-canvas) - Infinite HTML &lt;canvas&gt; that can be zoomed and panned using touch on mobile 🤏
