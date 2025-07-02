@@ -687,7 +687,7 @@
 ## design 
 
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
@@ -806,7 +806,6 @@
 ## firebase 
 
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 - [prescottprue/generator-react-firebase](https://github.com/prescottprue/generator-react-firebase) - React Firebase (Redux optional) yeoman generator
 
 ## firefox 
@@ -984,7 +983,6 @@
 ## graphql 
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
 
 ## gulp 
 
@@ -993,7 +991,7 @@
 ## hackathon 
 
 - [manishbisht/Competitive-Programming](https://github.com/manishbisht/Competitive-Programming) - :pushpin: :books: Solution of competitive programming problems, code templates, Data Structures and Algorithms, hackathons, interviews and much more.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
 ## hacking 
 
@@ -1125,7 +1123,7 @@
 
 ## image-processing 
 
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
+- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editing
 - [peterpeterparker/web-photo-filter](https://github.com/peterpeterparker/web-photo-filter) - A Web Component to apply Instagram-like WebGL filters to photos
 - [alexjc/neural-doodle](https://github.com/alexjc/neural-doodle) - Turn your two-bit doodles into fine artworks with deep neural networks, generate seamless textures from photos, transfer style from one image to another, perform example-based upscaling, but wait... t
 - [pa7/nude.js](https://github.com/pa7/nude.js) - Nudity detection with JavaScript and HTMLCanvas
@@ -1198,7 +1196,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
 - [pa7/heatmap.js](https://github.com/pa7/heatmap.js) - 🔥 JavaScript Library for HTML5 canvas based heatmaps
 - [lf2com/magnet.js](https://github.com/lf2com/magnet.js) - Magnet.js is a JavaScript library that groups HTML elements and makes them attractable to each other
@@ -1547,7 +1545,7 @@
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [geckosio/geckos.io](https://github.com/geckosio/geckos.io) - 🦎 Real-time client/server communication over UDP using WebRTC and Node.js http://geckos.io
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
@@ -2001,7 +1999,7 @@
 - [googleads/videojs-ima](https://github.com/googleads/videojs-ima) - IMA SDK Plugin for Video.js
 - [googlecreativelab/aiexperiments-ai-duet](https://github.com/googlecreativelab/aiexperiments-ai-duet) - A piano that responds to you.
 - [onema/vagrant-lamp-development](https://github.com/onema/vagrant-lamp-development) - 
-- [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content.
+- [davidjbradshaw/iframe-resizer](https://github.com/davidjbradshaw/iframe-resizer) - Keep iframes sized to their content
 - [fmalk/codeigniter-phpunit](https://github.com/fmalk/codeigniter-phpunit) - Hack to make CodeIgniter work with PHPUnit.
 - [Victa/scrolly](https://github.com/Victa/scrolly) - PROJECT IS NOT MAINTAINED - Super simple and easy to use parallax plugin for jQuery
 - [CNMAT/OSC](https://github.com/CNMAT/OSC) - OSC: Arduino and Teensy implementation of OSC encoding
@@ -2495,7 +2493,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [bokuweb/react-rnd](https://github.com/bokuweb/react-rnd) - 🖱  A resizable and draggable component for React.
 - [adobe/generator-tsx](https://github.com/adobe/generator-tsx) - Yeoman generator for CRA + TypeScript + React + Redux + Router + Testing Library.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 - [prescottprue/generator-react-firebase](https://github.com/prescottprue/generator-react-firebase) - React Firebase (Redux optional) yeoman generator
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
@@ -2528,7 +2526,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [alexgurr/react-coding-challenges](https://github.com/alexgurr/react-coding-challenges) - A series of ReactJS coding challenges with a variety of difficulties.
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
@@ -2630,7 +2628,7 @@
 
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
 ## shell 
 
@@ -2726,6 +2724,7 @@
 ## tailwindcss 
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 
 ## tensorflow 
 
@@ -2806,7 +2805,7 @@
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [neoclide/coc-tsserver](https://github.com/neoclide/coc-tsserver) - Tsserver extension for coc.nvim that provide rich features like VSCode for javascript & typescript
 - [adobe/generator-tsx](https://github.com/adobe/generator-tsx) - Yeoman generator for CRA + TypeScript + React + Redux + Router + Testing Library.
-- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - The web's most popular Jamstack front-end template (boilerplate) for building web applications with React
+- [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [lf2com/magnet.js](https://github.com/lf2com/magnet.js) - Magnet.js is a JavaScript library that groups HTML elements and makes them attractable to each other
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
