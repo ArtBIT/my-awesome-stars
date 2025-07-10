@@ -1889,7 +1889,6 @@
 - [codrops/LineMenuStyles](https://github.com/codrops/LineMenuStyles) - An open collection of menu styles that use the line as creative design element.
 - [codrops/SeatPreview](https://github.com/codrops/SeatPreview) - An experimental demo where a 3D perspective preview is shown for a selected seat in a cinema room.
 - [codrops/Interactive3DMallMap](https://github.com/codrops/Interactive3DMallMap) - An interactive 3D mall map concept with a sidebar search and pin indicators for every level.
-- [nenadkarisic/CityCameraExpo](https://github.com/nenadkarisic/CityCameraExpo) - 
 - [kipliklotrika/Parser](https://github.com/kipliklotrika/Parser) - Simple calculator parser
 - [Fixtone/DungeonCarver](https://github.com/Fixtone/DungeonCarver) - DungeonCarver is an implementation of the most popular dungeon generating algorithms
 - [hsab/GrowthNodes](https://github.com/hsab/GrowthNodes) - A Blender plugin for generative content creation and simulation of organic growth processes on polygonal surfaces.
