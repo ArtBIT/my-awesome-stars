@@ -1284,7 +1284,6 @@
 - [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [lf2com/magnet.js](https://github.com/lf2com/magnet.js) - Magnet.js is a JavaScript library that groups HTML elements and makes them attractable to each other
-- [nenadkarisic/CityCameraExpo](https://github.com/nenadkarisic/CityCameraExpo) - 
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React 16, Redux & Material-UI 4
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
