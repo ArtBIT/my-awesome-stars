@@ -1974,7 +1974,7 @@
 - [sheerun/vimrc](https://github.com/sheerun/vimrc) - Basic vim configuration for your .vimrc
 - [probonopd/ESP8266HueEmulator](https://github.com/probonopd/ESP8266HueEmulator) - Emulate a Philips Hue bridge running on an ESP8266 using the Arduino IDE.
 - [flowbased/fbp](https://github.com/flowbased/fbp) - FBP flow definition language parser
-- [codeindulgence/vim-tig](https://github.com/codeindulgence/vim-tig) - Do a tig in your vim
+- [nickbutler/vim-tig](https://github.com/nickbutler/vim-tig) - Do a tig in your vim
 - [googlecreativelab/open-nsynth-super](https://github.com/googlecreativelab/open-nsynth-super) - Open NSynth Super is an experimental physical interface for the NSynth algorithm
 - [tpope/vim-apathy](https://github.com/tpope/vim-apathy) - apathy.vim: Set the 'path' option for miscellaneous file types
 - [timbertson/slinger](https://github.com/timbertson/slinger) - gnome-shell extension for throwing windows around efficiently
