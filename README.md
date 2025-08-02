@@ -1328,7 +1328,7 @@
 - [preservim/vim-indent-guides](https://github.com/preservim/vim-indent-guides) - A Vim plugin for visually displaying indent levels in code
 - [ArtBIT/vim-modularvimrc](https://github.com/ArtBIT/vim-modularvimrc) - Load directory specific .vimrc files (including the ones from parent directories)
 - [sheerun/vimrc](https://github.com/sheerun/vimrc) - Basic vim configuration for your .vimrc
-- [codeindulgence/vim-tig](https://github.com/codeindulgence/vim-tig) - Do a tig in your vim
+- [nickbutler/vim-tig](https://github.com/nickbutler/vim-tig) - Do a tig in your vim
 - [tpope/vim-apathy](https://github.com/tpope/vim-apathy) - apathy.vim: Set the 'path' option for miscellaneous file types
 - [pbrisbin/vim-mkdir](https://github.com/pbrisbin/vim-mkdir) - Automatically create any non-existent directories before writing the buffer.
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
