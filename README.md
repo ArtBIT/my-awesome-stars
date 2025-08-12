@@ -306,6 +306,7 @@
 
 ## Go 
 
+- [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a versatile tool for interacting with LLMs through OpenAI, Azure, and other popular providers like Perplexity AI and Llama. It supports prompt files, history tracking, and live data inj
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [multiprocessio/dsq](https://github.com/multiprocessio/dsq) - Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more.
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
@@ -1037,7 +1038,7 @@
 - [vifon/ledger-web-api](https://github.com/vifon/ledger-web-api) - A HTTP API created for Ledger-Tasker integration; superseded by https://github.com/vifon/ledger-web
 - [Time-Travel-Rephotography/Time-Travel-Rephotography.github.io](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io) - We simulate traveling back in time with a modern camera to rephotograph famous historical subjects.
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
 - [bnpr/Malt](https://github.com/bnpr/Malt) - Render framework for NPR.
 - [Jandals/HairNet](https://github.com/Jandals/HairNet) - HairNet addon for Blender
 - [cgtinker/blendartrack](https://github.com/cgtinker/blendartrack) - blender add-on for importing augmented reality motion tracking data recorded with the mobile application blendartrack
