@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [forgani/Gas-Meter](https://github.com/forgani/Gas-Meter) - Gas Meter with reed switch and ESP8266 using Light Sleep and Blynk
 - [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [JoseExposito/touchegg](https://github.com/JoseExposito/touchegg) - Linux multi-touch gesture recognizer
@@ -1038,7 +1039,7 @@
 - [vifon/ledger-web-api](https://github.com/vifon/ledger-web-api) - A HTTP API created for Ledger-Tasker integration; superseded by https://github.com/vifon/ledger-web
 - [Time-Travel-Rephotography/Time-Travel-Rephotography.github.io](https://github.com/Time-Travel-Rephotography/Time-Travel-Rephotography.github.io) - We simulate traveling back in time with a modern camera to rephotograph famous historical subjects.
 - [alievk/avatarify-python](https://github.com/alievk/avatarify-python) - Avatars for Zoom, Skype and other video-conferencing apps.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [bnpr/Malt](https://github.com/bnpr/Malt) - Render framework for NPR.
 - [Jandals/HairNet](https://github.com/Jandals/HairNet) - HairNet addon for Blender
 - [cgtinker/blendartrack](https://github.com/cgtinker/blendartrack) - blender add-on for importing augmented reality motion tracking data recorded with the mobile application blendartrack
