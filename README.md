@@ -164,7 +164,6 @@
 - [NatronGitHub/Natron](https://github.com/NatronGitHub/Natron) - Open-source video compositing software. Node-graph based. Similar in functionalities to Adobe After Effects and Nuke by The Foundry.
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting "old" measuring units (water, power, gas, ...) to the digital world
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
-- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [GodotSteam/GodotSteam](https://github.com/GodotSteam/GodotSteam) - An ecosystem of tools for Godot Engine and Valve's Steam. For Linux, Mac, and Windows.
 - [appsinacup/godot-box2d](https://github.com/appsinacup/godot-box2d) - Godot Box2D – C++ Godot Extension that integrates the Box2D physics engine.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -918,6 +917,7 @@
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [tchar/ulauncher-albert-calculate-anything](https://github.com/tchar/ulauncher-albert-calculate-anything) - A ULauncher/Albert extension that supports currency, units and date time conversion, as well as a calculator that supports complex numbers and functions.
 - [qcasey/ulauncher-homeassistant](https://github.com/qcasey/ulauncher-homeassistant) - A Ulauncher extension to view and control devices in your HomeAssistant instance.
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [LinuxCNC/linuxcnc](https://github.com/LinuxCNC/linuxcnc) - LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
@@ -927,7 +927,7 @@
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [askui/vision-agent](https://github.com/askui/vision-agent) - Automate computer tasks in Python
+- [askui/vision-agent](https://github.com/askui/vision-agent) - Enable AI to control your desktop, mobile and HMI devices
 - [davidpendergast/pygame-utils](https://github.com/davidpendergast/pygame-utils) - A collection of smaller projects I made using pygame, numpy, and/or OpenGL
 - [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - [CVPR 2024 Highlight] Code for "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
@@ -1215,6 +1215,7 @@
 
 ## TypeScript 
 
+- [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [fallenbagel/jellyseerr](https://github.com/fallenbagel/jellyseerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1223,13 +1224,13 @@
 - [Smeagolworms4/MQTT-Explorer](https://github.com/Smeagolworms4/MQTT-Explorer) - Compile NodeJS version for MQTT explorer. You can use in browser
 - [adrienbrault/ha-jsx-strategy](https://github.com/adrienbrault/ha-jsx-strategy) - Dynamic Home Assistant dashboards using JSX/TSX
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
+- [blackboardsh/electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
