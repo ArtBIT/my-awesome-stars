@@ -626,7 +626,6 @@
 - [finom/balalaika](https://github.com/finom/balalaika) - Tiny DOM library
 - [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 - [dialupnoises/unitconvert](https://github.com/dialupnoises/unitconvert) - Simple but powerful Node.js unit conversion library.
-- [bit101/quicksettings](https://github.com/bit101/quicksettings) - JavaScript library for making a quick settings panel to control code parameters.
 - [pnitsch/BitmapData.js](https://github.com/pnitsch/BitmapData.js) - HTML5 Canvas API implementation of the AS3 BitmapData class.
 - [web-animations/web-animations-js](https://github.com/web-animations/web-animations-js) - JavaScript implementation of the Web Animations API
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
@@ -652,7 +651,6 @@
 - [jeromeetienne/threex.htmlmixer](https://github.com/jeromeetienne/threex.htmlmixer) - three.js extension to seemlessly integrate dom elements in your webgl
 - [kig/magi](https://github.com/kig/magi) - WebGL scene graph hack
 - [owencm/javascript-jpeg-encoder](https://github.com/owencm/javascript-jpeg-encoder) - A JPEG encoder for Javascript
-- [bit101/clrs](https://github.com/bit101/clrs) - Color lib for HTML/JS. Lots of easy ways to generate colors for use in CSS or Canvas drawing.
 - [gskinner/regexr](https://github.com/gskinner/regexr) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions.
 - [panrafal/depthy](https://github.com/panrafal/depthy) - Extract depth map and original from photos made with Google Camera's Lens Blur.
 - [gamelab/kiwi.js](https://github.com/gamelab/kiwi.js) - Kiwi.js is a blazingly fast mobile & desktop browser based HTML5 game framework. It uses CocoonJS for publishing to the AppStore.
