@@ -620,7 +620,6 @@
 - [darsain/fpsmeter](https://github.com/darsain/fpsmeter) - Sexy, fast, and themable FPS meter.
 - [mcountis/dfp-events](https://github.com/mcountis/dfp-events) - For use with Google's Doubleclick for Publishers (DFP).  Taps into dfp's logger function and fires triggers events using jQuery.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
-- [bit101/gifloopcoder](https://github.com/bit101/gifloopcoder) - HTML/JS Library/App for coding looping gif animations.
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
 - [finom/vanillatree](https://github.com/finom/vanillatree) - Vanilla.js replacement of jstree
 - [finom/balalaika](https://github.com/finom/balalaika) - Tiny DOM library
@@ -1108,6 +1107,7 @@
 
 ## Rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
