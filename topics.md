@@ -22,6 +22,7 @@
 - [babel](#babel)
 - [backend](#backend)
 - [bash](#bash)
+- [beginner-project](#beginner-project)
 - [blockchain](#blockchain)
 - [bootstrap](#bootstrap)
 - [bot](#bot)
@@ -442,6 +443,10 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ArtBIT/bash-skype-notify](https://github.com/ArtBIT/bash-skype-notify) - Bash Skype Notify
 
+## beginner-project 
+
+- [knaxus/problem-solving-javascript](https://github.com/knaxus/problem-solving-javascript) - :fire: Crack you JS interviews ⚡ Collection of most common JS Interview questions with Unit Tests 🚀
+
 ## blockchain 
 
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
@@ -539,7 +544,7 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [plopjs/plop](https://github.com/plopjs/plop) - Consistency Made Simple
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
 ## clojure 
 
@@ -885,7 +890,7 @@
 - [honzaap/SlashSaber](https://github.com/honzaap/SlashSaber) - An endless slashing game made with three.js and Vue
 - [NateTheGreatt/bitECS](https://github.com/NateTheGreatt/bitECS) - Flexible, minimal, data-oriented ECS library for Typescript
 - [dgkanatsios/AngryBirdsStyleGame](https://github.com/dgkanatsios/AngryBirdsStyleGame) - Angry Birds style game in Unity
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [surjikal/component-game-objects](https://github.com/surjikal/component-game-objects) - Component-based game object system experiments
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -906,7 +911,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 - [snowkit/old-haxe-alpha](https://github.com/snowkit/old-haxe-alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
@@ -917,7 +922,7 @@
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 - [snowkit/old-haxe-alpha](https://github.com/snowkit/old-haxe-alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [HaxeFlixel/flixel](https://github.com/HaxeFlixel/flixel) - Free, cross-platform 2D game engine powered by Haxe and OpenFL
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
@@ -938,14 +943,14 @@
 - [mxgmn/TextureSynthesis](https://github.com/mxgmn/TextureSynthesis) - Texture synthesis from examples
 - [lewislepton/kha-tutorial-series](https://github.com/lewislepton/kha-tutorial-series) - source code from kha tutorial series
 - [snowkit/old-haxe-alpha](https://github.com/snowkit/old-haxe-alpha) - alpha - deprecated 2015~2016. unrelated to the new engine! view the new engine here - https://luxeengine.com/
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 - [phaserjs/phaser](https://github.com/phaserjs/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## games 
 
 - [ikvk/ecs_pattern](https://github.com/ikvk/ecs_pattern) - ECS pattern (Entity Component System) for creating games on python
-- [leereilly/games](https://github.com/leereilly/games) - :video_game: A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
+- [leereilly/games](https://github.com/leereilly/games) - Archived — A list of games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.
 
 ## gis 
 
@@ -1066,7 +1071,7 @@
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [snapcrafters/obs-studio](https://github.com/snapcrafters/obs-studio) - This is a community-supported modified build of OBS Studio.
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
@@ -2317,7 +2322,7 @@
 ## php 
 
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
-- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The de facto standard self hosted URL shortener in PHP
+- [YOURLS/YOURLS](https://github.com/YOURLS/YOURLS) - 🔗 The 𝘥𝘦 𝘧𝘢𝘤𝘵𝘰 standard self hosted URL shortener in PHP
 - [YetiForceCompany/YetiForceCRM](https://github.com/YetiForceCompany/YetiForceCRM) - We've moved! For more information, visit https://github.com/YetiForceCompany/YetiForce
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
 - [slashtrace/slashtrace](https://github.com/slashtrace/slashtrace) - Awesome error handler. Demo: https://slashtrace.com/demo.php
@@ -2633,7 +2638,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 
 ## sass 
 
@@ -2805,7 +2810,7 @@
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
-- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder 📹
+- [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
 - [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard) - Modular visual interface for GDB in Python
 
 ## terraform 
