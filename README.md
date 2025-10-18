@@ -747,6 +747,7 @@
 - [daleblackwood/spreadjam](https://github.com/daleblackwood/spreadjam) - An OBS-based Game Jam timer and video measurer
 - [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim
 - [Eandrju/cellular-automaton.nvim](https://github.com/Eandrju/cellular-automaton.nvim) - A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content 
+- [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [jcjohnson/neural-style](https://github.com/jcjohnson/neural-style) - Torch implementation of neural style algorithm
 
 ## MATLAB 
@@ -755,7 +756,7 @@
 
 ## MDX 
 
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 
 ## Markdown 
 
@@ -1219,6 +1220,7 @@
 
 ## TypeScript 
 
+- [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
 - [aminere/powerplay-threejs](https://github.com/aminere/powerplay-threejs) - Powerplay RTS original Threejs prototype
 - [True3DLabs/WindowMode](https://github.com/True3DLabs/WindowMode) - Turn your screen into a Window into a virtual world
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
@@ -1330,7 +1332,6 @@
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
-- [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [dbeniamine/cheat.sh-vim](https://github.com/dbeniamine/cheat.sh-vim) - A vim plugin to access cheat.sh sheets
 - [simnalamburt/vim-mundo](https://github.com/simnalamburt/vim-mundo) - :christmas_tree: Vim undo tree visualizer
 - [ruanyl/vim-sort-imports](https://github.com/ruanyl/vim-sort-imports) - vim port of import-sort. Sort javascript/typescript imports
