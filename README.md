@@ -9,6 +9,7 @@
 - [ActionScript](#actionscript)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -33,7 +34,6 @@
 - [Less](#less)
 - [Lua](#lua)
 - [MATLAB](#matlab)
-- [MDX](#mdx)
 - [Markdown](#markdown)
 - [Max](#max)
 - [Nemerle](#nemerle)
@@ -81,6 +81,10 @@
 ## Assembly 
 
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+
+## Astro 
+
+- [chasemp/timeline](https://github.com/chasemp/timeline) - 
 
 ## C 
 
@@ -288,7 +292,7 @@
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [Nitwel/Immersive-Home](https://github.com/Nitwel/Immersive-Home) - Mixed reality experience for interacting with your smart home in a new dimension.
 - [angrychill/q-dollar-gesture-godot](https://github.com/angrychill/q-dollar-gesture-godot) - 
-- [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
+- [gdquest-demos/godot-3-demos-2022](https://github.com/gdquest-demos/godot-3-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
 - [RPicster/Godot-Collected-Thingies](https://github.com/RPicster/Godot-Collected-Thingies) - 
 - [dueddel/godot-3d-ui-demo](https://github.com/dueddel/godot-3d-ui-demo) - Sample setup for 3D based UI in Godot
 - [theshaggydev/the-shaggy-dev-projects](https://github.com/theshaggydev/the-shaggy-dev-projects) - This repository contains all of the projects from shaggydev.com and the Shaggy Dev Youtube channel.
@@ -438,6 +442,8 @@
 
 ## JavaScript 
 
+- [chasemp/peadoubleueh](https://github.com/chasemp/peadoubleueh) - PWA thoughts and resources
+- [chasemp/mate](https://github.com/chasemp/mate) - Play Chess with a friend.  No ads.
 - [utsuboco/gltf_curve_exporter](https://github.com/utsuboco/gltf_curve_exporter) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
@@ -754,10 +760,6 @@
 
 - [zk00006/OpenTLD](https://github.com/zk00006/OpenTLD) - OpenTLD is an open source library for real-time 2D tracking of a single object in video. This repository is no longer under development. For latest version see: http://www.tldvision.com/tld2.html
 
-## MDX 
-
-- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
-
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
@@ -908,6 +910,7 @@
 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
+- [ArtBIT/bash-bookmarks](https://github.com/ArtBIT/bash-bookmarks) - CLI-first plain-text URL bookmarks manager
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
 - [bytedance/UNO](https://github.com/bytedance/UNO) - [ICCV 2025] 🔥🔥  UNO: A Universal Customization Method for Both Single and Multi-Subject Conditioning
 - [Ranguel/Reencor](https://github.com/Ranguel/Reencor) - 
@@ -1161,7 +1164,6 @@
 
 ## Shell 
 
-- [ArtBIT/bash-bookmarks](https://github.com/ArtBIT/bash-bookmarks) - CLI-first plain-text URL bookmarks manager
 - [edwineas/ubuntu-text-capture](https://github.com/edwineas/ubuntu-text-capture) - Ubuntu Text Capture is a Python tool that captures a selected area of the screen, extracts text using Tesseract OCR, and copies it to the clipboard. It includes a customizable GNOME keyboard shortcut 
 - [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
 - [rockymadden/slack-cli](https://github.com/rockymadden/slack-cli) - :neckbeard: Powerful Slack CLI via pure bash. Rich messaging, uploads, posts, piping, oh my!
@@ -1220,6 +1222,7 @@
 
 ## TypeScript 
 
+- [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
 - [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
 - [aminere/powerplay-threejs](https://github.com/aminere/powerplay-threejs) - Powerplay RTS original Threejs prototype
 - [True3DLabs/WindowMode](https://github.com/True3DLabs/WindowMode) - Turn your screen into a Window into a virtual world
@@ -1263,6 +1266,7 @@
 - [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
 - [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
+- [nikivdev/wiki](https://github.com/nikivdev/wiki) - 
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
