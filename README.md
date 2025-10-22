@@ -868,7 +868,6 @@
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 - [YetiForceCompany/YetiForceCRM](https://github.com/YetiForceCompany/YetiForceCRM) - We've moved! For more information, visit https://github.com/YetiForceCompany/YetiForce
 - [monicahq/monica](https://github.com/monicahq/monica) - Personal CRM. Remember everything about your friends, family and business relationships.
-- [slashtrace/slashtrace](https://github.com/slashtrace/slashtrace) - Awesome error handler. Demo: https://slashtrace.com/demo.php
 - [taoso/phpcd.vim](https://github.com/taoso/phpcd.vim) - phpcd - A Intelligent/Smart PHP Complete Daemon Plugin for Vim/NeoVim
 - [bramus/mixed-content-scan](https://github.com/bramus/mixed-content-scan) - Scan your HTTPS-enabled website for Mixed Content
 - [emoncms/emoncms](https://github.com/emoncms/emoncms) - Web-app for processing, logging and visualising energy, temperature and other environmental data
