@@ -251,7 +251,6 @@
 
 ## ai 
 
-- [stocknear/frontend](https://github.com/stocknear/frontend) - UI of stocknear - Open Source Stock Analysis
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
 - [Auto1111SDK/Auto1111SDK](https://github.com/Auto1111SDK/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
@@ -650,8 +649,6 @@
 
 ## data 
 
-- [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
-- [stocknear/frontend](https://github.com/stocknear/frontend) - UI of stocknear - Open Source Stock Analysis
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
 
 ## data-analysis 
@@ -666,8 +663,6 @@
 
 ## data-science 
 
-- [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
-- [stocknear/frontend](https://github.com/stocknear/frontend) - UI of stocknear - Open Source Stock Analysis
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [5agado/data-science-learning](https://github.com/5agado/data-science-learning) - Repository of code and resources related to different data science and machine learning topics. For learning, practice and teaching purposes.
 - [GokuMohandas/Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) - Learn how to design, develop, deploy and iterate on production-grade ML applications.
@@ -855,8 +850,6 @@
 
 ## finance 
 
-- [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
-- [stocknear/frontend](https://github.com/stocknear/frontend) - UI of stocknear - Open Source Stock Analysis
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 
@@ -1230,7 +1223,6 @@
 ## javascript 
 
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
-- [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
 - [tsparticles/react](https://github.com/tsparticles/react) - React tsParticles official component
@@ -1461,8 +1453,6 @@
 ## machine-learning 
 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
-- [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
-- [stocknear/frontend](https://github.com/stocknear/frontend) - UI of stocknear - Open Source Stock Analysis
 - [rougier/ML-Recipes](https://github.com/rougier/ML-Recipes) - A collection of stand-alone Python machine learning recipes
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
@@ -1605,7 +1595,6 @@
 
 ## nodejs 
 
-- [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
@@ -2435,7 +2424,6 @@
 
 ## python 
 
-- [stocknear/backend](https://github.com/stocknear/backend) - Backend of stocknear - Open Source Stock Analysis
 - [098765d/AI_Tutor](https://github.com/098765d/AI_Tutor) - AI-Tutor: LLM and RAG-Enhanced AI Tutoring for Various Courses
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [tchar/ulauncher-albert-calculate-anything](https://github.com/tchar/ulauncher-albert-calculate-anything) - A ULauncher/Albert extension that supports currency, units and date time conversion, as well as a calculator that supports complex numbers and functions.
@@ -2788,7 +2776,6 @@
 
 ## svelte 
 
-- [stocknear/frontend](https://github.com/stocknear/frontend) - UI of stocknear - Open Source Stock Analysis
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [tsparticles/tsparticles](https://github.com/tsparticles/tsparticles) - tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use component
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
