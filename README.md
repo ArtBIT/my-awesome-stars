@@ -446,7 +446,6 @@
 - [chasemp/mate](https://github.com/chasemp/mate) - Play Chess with a friend.  No ads.
 - [utsuboco/gltf_curve_exporter](https://github.com/utsuboco/gltf_curve_exporter) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
-- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [Auz/Bug](https://github.com/Auz/Bug) - Add bugs to your website
 - [ArtBIT/bash-bookmarks-firefox-add-on](https://github.com/ArtBIT/bash-bookmarks-firefox-add-on) - A bash-bookmarks companion Add-On for Firefox
@@ -907,6 +906,7 @@
 
 ## Python 
 
+- [kyjohnso/skysplat_blender](https://github.com/kyjohnso/skysplat_blender) - 
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [ArtBIT/bash-bookmarks](https://github.com/ArtBIT/bash-bookmarks) - CLI-first plain-text URL bookmarks manager
 - [kijai/ComfyUI-LivePortraitKJ](https://github.com/kijai/ComfyUI-LivePortraitKJ) - ComfyUI nodes for LivePortrait
@@ -1116,6 +1116,7 @@
 
 ## Rust 
 
+- [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
@@ -1227,6 +1228,7 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
 - [Smeagolworms4/MQTT-Explorer](https://github.com/Smeagolworms4/MQTT-Explorer) - Compile NodeJS version for MQTT explorer. You can use in browser
