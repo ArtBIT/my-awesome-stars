@@ -9,7 +9,6 @@
 - [ActionScript](#actionscript)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -81,10 +80,6 @@
 ## Assembly 
 
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
-
-## Astro 
-
-- [chasemp/timeline](https://github.com/chasemp/timeline) - 
 
 ## C 
 
@@ -442,8 +437,10 @@
 
 ## JavaScript 
 
+- [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [chasemp/peadoubleueh](https://github.com/chasemp/peadoubleueh) - PWA thoughts and resources
 - [chasemp/mate](https://github.com/chasemp/mate) - Play Chess with a friend.  No ads.
+- [chasemp/timeline](https://github.com/chasemp/timeline) - 
 - [utsuboco/gltf_curve_exporter](https://github.com/utsuboco/gltf_curve_exporter) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
@@ -1235,7 +1232,7 @@
 - [adrienbrault/ha-jsx-strategy](https://github.com/adrienbrault/ha-jsx-strategy) - Dynamic Home Assistant dashboards using JSX/TSX
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
-- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Build and run custom agents across your IDE, terminal, and CI
+- [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in TUI mode as a coding agent or Headless mode to run background agents
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using openai api
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
