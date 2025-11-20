@@ -441,7 +441,7 @@
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [ArtBIT/bash-skype-notify](https://github.com/ArtBIT/bash-skype-notify) - Bash Skype Notify
 
@@ -1674,7 +1674,7 @@
 
 - [kyjohnso/skysplat_blender](https://github.com/kyjohnso/skysplat_blender) - 
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
-- [scottpetrovic/mesh2motion-app](https://github.com/scottpetrovic/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
+- [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
 - [chasemp/peadoubleueh](https://github.com/chasemp/peadoubleueh) - PWA thoughts and resources
 - [chasemp/mate](https://github.com/chasemp/mate) - Play Chess with a friend.  No ads.
 - [chasemp/timeline](https://github.com/chasemp/timeline) - 
@@ -2718,7 +2718,7 @@
 - [iridakos/stup](https://github.com/iridakos/stup) - Daily notes in the terminal :penguin:
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [nvbn/thefuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
 - [ArtBIT/bash-skype-notify](https://github.com/ArtBIT/bash-skype-notify) - Bash Skype Notify
