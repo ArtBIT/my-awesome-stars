@@ -96,6 +96,7 @@
 - [good-first-issue](#good-first-issue)
 - [google](#google)
 - [graphql](#graphql)
+- [gui](#gui)
 - [gulp](#gulp)
 - [hackathon](#hackathon)
 - [hacking](#hacking)
@@ -227,6 +228,7 @@
 - [web-assembly](#web-assembly)
 - [web-components](#web-components)
 - [web-development](#web-development)
+- [web3](#web3)
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
@@ -1040,6 +1042,12 @@
 
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 
+## gui 
+
+- [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
+- [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
+
 ## gulp 
 
 - [ykob/sketch-threejs](https://github.com/ykob/sketch-threejs) - Interactive sketches made with three.js.
@@ -1079,7 +1087,6 @@
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-- [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - An open source graphics editor for 2025: comprehensive 2D content creation tool suite for graphic design, digital art, and interactive real-time motion graphics — featuring node-based procedural editi
 - [vimwiki/vimwiki](https://github.com/vimwiki/vimwiki) - Personal Wiki for Vim
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [snapcrafters/obs-studio](https://github.com/snapcrafters/obs-studio) - This is a community-supported modified build of OBS Studio.
@@ -1862,7 +1869,6 @@
 - [srsudar/eg](https://github.com/srsudar/eg) - Useful examples at the command line.
 - [WolfireGames/overgrowth](https://github.com/WolfireGames/overgrowth) - Open Source codebase of the game Overgrowth by Wolfire Games LLC
 - [gi11es/equal-pay-for-equal-work](https://github.com/gi11es/equal-pay-for-equal-work) - This is a list of organizations that pay remote workers equally regardless of their location
-- [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
 - [codrops/TextRepetitionEffect](https://github.com/codrops/TextRepetitionEffect) - An on-scroll animation that shows repeated fragments of a big text as seen on the website of Dr. Dabber.
 - [keras-team/keras-io](https://github.com/keras-team/keras-io) - Keras documentation, hosted live at keras.io
 - [freemocap/freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
@@ -3000,6 +3006,10 @@
 ## web-development 
 
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
+
+## web3 
+
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
 
 ## webapp 
 
