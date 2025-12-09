@@ -1034,6 +1034,8 @@
 
 ## godot 
 
+- [nklbdev/godot-4-aseprite-importers](https://github.com/nklbdev/godot-4-aseprite-importers) - The addon for Godot 4 that adds several plugins for importing images and animations from Aseprite
+- [hectorid/aseprite_importer](https://github.com/hectorid/aseprite_importer) - A plugin for the Godot Engine that imports animations from Aseprite
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
 - [Smitner-Studio/tentacle-arm-showcase](https://github.com/Smitner-Studio/tentacle-arm-showcase) - Procedural Pixel Art Tentacles, what's not to love.
 - [matmadness/HumanShaders](https://github.com/matmadness/HumanShaders) - A set of shaders for Godot to create realistic humanoid characters
@@ -1717,6 +1719,7 @@
 
 ## others 
 
+- [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Probabilistic Kernel Optimization for Robust State Estimation
 - [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [kyjohnso/skysplat_blender](https://github.com/kyjohnso/skysplat_blender) - 
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
