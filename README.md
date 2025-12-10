@@ -154,6 +154,7 @@
 
 ## C++ 
 
+- [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Probabilistic Kernel Optimization for Robust State Estimation
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [forgani/Gas-Meter](https://github.com/forgani/Gas-Meter) - Gas Meter with reed switch and ESP8266 using Light Sleep and Blynk
@@ -274,6 +275,8 @@
 
 ## GDScript 
 
+- [nklbdev/godot-4-aseprite-importers](https://github.com/nklbdev/godot-4-aseprite-importers) - The addon for Godot 4 that adds several plugins for importing images and animations from Aseprite
+- [hectorid/aseprite_importer](https://github.com/hectorid/aseprite_importer) - A plugin for the Godot Engine that imports animations from Aseprite
 - [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
 - [Smitner-Studio/tentacle-arm-showcase](https://github.com/Smitner-Studio/tentacle-arm-showcase) - Procedural Pixel Art Tentacles, what's not to love.
@@ -538,7 +541,6 @@
 - [mdn/voice-change-o-matic](https://github.com/mdn/voice-change-o-matic) - Web Audio API-powered voice changer and visualizer
 - [googlecreativelab/aiexperiments-drum-machine](https://github.com/googlecreativelab/aiexperiments-drum-machine) - Thousands of everyday sounds, organized using machine learning.
 - [fnky/particle-life](https://github.com/fnky/particle-life) - Game of life with particles
-- [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 - [creativetimofficial/material-dashboard-react](https://github.com/creativetimofficial/material-dashboard-react) - React version of Material Dashboard by Creative Tim
 - [badgen/badgen](https://github.com/badgen/badgen) - Fast handcraft svg badge generator.
@@ -1313,6 +1315,7 @@
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 - [Tonejs/Tone.js](https://github.com/Tonejs/Tone.js) - A Web Audio framework for making interactive music in the browser.
 - [streamich/react-use](https://github.com/streamich/react-use) - React Hooks — 👍
+- [react-grid-layout/react-grid-layout](https://github.com/react-grid-layout/react-grid-layout) - A draggable and resizable grid layout with responsive breakpoints, for React.
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [elrumordelaluz/reactour](https://github.com/elrumordelaluz/reactour) - Tourist Guide into your React Components
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
