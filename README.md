@@ -9,6 +9,7 @@
 - [ActionScript](#actionscript)
 - [Arduino](#arduino)
 - [Assembly](#assembly)
+- [Astro](#astro)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -80,6 +81,10 @@
 ## Assembly 
 
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+
+## Astro 
+
+- [chasemp/timeline](https://github.com/chasemp/timeline) - 
 
 ## C 
 
@@ -154,7 +159,7 @@
 
 ## C++ 
 
-- [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Probabilistic Kernel Optimization for Robust State Estimation
+- [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Fast LiDAR SLAM
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [forgani/Gas-Meter](https://github.com/forgani/Gas-Meter) - Gas Meter with reed switch and ESP8266 using Light Sleep and Blynk
@@ -447,7 +452,6 @@
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [chasemp/peadoubleueh](https://github.com/chasemp/peadoubleueh) - PWA thoughts and resources
 - [chasemp/mate](https://github.com/chasemp/mate) - Play Chess with a friend.  No ads.
-- [chasemp/timeline](https://github.com/chasemp/timeline) - 
 - [utsuboco/gltf_curve_exporter](https://github.com/utsuboco/gltf_curve_exporter) - 
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
@@ -1228,7 +1232,7 @@
 - [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
 - [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
 - [aminere/powerplay-threejs](https://github.com/aminere/powerplay-threejs) - Powerplay RTS original Threejs prototype
-- [True3DLabs/WindowMode](https://github.com/True3DLabs/WindowMode) - Turn your screen into a Window into a virtual world
+- [splatsdotcom/WindowMode](https://github.com/splatsdotcom/WindowMode) - Turn your screen into a Window into a virtual world
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
@@ -1286,7 +1290,7 @@
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [cocopon/tweakpane](https://github.com/cocopon/tweakpane) - :control_knobs: Compact GUI for fine-tuning parameters and monitoring value changes
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [Koenkk/zigbee2mqtt](https://github.com/Koenkk/zigbee2mqtt) - Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [ledesmablt/quickscope](https://github.com/ledesmablt/quickscope) - A simple but powerful search bar for your new tab.
