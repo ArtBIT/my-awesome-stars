@@ -317,7 +317,7 @@
 
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
 - [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
@@ -440,7 +440,7 @@
 
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 
 ## bash 
 
@@ -809,7 +809,7 @@
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
 - [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [thorsten/phpMyFAQ](https://github.com/thorsten/phpMyFAQ) - phpMyFAQ - Open Source FAQ web application for PHP 8.3+ and MySQL, PostgreSQL and other databases
 
@@ -895,7 +895,7 @@
 
 ## firebase 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [prescottprue/generator-react-firebase](https://github.com/prescottprue/generator-react-firebase) - React Firebase (Redux optional) yeoman generator
 
 ## firefox 
@@ -908,7 +908,7 @@
 ## flutter 
 
 - [MDeLuise/plant-it](https://github.com/MDeLuise/plant-it) - 🪴 Open source Android gardening companion app
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 
 ## framework 
 
@@ -1246,7 +1246,7 @@
 ## ios 
 
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
 - [google/material-design-icons](https://github.com/google/material-design-icons) - Material Design icons by Google (Material Symbols)
 
@@ -1296,7 +1296,7 @@
 - [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
@@ -1627,7 +1627,7 @@
 
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 
 ## no-code 
 
@@ -1719,7 +1719,9 @@
 
 ## others 
 
-- [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Probabilistic Kernel Optimization for Robust State Estimation
+- [reales/OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim based synthesizer.
+- [surge-synthesizer/releases-xt](https://github.com/surge-synthesizer/releases-xt) - 
+- [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Fast LiDAR SLAM
 - [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [kyjohnso/skysplat_blender](https://github.com/kyjohnso/skysplat_blender) - 
 - [ArthurBrussee/brush](https://github.com/ArthurBrussee/brush) - 3D Reconstruction for all
@@ -1729,7 +1731,7 @@
 - [chasemp/timeline](https://github.com/chasemp/timeline) - 
 - [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
 - [utsuboco/gltf_curve_exporter](https://github.com/utsuboco/gltf_curve_exporter) - 
-- [True3DLabs/WindowMode](https://github.com/True3DLabs/WindowMode) - Turn your screen into a Window into a virtual world
+- [splatsdotcom/WindowMode](https://github.com/splatsdotcom/WindowMode) - Turn your screen into a Window into a virtual world
 - [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [deanhume/pwa-tips-tricks](https://github.com/deanhume/pwa-tips-tricks) - A big list of Progressive Web App tips & tricks!
@@ -2607,7 +2609,7 @@
 - [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [antonioru/beautiful-react-hooks](https://github.com/antonioru/beautiful-react-hooks) - 🔥 A collection of beautiful and (hopefully) useful React hooks to speed-up your components and hooks development 🔥
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
 - [ledesmablt/quickscope](https://github.com/ledesmablt/quickscope) - A simple but powerful search bar for your new tab.
@@ -2639,7 +2641,7 @@
 
 ## react-native 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [chantastic/reactpatterns](https://github.com/chantastic/reactpatterns) - Patterns for React Developers
@@ -2737,7 +2739,7 @@
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
 - [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted YouTube downloader (web UI for youtube-dl / yt-dlp)
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
@@ -2753,7 +2755,7 @@
 ## serverless 
 
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 
 ## shell 
 
@@ -2839,7 +2841,7 @@
 
 ## swift 
 
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 
 ## tailwind 
@@ -3036,7 +3038,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - The developers' cloud
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - The developers' cloud
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [fnky/particle-life](https://github.com/fnky/particle-life) - Game of life with particles
 - [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
