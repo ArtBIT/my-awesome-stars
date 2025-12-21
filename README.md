@@ -796,6 +796,7 @@
 
 ## Others 
 
+- [chasemp/fodder](https://github.com/chasemp/fodder) - Questions and conversation fodder.
 - [surge-synthesizer/releases-xt](https://github.com/surge-synthesizer/releases-xt) - 
 - [mtdvio/every-programmer-should-know](https://github.com/mtdvio/every-programmer-should-know) - A collection of (mostly) technical things every software developer should know about
 - [deanhume/pwa-tips-tricks](https://github.com/deanhume/pwa-tips-tricks) - A big list of Progressive Web App tips & tricks!
