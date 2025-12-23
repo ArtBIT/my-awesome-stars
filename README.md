@@ -524,7 +524,6 @@
 - [prescottprue/generator-react-firebase](https://github.com/prescottprue/generator-react-firebase) - React Firebase (Redux optional) yeoman generator
 - [cyrildiagne/ar-facedoodle](https://github.com/cyrildiagne/ar-facedoodle) - Doodle AR masks right from the browser with tensorflow.js
 - [siriwatknp/mui-layout](https://github.com/siriwatknp/mui-layout) - Jump start Material-UI project with out tears
-- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [cvdlab/react-planner](https://github.com/cvdlab/react-planner) - :pencil2: A React Component for plans design. Draw a 2D floorplan and navigate it in 3D mode.
 - [CesiumGS/obj2gltf](https://github.com/CesiumGS/obj2gltf) - Convert OBJ assets to glTF
 - [floorplanner/polygon-tools](https://github.com/floorplanner/polygon-tools) - Polygon tools
@@ -1308,6 +1307,7 @@
 - [adobe/generator-tsx](https://github.com/adobe/generator-tsx) - Yeoman generator for CRA + TypeScript + React + Redux + Router + Testing Library.
 - [kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) - Modern React starter kit with Bun, TypeScript, Tailwind CSS, tRPC, and Cloudflare Workers. Production-ready monorepo for building fast web apps.
 - [mheap/trello-cli](https://github.com/mheap/trello-cli) - Command line client for Trello
+- [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [lf2com/magnet.js](https://github.com/lf2com/magnet.js) - Magnet.js is a JavaScript library that groups HTML elements and makes them attractable to each other
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
