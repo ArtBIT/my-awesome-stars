@@ -1725,6 +1725,7 @@
 
 ## others 
 
+- [adamyounis/Aseprite-Tools](https://github.com/adamyounis/Aseprite-Tools) - A series of handy scripts for Aseprite
 - [chasemp/fodder](https://github.com/chasemp/fodder) - Questions and conversation fodder.
 - [reales/OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim based synthesizer.
 - [surge-synthesizer/releases-xt](https://github.com/surge-synthesizer/releases-xt) - 
