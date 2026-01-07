@@ -159,6 +159,7 @@
 
 ## C++ 
 
+- [isocserbia/Klimerko-Pro](https://github.com/isocserbia/Klimerko-Pro) - ☁ Air Quality Monitoring Device
 - [reales/OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim based synthesizer.
 - [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Fast LiDAR SLAM
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
