@@ -1732,6 +1732,7 @@
 
 ## others 
 
+- [isocserbia/Klimerko-Pro](https://github.com/isocserbia/Klimerko-Pro) - ☁ Air Quality Monitoring Device
 - [adamyounis/Aseprite-Tools](https://github.com/adamyounis/Aseprite-Tools) - A series of handy scripts for Aseprite
 - [chasemp/fodder](https://github.com/chasemp/fodder) - Questions and conversation fodder.
 - [reales/OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim based synthesizer.
