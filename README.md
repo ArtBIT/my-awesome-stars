@@ -1038,6 +1038,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [jkirsons/FacialMotionCapture_v2](https://github.com/jkirsons/FacialMotionCapture_v2) - 
 - [domlysz/BlenderGIS](https://github.com/domlysz/BlenderGIS) - Blender addons to make the bridge between Blender and geographic data
+- [ManimCommunity/manim](https://github.com/ManimCommunity/manim) - A community-maintained Python framework for creating mathematical animations.
 - [estevaofon/angry-birds-python](https://github.com/estevaofon/angry-birds-python) - Angry Birds game written in python using pygame and pymunk
 - [Matheart/manim-physics](https://github.com/Matheart/manim-physics) - Physics simulation plugin of Manim that can generate scenes in various branches of Physics.
 - [seemoo-lab/opendrop](https://github.com/seemoo-lab/opendrop) - An open Apple AirDrop implementation written in Python
