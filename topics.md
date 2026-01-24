@@ -1735,6 +1735,7 @@
 
 ## others 
 
+- [zlnvch/Webverse](https://github.com/zlnvch/Webverse) - Webverse is the collaborative canvas to annotate the web. Draw together in real time. Public, private, and shared spaces.
 - [isocserbia/Klimerko-Pro](https://github.com/isocserbia/Klimerko-Pro) - ☁ Air Quality Monitoring Device
 - [adamyounis/Aseprite-Tools](https://github.com/adamyounis/Aseprite-Tools) - A series of handy scripts for Aseprite
 - [chasemp/fodder](https://github.com/chasemp/fodder) - Questions and conversation fodder.
