@@ -451,6 +451,7 @@
 
 ## JavaScript 
 
+- [Tele-AI/TeleStyle](https://github.com/Tele-AI/TeleStyle) - 
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [chasemp/peadoubleueh](https://github.com/chasemp/peadoubleueh) - PWA thoughts and resources
 - [chasemp/mate](https://github.com/chasemp/mate) - Play Chess with a friend.  No ads.
@@ -1233,6 +1234,7 @@
 
 ## TypeScript 
 
+- [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [zlnvch/Webverse](https://github.com/zlnvch/Webverse) - Webverse is the collaborative canvas to annotate the web. Draw together in real time. Public, private, and shared spaces.
 - [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
