@@ -798,6 +798,7 @@
 
 ## Others 
 
+- [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
 - [sponticelli/game-studio-playbook.github.io](https://github.com/sponticelli/game-studio-playbook.github.io) - The Studio Playbook: Game Development from Vision to Launch
 - [chasemp/fodder](https://github.com/chasemp/fodder) - Questions and conversation fodder.
 - [surge-synthesizer/releases-xt](https://github.com/surge-synthesizer/releases-xt) - 
@@ -920,6 +921,8 @@
 
 ## Python 
 
+- [skillcreatorai/Ai-Agent-Skills](https://github.com/skillcreatorai/Ai-Agent-Skills) - Homebrew for AI Agent Skills.
+- [yaxan/Naruto_Handsign_Classification](https://github.com/yaxan/Naruto_Handsign_Classification) - Naruto Hand Gesture Recognition with OpenCV and Transfer Learning
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Clawdbot"
 - [a-nom-ali/inkscape-comfyui-extension](https://github.com/a-nom-ali/inkscape-comfyui-extension) - An Inkscape extension that integrates ComfyUI - turning Inkscape into Recraft!
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
