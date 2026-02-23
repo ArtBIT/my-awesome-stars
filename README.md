@@ -158,6 +158,7 @@
 
 ## C++ 
 
+- [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [isocserbia/Klimerko-Pro](https://github.com/isocserbia/Klimerko-Pro) - ☁ Air Quality Monitoring Device
 - [93won/lidar_odometry](https://github.com/93won/lidar_odometry) - Fast LiDAR SLAM
