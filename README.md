@@ -807,6 +807,7 @@
 
 ## Others 
 
+- [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [yaxu/clean-breaks](https://github.com/yaxu/clean-breaks) - 
 - [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw Skills. Formerly known as Moltbot, originally Clawdbot.
