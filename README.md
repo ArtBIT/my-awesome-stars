@@ -508,7 +508,7 @@
 - [exus85/Home-assistant-config](https://github.com/exus85/Home-assistant-config) - My Home Assistant Config Tablet Kiosk mode
 - [PacktPublishing/Redux-Quick-Start-Guide](https://github.com/PacktPublishing/Redux-Quick-Start-Guide) - Redux Quick Start Guide, Published by Packt
 - [blakeembrey/metalsmith-pagination](https://github.com/blakeembrey/metalsmith-pagination) - A Metalsmith plugin for paginating arrays and collections
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [hellatan/metalsmith-archive](https://github.com/hellatan/metalsmith-archive) - Create an archives page for Metalsmith
 - [muaz-khan/Ffmpeg.js](https://github.com/muaz-khan/Ffmpeg.js) - Ffmpeg.js demos, both for browsers and node.js
 - [nicolaspanel/numjs](https://github.com/nicolaspanel/numjs) - Like NumPy, in JavaScript
@@ -969,7 +969,7 @@
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [askui/vision-agent](https://github.com/askui/vision-agent) - Enable AI to control your desktop, mobile and HMI devices
+- [askui/python-sdk](https://github.com/askui/python-sdk) - Enable AI to control your desktop, mobile and HMI devices
 - [davidpendergast/pygame-utils](https://github.com/davidpendergast/pygame-utils) - A collection of smaller projects I made using pygame, numpy, and/or OpenGL
 - [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - [CVPR 2024 Highlight] Code for "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
@@ -1255,6 +1255,7 @@
 
 ## TypeScript 
 
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your digital brain which can talk to your AI apps.
