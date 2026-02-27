@@ -1769,6 +1769,7 @@
 
 ## others 
 
+- [mkst/zte-config-utility](https://github.com/mkst/zte-config-utility) - Scripts for decoding/encoding config.bin for ZTE routers
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) - "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
