@@ -934,6 +934,7 @@
 
 ## Python 
 
+- [mkst/zte-config-utility](https://github.com/mkst/zte-config-utility) - Scripts for decoding/encoding config.bin for ZTE routers
 - [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) - "ClawWork: OpenClaw as Your AI Coworker - 💰 $10K earned in 7 Hours"
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
