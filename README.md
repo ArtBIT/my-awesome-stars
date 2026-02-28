@@ -325,6 +325,7 @@
 
 ## Go 
 
+- [steipete/gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
