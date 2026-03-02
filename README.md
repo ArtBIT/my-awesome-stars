@@ -997,7 +997,7 @@
 - [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [rougier/ML-Recipes](https://github.com/rougier/ML-Recipes) - A collection of stand-alone Python machine learning recipes
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [rhasspy/wyoming-satellite](https://github.com/rhasspy/wyoming-satellite) - Remote voice satellite using Wyoming protocol
 - [MarkelZ/pygame-render](https://github.com/MarkelZ/pygame-render) - Python package for rendering textures with shaders using pygame.
 - [dummylabs/thewatchman](https://github.com/dummylabs/thewatchman) - Home Assistant custom integration to keep track of missing entities and actions in your config files
