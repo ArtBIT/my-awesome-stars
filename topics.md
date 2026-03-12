@@ -1773,6 +1773,7 @@
 
 ## others 
 
+- [KenneyNL/Starter-Kit-Racing](https://github.com/KenneyNL/Starter-Kit-Racing) - 
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [mkst/zte-config-utility](https://github.com/mkst/zte-config-utility) - Scripts for decoding/encoding config.bin for ZTE routers
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
