@@ -1107,7 +1107,7 @@
 - [euske/pdfminer](https://github.com/euske/pdfminer) - Python PDF Parser (Not actively maintained). Check out pdfminer.six.
 - [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 - [LingDong-/linedraw](https://github.com/LingDong-/linedraw) - Convert images to vectorized line drawings for plotters.
-- [mottosso/Qt.py](https://github.com/mottosso/Qt.py) - Minimal Python 2 & 3 shim around all Qt bindings - PySide, PySide2, PyQt4 and PyQt5.
+- [mottosso/Qt.py](https://github.com/mottosso/Qt.py) - Minimal Python 2 & 3 shim around all Qt bindings - PySide2, PySide6, PyQt5 and PyQt6.
 - [tomduck/pandoc-fignos](https://github.com/tomduck/pandoc-fignos) - A pandoc filter for numbering figures and figure references.
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [keeferrourke/espeak-sings](https://github.com/keeferrourke/espeak-sings) - This is a simple (but amusing) Python script that fetches song lyrics from the internet and feeds them to the speech synthesis programme espeak.
