@@ -38,7 +38,6 @@
 - [Max](#max)
 - [Nemerle](#nemerle)
 - [Nunjucks](#nunjucks)
-- [OCaml](#ocaml)
 - [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
@@ -782,7 +781,7 @@
 ## Markdown 
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
 ## Max 
 
@@ -795,10 +794,6 @@
 ## Nunjucks 
 
 - [wernerglinka/metalsmith-company-starter](https://github.com/wernerglinka/metalsmith-company-starter) - 
-
-## OCaml 
-
-- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## Objective-C 
 
@@ -1181,6 +1176,7 @@
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [asciinema/asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder, streamer and player 📹
+- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 
 ## SCSS 
 
