@@ -441,7 +441,6 @@
 
 ## Java 
 
-- [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [microsoft/typespec](https://github.com/microsoft/typespec) - 
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [symless/synergy-android-7](https://github.com/symless/synergy-android-7) - Synergy for Android client with support for android 7+
@@ -925,7 +924,7 @@
 
 ## Perl 
 
-- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
+- [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Make your diffs human readable for improved code quality and faster defect detection. :tada:
 - [ArtBIT/shutter-cloudapp-plugin](https://github.com/ArtBIT/shutter-cloudapp-plugin) - An Shutter plugin for cloudapp.com
 
 ## Python 
