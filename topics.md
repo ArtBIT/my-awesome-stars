@@ -176,7 +176,6 @@
 - [programming](#programming)
 - [programming-language](#programming-language)
 - [project-management](#project-management)
-- [prompt-engineering](#prompt-engineering)
 - [publishing](#publishing)
 - [pwa](#pwa)
 - [python](#python)
@@ -295,7 +294,7 @@
 
 ## ai-agents 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,273+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## algorithm 
@@ -420,6 +419,7 @@
 
 ## awesome-list 
 
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,273+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
@@ -801,7 +801,7 @@
 
 ## developer-tools 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,273+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - my curated agent skills library
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
@@ -872,7 +872,7 @@
 
 ## electron 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recording
 - [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1492,7 +1492,7 @@
 
 ## linux 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recording
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
@@ -1567,7 +1567,7 @@
 
 ## macos 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recording
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [geoffb/dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) - Limited color palettes by DawnBringer in various formats.
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
@@ -1610,7 +1610,7 @@
 
 ## mcp 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,273+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers,
@@ -1741,7 +1741,7 @@
 
 ## open-source 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recording
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -2545,10 +2545,6 @@
 
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 
-## prompt-engineering 
-
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 1000+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
-
 ## publishing 
 
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
@@ -3192,7 +3188,7 @@
 
 ## windows 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - A free, open-source Screen Studio alternative that adds auto-zoom, cursor animations and more to your screen recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for creating polished walkthroughs, demos, tutorials, and product videos. Add auto-zoom, webcam overlays, cursor animations and more to your screen recording
 - [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
