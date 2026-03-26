@@ -708,7 +708,7 @@
 - [CreateJS/EaselJS](https://github.com/CreateJS/EaselJS) - The Easel Javascript library provides a full, hierarchical display list, a core interaction model, and helper classes to make working with the HTML5 Canvas element much easier.
 - [CreateJS/PreloadJS](https://github.com/CreateJS/PreloadJS) - PreloadJS makes preloading assets & getting aggregate progress events easier in JavaScript. It uses XHR2 when available, and falls back to tag-based loading when not.
 - [cykod/Quintus](https://github.com/cykod/Quintus) - HTML5 Game Engine
-- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a fresh, modern & lightweight HTML5 game engine
+- [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [minikomi/Bootstrap-Form-Builder](https://github.com/minikomi/Bootstrap-Form-Builder) - Web app for drag drop building bootstrap forms.
 - [mgussekloo/my-bootstrap-datetimepicker](https://github.com/mgussekloo/my-bootstrap-datetimepicker) - A date+timepicker for use with Twitters bootstrap
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
@@ -802,6 +802,7 @@
 
 ## Others 
 
+- [Mathews-Tom/Agentic-Design-Patterns](https://github.com/Mathews-Tom/Agentic-Design-Patterns) - Agentic Design Patterns
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [yaxu/clean-breaks](https://github.com/yaxu/clean-breaks) - 
 - [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
@@ -1257,12 +1258,12 @@
 
 - [blendi-remade/sprite-sheet-creator](https://github.com/blendi-remade/sprite-sheet-creator) - Create your own playable 2D characters and maps, powered by fal.ai
 - [Nako0/devglobe-extension](https://github.com/Nako0/devglobe-extension) - Official IDE extensions for DevGlobe ! All improvements are welcome
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - The open-source screen recorder and editor for professional product videos, demos, and tutorials. Add auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
 - [yousifamanuel/terraink](https://github.com/yousifamanuel/terraink) - TerraInk: The Cartographic Poster Engine that creates unique and customizable map posters
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Build your personal butler
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - The first AI butler you actually own.
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [zlnvch/Webverse](https://github.com/zlnvch/Webverse) - Webverse is the collaborative canvas to annotate the web. Draw together in real time. Public, private, and shared spaces.
