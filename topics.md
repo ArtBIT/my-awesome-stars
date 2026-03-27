@@ -68,6 +68,7 @@
 - [developer-tools](#developer-tools)
 - [development](#development)
 - [devops](#devops)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -229,6 +230,7 @@
 - [ui](#ui)
 - [ui-design](#ui-design)
 - [unity](#unity)
+- [unreal-engine](#unreal-engine)
 - [video](#video)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
@@ -296,7 +298,8 @@
 
 ## ai-agents 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 
 ## algorithm 
@@ -421,7 +424,6 @@
 
 ## awesome-list 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [brycejohnston/awesome-agriculture](https://github.com/brycejohnston/awesome-agriculture) - Open source technology for agriculture, farming, and gardening
 - [dogancelik/awesome-bookmarking](https://github.com/dogancelik/awesome-bookmarking) - 🔖 Everything bookmarking related
@@ -807,7 +809,7 @@
 
 ## developer-tools 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - my curated agent skills library
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
 - [thomvaill/log4brains](https://github.com/thomvaill/log4brains) - ✍️ Architecture Decision Records (ADR) management and publication tool
@@ -830,6 +832,10 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
+
+## distributed-systems 
+
+- [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
 
 ## django 
 
@@ -985,6 +991,7 @@
 
 ## game-development 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [matmadness/HumanShaders](https://github.com/matmadness/HumanShaders) - A set of shaders for Godot to create realistic humanoid characters
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
@@ -1018,6 +1025,7 @@
 
 ## gamedev 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
@@ -1080,6 +1088,7 @@
 
 ## godot 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [nklbdev/godot-4-aseprite-importers](https://github.com/nklbdev/godot-4-aseprite-importers) - The addon for Godot 4 that adds several plugins for importing images and animations from Aseprite
 - [hectorid/aseprite_importer](https://github.com/hectorid/aseprite_importer) - A plugin for the Godot Engine that imports animations from Aseprite
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
@@ -1617,7 +1626,7 @@
 
 ## mcp 
 
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,304+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,326+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -3084,12 +3093,17 @@
 
 ## unity 
 
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [geoffb/dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) - Limited color palettes by DawnBringer in various formats.
 - [mixandjam/Celeste-Movement](https://github.com/mixandjam/Celeste-Movement) - Recreating the movement and feel from Celeste
 - [mixandjam/MonumentValley-LevelDesign](https://github.com/mixandjam/MonumentValley-LevelDesign) - Recreating the Level Design from Monument Valley
 - [Scrawk/2D-Deformable-body-in-Unity](https://github.com/Scrawk/2D-Deformable-body-in-Unity) - A 2D Deformable body simulation in Unity using FEM
 - [dgkanatsios/AngryBirdsStyleGame](https://github.com/dgkanatsios/AngryBirdsStyleGame) - Angry Birds style game in Unity
+
+## unreal-engine 
+
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 48 AI agents, 36 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 ## video 
 
