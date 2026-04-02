@@ -884,7 +884,8 @@
 
 ## electron 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is an open‑source screen recorder for MacOS/Windows/Linux with auto-zoom, motion blur animated cursors, webcam overlays, auto-captions and more. Used to create product demos, guided walkthrou
 - [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
 - [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1508,7 +1509,7 @@
 
 ## linux 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is an open‑source screen recorder for MacOS/Windows/Linux with auto-zoom, motion blur animated cursors, webcam overlays, auto-captions and more. Used to create product demos, guided walkthrou
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
@@ -1584,7 +1585,7 @@
 
 ## macos 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is an open‑source screen recorder for MacOS/Windows/Linux with auto-zoom, motion blur animated cursors, webcam overlays, auto-captions and more. Used to create product demos, guided walkthrou
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [geoffb/dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) - Limited color palettes by DawnBringer in various formats.
 - [sschmid/bee](https://github.com/sschmid/bee) - 🐝 bee - plugin-based bash automation
@@ -1758,7 +1759,8 @@
 
 ## open-source 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is an open‑source screen recorder for MacOS/Windows/Linux with auto-zoom, motion blur animated cursors, webcam overlays, auto-captions and more. Used to create product demos, guided walkthrou
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -3216,7 +3218,7 @@
 
 ## windows 
 
-- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is a powerful open-source screen recorder and editor for professional product videos, demos, and tutorials. Adds auto-zooms, webcam overlays, cursor animations and more to your recordings.
+- [webadderall/Recordly](https://github.com/webadderall/Recordly) - Recordly is an open‑source screen recorder for MacOS/Windows/Linux with auto-zoom, motion blur animated cursors, webcam overlays, auto-captions and more. Used to create product demos, guided walkthrou
 - [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
