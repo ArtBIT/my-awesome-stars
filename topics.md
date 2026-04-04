@@ -81,6 +81,7 @@
 - [english](#english)
 - [es6](#es6)
 - [eslint](#eslint)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [express](#express)
 - [facebook](#facebook)
@@ -925,6 +926,15 @@
 - [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (July 2024)
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
 
+## esp32 
+
+- [isocserbia/Klimerko-Pro](https://github.com/isocserbia/Klimerko-Pro) - ☁ Air Quality Monitoring Device
+- [HeyWillow/willow](https://github.com/HeyWillow/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
+- [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, S
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
+- [SamZorSec/Open-Home-Automation](https://github.com/SamZorSec/Open-Home-Automation) - Open Home Automation with Home Assistant, ESP8266/ESP32 and MQTT
+
 ## ethereum 
 
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
@@ -1509,6 +1519,7 @@
 
 ## linux 
 
+- [kometbomb/klystrack](https://github.com/kometbomb/klystrack) - A chiptune tracker
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux that adds auto-zooms, animated cursors, auto-captions and more to your videos.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [da-luce/astroterm](https://github.com/da-luce/astroterm) - A planetarium for your terminal! Explore stars, planets, constellations, and more, all rendered right in the command line—no telescope required. ✨🪐
@@ -1652,6 +1663,7 @@
 
 ## music 
 
+- [kometbomb/klystrack](https://github.com/kometbomb/klystrack) - A chiptune tracker
 - [Timendus/soundboard](https://github.com/Timendus/soundboard) - A very simple drag and drop soundboard app with MIDI support
 - [davem2/sfz2bitwig](https://github.com/davem2/sfz2bitwig) - Convert .SFZ files into Bitwig Studio multisample instruments.
 - [samim23/polymath](https://github.com/samim23/polymath) - Convert any music library into a music production sample-library with ML
@@ -1820,7 +1832,6 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
 - [sponticelli/game-studio-playbook.github.io](https://github.com/sponticelli/game-studio-playbook.github.io) - The Studio Playbook: Game Development from Vision to Launch
 - [zlnvch/Webverse](https://github.com/zlnvch/Webverse) - Webverse is the collaborative canvas to annotate the web. Draw together in real time. Public, private, and shared spaces.
-- [isocserbia/Klimerko-Pro](https://github.com/isocserbia/Klimerko-Pro) - ☁ Air Quality Monitoring Device
 - [adamyounis/Aseprite-Tools](https://github.com/adamyounis/Aseprite-Tools) - A series of handy scripts for Aseprite
 - [chasemp/fodder](https://github.com/chasemp/fodder) - Questions and conversation fodder.
 - [reales/OB-Xd](https://github.com/reales/OB-Xd) - Virtual Analog Oberheim based synthesizer.
@@ -3219,6 +3230,7 @@
 
 ## windows 
 
+- [kometbomb/klystrack](https://github.com/kometbomb/klystrack) - A chiptune tracker
 - [webadderall/Recordly](https://github.com/webadderall/Recordly) - Create polished screen recordings for free. An open-source screen recorder for Mac/Windows/Linux that adds auto-zooms, animated cursors, auto-captions and more to your videos.
 - [friction2d/friction](https://github.com/friction2d/friction) - Friction Graphics
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
