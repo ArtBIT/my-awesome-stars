@@ -86,6 +86,7 @@
 
 ## C 
 
+- [kometbomb/klystrack](https://github.com/kometbomb/klystrack) - A chiptune tracker
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
 - [SpacehuhnTech/esp8266_deauther](https://github.com/SpacehuhnTech/esp8266_deauther) - Affordable WiFi hacking platform for testing and learning
 - [danjulio/tCamMiniAnalog](https://github.com/danjulio/tCamMiniAnalog) - Alternative firmware generating NTSC or PAL Analog video output on tCam-Mini hardware
