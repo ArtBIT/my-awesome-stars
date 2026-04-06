@@ -942,7 +942,7 @@
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) - Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
 - [yaxan/Naruto_Handsign_Classification](https://github.com/yaxan/Naruto_Handsign_Classification) - Naruto Hand Gesture Recognition with OpenCV and Transfer Learning
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [a-nom-ali/inkscape-comfyui-extension](https://github.com/a-nom-ali/inkscape-comfyui-extension) - An Inkscape extension that integrates ComfyUI - turning Inkscape into Recraft!
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kyjohnso/skysplat_blender](https://github.com/kyjohnso/skysplat_blender) - 
@@ -1259,7 +1259,7 @@
 
 ## TypeScript 
 
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
 - [blendi-remade/sprite-sheet-creator](https://github.com/blendi-remade/sprite-sheet-creator) - Create your own playable 2D characters and maps, powered by fal.ai
 - [Nako0/devglobe-extension](https://github.com/Nako0/devglobe-extension) - Official IDE extensions for DevGlobe ! All improvements are welcome
