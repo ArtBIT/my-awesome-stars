@@ -932,12 +932,13 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [devanshutak25/blenderKey](https://github.com/devanshutak25/blenderKey) - Blender 5.0+ Addon to visualize and edit the hotkey bindings
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [mkst/zte-config-utility](https://github.com/mkst/zte-config-utility) - Scripts for decoding/encoding config.bin for ZTE routers
 - [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) - "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,340+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) - Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
@@ -1268,7 +1269,7 @@
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - The first AI butler you actually own.
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your AI butler that get things done
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [zlnvch/Webverse](https://github.com/zlnvch/Webverse) - Webverse is the collaborative canvas to annotate the web. Draw together in real time. Public, private, and shared spaces.
