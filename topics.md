@@ -1865,6 +1865,7 @@
 
 ## others 
 
+- [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [YukkiTimmy/Tilemap2Tileset](https://github.com/YukkiTimmy/Tilemap2Tileset) - Split all of your Tilemaps and Images into Tilesets or Tiles
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [IRCSS/Blender-Geometry-Node-French-Houses](https://github.com/IRCSS/Blender-Geometry-Node-French-Houses) - Blend file containing geometry nodes to procedurally create french style houses
