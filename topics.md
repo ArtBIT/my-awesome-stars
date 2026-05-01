@@ -1882,6 +1882,7 @@
 
 ## others 
 
+- [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [JaimeIsMe/comfystudio](https://github.com/JaimeIsMe/comfystudio) - Fully featured Video Editor Built Around Local and Cloud ComfyUI Workflows.
