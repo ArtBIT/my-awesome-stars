@@ -1421,7 +1421,7 @@
 - [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-- [sheerun/vim-polyglot](https://github.com/sheerun/vim-polyglot) - A solid language pack for Vim.
+- [vim-polyglot/vim-polyglot](https://github.com/vim-polyglot/vim-polyglot) - A solid language pack for Vim.
 - [bradjwhite/dotfiles](https://github.com/bradjwhite/dotfiles) - My dotfiles managed a la Ben Orenstein (r00k on github)
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [vim-utils/vim-troll-stopper](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
