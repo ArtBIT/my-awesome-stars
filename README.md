@@ -287,7 +287,7 @@
 - [KenneyNL/Starter-Kit-Racing](https://github.com/KenneyNL/Starter-Kit-Racing) - 
 - [nklbdev/godot-4-aseprite-importers](https://github.com/nklbdev/godot-4-aseprite-importers) - The addon for Godot 4 that adds several plugins for importing images and animations from Aseprite
 - [hectorid/aseprite_importer](https://github.com/hectorid/aseprite_importer) - A plugin for the Godot Engine that imports animations from Aseprite
-- [gdquest-demos/godot-procedural-generation](https://github.com/gdquest-demos/godot-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
+- [gdquest-demos/godot-4-procedural-generation](https://github.com/gdquest-demos/godot-4-procedural-generation) - Procedural generation algorithms and demos for the Godot game engine
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
 - [Smitner-Studio/tentacle-arm-showcase](https://github.com/Smitner-Studio/tentacle-arm-showcase) - Procedural Pixel Art Tentacles, what's not to love.
 - [daleblackwood/cookpot](https://github.com/daleblackwood/cookpot) - Cookpot is a plugin for Godot that provides essential tools for game prototyping
@@ -355,7 +355,6 @@
 
 ## HTML 
 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [mianmar11/Monsters-Mini-Jam-](https://github.com/mianmar11/Monsters-Mini-Jam-) - 
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
@@ -944,6 +943,7 @@
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local knowledge graph for Claude Code. Builds a persistent map of your codebase so Claude reads only what matters — 6.8× fewer tokens on reviews and up to 49× on daily coding tasks.
 - [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development for Godot and Bevy with Claude Code and Codex
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [devanshutak25/blenderKey](https://github.com/devanshutak25/blenderKey) - Blender 5.0+ Addon to visualize and edit the hotkey bindings
 - [nikopueringer/CorridorKey](https://github.com/nikopueringer/CorridorKey) - Perfect Green Screen Keys
