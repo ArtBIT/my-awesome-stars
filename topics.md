@@ -2058,7 +2058,6 @@
 - [imagiscope/EarthStudioTools](https://github.com/imagiscope/EarthStudioTools) - Blender Panel to import Google Earth Studio, KML Routes, and 3D Masking
 - [Burningstone91/smart-home-setup](https://github.com/Burningstone91/smart-home-setup) - Installation and Configuration of my Smart Home Setup
 - [codrops/GooeyCursor](https://github.com/codrops/GooeyCursor) - A gooey cursor background effect with SVG filters and CSS blend modes.
-- [s0md3v/roop](https://github.com/s0md3v/roop) - 
 - [viccherubini/get-shit-done](https://github.com/viccherubini/get-shit-done) - Small script to configure your hosts file so you don't get distracted during the day.
 - [000miix/DailyGrapher](https://github.com/000miix/DailyGrapher) - A Hacs Custom Card that shows a calendar on a clock
 - [CiaraStrawberry/TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
@@ -2967,6 +2966,7 @@
 
 ## self-hosted 
 
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
 - [lightningpixel/modly](https://github.com/lightningpixel/modly) - Desktop app to generate 3D models from images using local AI — runs entirely on your GPU
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
 - [wealthfolio/wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
@@ -3129,6 +3129,7 @@
 
 ## text-to-speech 
 
+- [debpalash/OmniVoice-Studio](https://github.com/debpalash/OmniVoice-Studio) - The open-source ElevenLabs alternative for local voice cloning, design, create, dubbing and dictation Desktop App
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
