@@ -43,7 +43,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
-- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -342,7 +341,7 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
-- [dkorunic/e-dnevnik-bot](https://github.com/dkorunic/e-dnevnik-bot) - e-Dnevnik grade/exam alerting system (https://ocjene.skole.hr)
+- [dkorunic/e-dnevnik-bot](https://github.com/dkorunic/e-dnevnik-bot) - Grade/exam alerting bot for the Croatian e-Dnevnik school system
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
@@ -1086,6 +1085,7 @@
 - [EatTheFuture/camera_shakify](https://github.com/EatTheFuture/camera_shakify) - 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - Code for "Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data"
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [xinjli/allosaurus](https://github.com/xinjli/allosaurus) - Allosaurus is a pretrained universal phone recognizer for more than 2000 languages
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [specoolar/NodeRelax-Blender-Addon](https://github.com/specoolar/NodeRelax-Blender-Addon) - Helps to arrange nodes
@@ -1144,10 +1144,6 @@
 - [minkphp/docs](https://github.com/minkphp/docs) - Mink documentation
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [lmacken/photobooth.py](https://github.com/lmacken/photobooth.py) - A photobooth script that automatically snaps a photo, applies a watermark, uploads to a remote server, generates a QRCode, shortens the URL, ouputs an HTML template, and displays it your web browser.
-
-## QML 
-
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Ruby 
 
@@ -1285,7 +1281,7 @@
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your AI butler that get things done
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your personal AI OS
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [zlnvch/Webverse](https://github.com/zlnvch/Webverse) - Webverse is the collaborative canvas to annotate the web. Draw together in real time. Public, private, and shared spaces.
