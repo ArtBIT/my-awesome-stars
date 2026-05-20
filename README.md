@@ -43,6 +43,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
+- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -955,7 +956,7 @@
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) - Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
 - [yaxan/Naruto_Handsign_Classification](https://github.com/yaxan/Naruto_Handsign_Classification) - Naruto Hand Gesture Recognition with OpenCV and Transfer Learning
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [a-nom-ali/inkscape-comfyui-extension](https://github.com/a-nom-ali/inkscape-comfyui-extension) - An Inkscape extension that integrates ComfyUI - turning Inkscape into Recraft!
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [kyjohnso/skysplat_blender](https://github.com/kyjohnso/skysplat_blender) - 
@@ -1085,7 +1086,6 @@
 - [EatTheFuture/camera_shakify](https://github.com/EatTheFuture/camera_shakify) - 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - Code for "Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data"
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [xinjli/allosaurus](https://github.com/xinjli/allosaurus) - Allosaurus is a pretrained universal phone recognizer for more than 2000 languages
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [specoolar/NodeRelax-Blender-Addon](https://github.com/specoolar/NodeRelax-Blender-Addon) - Helps to arrange nodes
@@ -1144,6 +1144,10 @@
 - [minkphp/docs](https://github.com/minkphp/docs) - Mink documentation
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [lmacken/photobooth.py](https://github.com/lmacken/photobooth.py) - A photobooth script that automatically snaps a photo, applies a watermark, uploads to a remote server, generates a QRCode, shortens the URL, ouputs an HTML template, and displays it your web browser.
+
+## QML 
+
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Ruby 
 
