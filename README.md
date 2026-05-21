@@ -43,7 +43,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [Python](#python)
-- [QML](#qml)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -349,7 +348,7 @@
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
-- [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+- [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [future-architect/vuls](https://github.com/future-architect/vuls) - Agent-less vulnerability scanner for Linux, FreeBSD, Container, WordPress, Programming language libraries, Network devices
 
@@ -663,7 +662,6 @@
 - [prebid/Prebid.js](https://github.com/prebid/Prebid.js) - Setup and manage header bidding advertising partners without writing code or confusing line items. Prebid.js is open source and free.
 - [zya/beet.js](https://github.com/zya/beet.js) - Polyrhythmic Sequencer library for Web Audio API.
 - [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
-- [steelbreeze/state.js](https://github.com/steelbreeze/state.js) - DEPRECATED, please see @steelbreeze/state
 - [jakesgordon/javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A javascript finite state machine library
 - [aaccurso/phaser-state-transition-plugin](https://github.com/aaccurso/phaser-state-transition-plugin) - :sparkles: – Refactored State Transition plugin for Phaser.js
 - [buzzfeed/libgif-js](https://github.com/buzzfeed/libgif-js) - JavaScript GIF parser and player
@@ -1086,6 +1084,7 @@
 - [EatTheFuture/camera_shakify](https://github.com/EatTheFuture/camera_shakify) - 
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
 - [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - Code for "Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data"
+- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 - [xinjli/allosaurus](https://github.com/xinjli/allosaurus) - Allosaurus is a pretrained universal phone recognizer for more than 2000 languages
 - [deepjyoti30/ytmdl](https://github.com/deepjyoti30/ytmdl) - A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.
 - [specoolar/NodeRelax-Blender-Addon](https://github.com/specoolar/NodeRelax-Blender-Addon) - Helps to arrange nodes
@@ -1144,10 +1143,6 @@
 - [minkphp/docs](https://github.com/minkphp/docs) - Mink documentation
 - [mail-in-a-box/mailinabox](https://github.com/mail-in-a-box/mailinabox) - Mail-in-a-Box helps individuals take back control of their email by defining a one-click, easy-to-deploy SMTP+everything else server: a mail server in a box.
 - [lmacken/photobooth.py](https://github.com/lmacken/photobooth.py) - A photobooth script that automatically snaps a photo, applies a watermark, uploads to a remote server, generates a QRCode, shortens the URL, ouputs an HTML template, and displays it your web browser.
-
-## QML 
-
-- [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
 
 ## Ruby 
 
