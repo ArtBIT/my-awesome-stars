@@ -300,7 +300,6 @@
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robo
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [a-nom-ali/inkscape-comfyui-extension](https://github.com/a-nom-ali/inkscape-comfyui-extension) - An Inkscape extension that integrates ComfyUI - turning Inkscape into Recraft!
@@ -414,6 +413,7 @@
 ## automation 
 
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
@@ -601,6 +601,7 @@
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [devanshutak25/blenderKey](https://github.com/devanshutak25/blenderKey) - Blender 5.0+ Addon to visualize and edit the hotkey bindings
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - my curated agent skills library
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
@@ -866,6 +867,7 @@
 ## developer-tools 
 
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - my curated agent skills library
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [continuedev/continue](https://github.com/continuedev/continue) - ⏩ Source-controlled AI checks, enforceable in CI. Powered by the open-source Continue CLI
@@ -1742,6 +1744,7 @@
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,500+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes specialized plugins, installer CLI, bundles, workflows, and official
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
@@ -1833,7 +1836,6 @@
 
 ## nodejs 
 
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [borjapazr/express-typescript-skeleton](https://github.com/borjapazr/express-typescript-skeleton) - 🔰🦸 Template to start developing a REST API with Node.js (Express), TypeScript, Ts.ED, ESLint, Prettier, Husky, Prisma, etc.
@@ -1925,6 +1927,7 @@
 
 ## others 
 
+- [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [apple/ml-lito](https://github.com/apple/ml-lito) - [ICLR 2026] LiTo: Surface Light Field Tokenization
 - [EarToEarOak/RTLSDR-Scanner](https://github.com/EarToEarOak/RTLSDR-Scanner) - A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library
 - [tachikomared/character-animation-creator-skill](https://github.com/tachikomared/character-animation-creator-skill) - Character Animation Creator Skill for Codex and GPT Web Agent — generates game-ready animations and sprites from reference images or text prompts
@@ -2651,7 +2654,6 @@
 
 ## postgresql 
 
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [turbot/steampipe](https://github.com/turbot/steampipe) - Zero-ETL, infinite possibilities. Live query APIs, code & more with SQL. No DB required.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -3192,7 +3194,6 @@
 - [chopratejas/headroom](https://github.com/chopratejas/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [walterlow/freecut](https://github.com/walterlow/freecut) - FreeCut is a professional-grade video editor that runs entirely in your browser. Professional video editing, zero installation. Create stunning videos with multi-track editing, keyframe animations, re
-- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [aminere/powerplay-threejs](https://github.com/aminere/powerplay-threejs) - Powerplay RTS original Threejs prototype
 - [dulnan/lazy-brush](https://github.com/dulnan/lazy-brush) - Smooth drawing with mouse, finger or other pointing device
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
