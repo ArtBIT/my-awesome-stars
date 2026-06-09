@@ -1347,7 +1347,7 @@
 
 ## homebrew 
 
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 
 ## html 
 
@@ -1710,7 +1710,7 @@
 - [wincent/wincent](https://github.com/wincent/wincent) - 💾 Dot-files
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “KeePass Password Safe”.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
@@ -2605,7 +2605,7 @@
 ## package-manager 
 
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 
 ## penetration-testing 
 
@@ -2957,7 +2957,7 @@
 
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [ArtBIT/shutter-cloudapp-plugin](https://github.com/ArtBIT/shutter-cloudapp-plugin) - An Shutter plugin for cloudapp.com
 
 ## rust 
