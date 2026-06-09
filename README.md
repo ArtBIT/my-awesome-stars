@@ -1153,7 +1153,7 @@
 - [sshkarupa/url-handlers](https://github.com/sshkarupa/url-handlers) - 
 - [mame/quine-relay](https://github.com/mame/quine-relay) - An uroboros program with 100+ programming languages
 - [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The missing package manager for macOS (or Linux)
+- [Homebrew/brew](https://github.com/Homebrew/brew) - 🍺 The Package Manager for Everywhere
 - [will-in-wi/letsencrypt-webfaction](https://github.com/will-in-wi/letsencrypt-webfaction) - LetsEncrypt utility client for WebFaction hosts.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [onema/vagrant-lamp-development](https://github.com/onema/vagrant-lamp-development) - 
