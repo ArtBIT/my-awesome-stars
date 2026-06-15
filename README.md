@@ -54,6 +54,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
+- [Vue](#vue)
 - [WebAssembly](#webassembly)
 
 ## API Blueprint 
@@ -455,6 +456,7 @@
 
 ## JavaScript 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [JaimeIsMe/comfystudio](https://github.com/JaimeIsMe/comfystudio) - Fully featured Video Editor Built Around Local and Cloud ComfyUI Workflows.
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 - [workout-lol/workout-lol](https://github.com/workout-lol/workout-lol) - A simple way to create a workout plan
@@ -1435,6 +1437,10 @@
 - [vim-scripts/marvim](https://github.com/vim-scripts/marvim) - Macro Persistent Storage and Shareable Repository for VIM
 - [hotoo/template.vim](https://github.com/hotoo/template.vim) - Smart load template for Vim.
 - [jdonaldson/vaxe](https://github.com/jdonaldson/vaxe) - A modern, modular vim mode for Haxe.
+
+## Vue 
+
+- [RitvikShandilya/morti-app](https://github.com/RitvikShandilya/morti-app) - Morti is an open-source furniture design app for cabinets, wardrobes, and shelves. You can make money by turning it into custom planning, quoting, and sales tools for furniture companies like IKEA.
 
 ## WebAssembly 
 
