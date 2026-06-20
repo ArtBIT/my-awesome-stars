@@ -978,7 +978,7 @@
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [tchar/ulauncher-albert-calculate-anything](https://github.com/tchar/ulauncher-albert-calculate-anything) - A ULauncher/Albert extension that supports currency, units and date time conversion, as well as a calculator that supports complex numbers and functions.
 - [qcasey/ulauncher-homeassistant](https://github.com/qcasey/ulauncher-homeassistant) - A Ulauncher extension to view and control devices in your HomeAssistant instance.
-- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for youtube-dl / yt-dlp)
+- [alexta69/metube](https://github.com/alexta69/metube) - Self-hosted video downloader for YouTube and other sites (web UI for yt-dlp)
 - [AlfredoSequeida/hints](https://github.com/AlfredoSequeida/hints) - Hints lets you navigate GUI applications in Linux without your mouse by displaying "hints" you can type on your keyboard to interact with GUI elements.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [LinuxCNC/linuxcnc](https://github.com/LinuxCNC/linuxcnc) - LinuxCNC controls CNC machines. It can drive milling machines, lathes, 3d printers, laser cutters, plasma cutters, robot arms, hexapods, and more.
