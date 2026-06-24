@@ -1928,6 +1928,7 @@
 
 ## others 
 
+- [richardwilkes/gcs](https://github.com/richardwilkes/gcs) - GURPS Character Sheet
 - [mrH0411/Ebook-EthicalHacking](https://github.com/mrH0411/Ebook-EthicalHacking) - EthicalHacking, Python, Nmap, Metasploit
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
 - [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
