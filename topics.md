@@ -2014,7 +2014,7 @@
 - [BreezeWhite/oemer](https://github.com/BreezeWhite/oemer) - End-to-end Optical Music Recognition (OMR) system. Transcribe phone-taken music sheet image into MusicXML, which can be edited and converted to MIDI.
 - [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [charmbracelet/sequin](https://github.com/charmbracelet/sequin) - Human-readable ANSI sequences 🪩
-- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - An OBD-II compliant car diagnostic tool
+- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - OBD-II compliant automotive diagnostic software
 - [daleblackwood/cookpot](https://github.com/daleblackwood/cookpot) - Cookpot is a plugin for Godot that provides essential tools for game prototyping
 - [daleblackwood/spreadjam](https://github.com/daleblackwood/spreadjam) - An OBS-based Game Jam timer and video measurer
 - [daleblackwood/goshapes](https://github.com/daleblackwood/goshapes) - Intuitive path-based level editing for Godot 4
