@@ -1941,6 +1941,7 @@
 
 ## others 
 
+- [EnriqueNeyra/aether](https://github.com/EnriqueNeyra/aether) - All-in-one home air quality monitor measuring Temp, Humidity, CO2, VOCs, Particulate Matter, and NOx. Powered by ESP32-C3 running esphome, and built with Home Assistant integration
 - [ArtBIT/MagicPy](https://github.com/ArtBIT/MagicPy) - A Magic Eye autostereogram generator
 - [richardwilkes/gcs](https://github.com/richardwilkes/gcs) - GURPS Character Sheet
 - [mrH0411/Ebook-EthicalHacking](https://github.com/mrH0411/Ebook-EthicalHacking) - EthicalHacking, Python, Nmap, Metasploit
