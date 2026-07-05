@@ -465,7 +465,7 @@
 - [switchangel/strudel-scripts](https://github.com/switchangel/strudel-scripts) - my custom strudel scripts that haven't made it in to strudel for whatever reason
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 - [shzlw/zeu](https://github.com/shzlw/zeu) - A JavaScript library for real-time visualization
-- [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - my curated agent skills library
+- [MoizIbnYousaf/Ai-Agent-Skills](https://github.com/MoizIbnYousaf/Ai-Agent-Skills) - Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills
 - [Tele-AI/TeleStyle](https://github.com/Tele-AI/TeleStyle) - state-of-the-art content-preserving style transfer
 - [huggingface/transformers.js](https://github.com/huggingface/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 - [chasemp/peadoubleueh](https://github.com/chasemp/peadoubleueh) - PWA thoughts and resources
@@ -989,7 +989,7 @@
 - [microsoft/TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
 - [Mathics3/mathics-core](https://github.com/Mathics3/mathics-core) - An open-source Mathematica Kernel. This repository contains the Python modules for WL Built-in functions, variables, core primitives, e.g. Symbol, a parser to create Expressions, and an evaluator to e
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
-- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - OBD-II compliant automotive diagnostic software
+- [barracuda-fsh/pyobd](https://github.com/barracuda-fsh/pyobd) - OBD-II compliant automotive diagnostic tool
 - [askui/python-sdk](https://github.com/askui/python-sdk) - Enable AI to control your desktop, mobile and HMI devices
 - [davidpendergast/pygame-utils](https://github.com/davidpendergast/pygame-utils) - A collection of smaller projects I made using pygame, numpy, and/or OpenGL
 - [alvinliu0/HumanGaussian](https://github.com/alvinliu0/HumanGaussian) - [CVPR 2024 Highlight] Code for "HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting"
