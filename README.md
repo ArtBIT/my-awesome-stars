@@ -852,7 +852,6 @@
 - [grakic/dict-sr-oxt](https://github.com/grakic/dict-sr-oxt) - Serbian dictionary and hyphenation extension for LibreOffice/OpenOffice
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [serhii-londar/open-source-mac-os-apps](https://github.com/serhii-londar/open-source-mac-os-apps) - 🚀 Awesome list of open source applications for macOS. https://t.me/s/opensourcemacosapps
-- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [chasemp/chasemp](https://github.com/chasemp/chasemp) - 
 - [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - 🪐 A curated list of awesome Blender addons, tools, tutorials; and 3D resources for everyone.
 - [goabstract/Marketing-for-Engineers](https://github.com/goabstract/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
@@ -1193,6 +1192,7 @@
 - [yamafaktory/jql](https://github.com/yamafaktory/jql) - A JSON Query Language CLI tool
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [skerkour/bloom](https://github.com/skerkour/bloom) - 
 - [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
