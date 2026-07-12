@@ -618,7 +618,6 @@
 - [gielcobben/caption](https://github.com/gielcobben/caption) - Get Caption, start watching.
 - [phaserjs/phaser-ce](https://github.com/phaserjs/phaser-ce) - Phaser CE is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
-- [msurguy/triangles](https://github.com/msurguy/triangles) - Delaunay triangulation + Lambertian reflectance
 - [PorkShoulderHolder/morph](https://github.com/PorkShoulderHolder/morph) - mathematical morphology for javascript
 - [JosephusPaye/Keen-UI](https://github.com/JosephusPaye/Keen-UI) - A lightweight Vue.js UI library with a simple API, inspired by Google's Material Design.
 - [googleads/googleads-ima-html5](https://github.com/googleads/googleads-ima-html5) - Samples for the HTML5 IMA SDK.
@@ -1406,6 +1405,7 @@
 - [SteamGridDB/steam-rom-manager](https://github.com/SteamGridDB/steam-rom-manager) - The bulk game importer and artwork manager for Steam!
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [react-page/react-page](https://github.com/react-page/react-page) - Next-gen, highly customizable content editor for the browser - based on React and written in TypeScript. WYSIWYG on steroids.
+- [msurguy/triangles](https://github.com/msurguy/triangles) - Delaunay triangulation + Lambertian reflectance
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
 - [furnishup/blueprint3d](https://github.com/furnishup/blueprint3d) - Build interior spaces in 3D
