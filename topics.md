@@ -1967,6 +1967,7 @@
 
 ## others 
 
+- [VitSoonYoung/SpriteStack2D](https://github.com/VitSoonYoung/SpriteStack2D) - Render pseudo 3D sprite node from a single 2D texture of different view angles
 - [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion) - Procedural generation with diffusion models (SIGGRAPH '26)
 - [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.
 - [kaolti/monolith-terrain](https://github.com/kaolti/monolith-terrain) - Interactive 3D topographic map — real-world elevation data rendered as a vintage USGS topo sheet with a sci-fi HUD. Three.js.
@@ -1977,7 +1978,7 @@
 - [richardwilkes/gcs](https://github.com/richardwilkes/gcs) - GURPS Character Sheet
 - [mrH0411/Ebook-EthicalHacking](https://github.com/mrH0411/Ebook-EthicalHacking) - EthicalHacking, Python, Nmap, Metasploit
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
-- [pewdiepie-archdaemon/odysseus](https://github.com/pewdiepie-archdaemon/odysseus) - Self-hosted AI workspace.
+- [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [apple/ml-lito](https://github.com/apple/ml-lito) - [ICLR 2026] LiTo: Surface Light Field Tokenization
 - [EarToEarOak/RTLSDR-Scanner](https://github.com/EarToEarOak/RTLSDR-Scanner) - A cross platform Python frequency scanning GUI for the OsmoSDR rtl-sdr library
