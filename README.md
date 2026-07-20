@@ -157,6 +157,7 @@
 
 ## C++ 
 
+- [lspr98/conformer-stt-s3](https://github.com/lspr98/conformer-stt-s3) - Automatic speech recognition (ASR) running on the ESP32-S3 based on a 13.1M parameters convolution transformer.
 - [id-Software/DOOM](https://github.com/id-Software/DOOM) - DOOM Open Source Release
 - [widelands/widelands](https://github.com/widelands/widelands) - Widelands is a free, open source real-time strategy game with singleplayer campaigns and a multiplayer mode. The game was inspired by Settlers II™ (© Bluebyte) but has significantly more variety and d
 - [ihhub/fheroes2](https://github.com/ihhub/fheroes2) - fheroes2 is a recreation of Heroes of Might and Magic II game engine
