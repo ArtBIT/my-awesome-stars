@@ -1967,6 +1967,7 @@
 
 ## others 
 
+- [lspr98/conformer-stt-s3](https://github.com/lspr98/conformer-stt-s3) - Automatic speech recognition (ASR) running on the ESP32-S3 based on a 13.1M parameters convolution transformer.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [VitSoonYoung/SpriteStack2D](https://github.com/VitSoonYoung/SpriteStack2D) - Render pseudo 3D sprite node from a single 2D texture of different view angles
 - [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion) - Procedural generation with diffusion models (SIGGRAPH '26)
