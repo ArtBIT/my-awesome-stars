@@ -49,6 +49,7 @@
 - [Scheme](#scheme)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
+- [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -359,6 +360,7 @@
 
 ## HTML 
 
+- [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [mianmar11/Monsters-Mini-Jam-](https://github.com/mianmar11/Monsters-Mini-Jam-) - 
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
@@ -813,7 +815,6 @@
 - [Mathews-Tom/Agentic-Design-Patterns](https://github.com/Mathews-Tom/Agentic-Design-Patterns) - Agentic Design Patterns
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [yaxu/clean-breaks](https://github.com/yaxu/clean-breaks) - 
-- [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [sponticelli/game-studio-playbook.github.io](https://github.com/sponticelli/game-studio-playbook.github.io) - The Studio Playbook: Game Development from Vision to Launch
 - [chasemp/fodder](https://github.com/chasemp/fodder) - Questions and conversation fodder.
@@ -937,6 +938,7 @@
 
 ## Python 
 
+- [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) - 
 - [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat) - TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - A feed-forward 3D foundation model for reconstructing scenes from streaming data
 - [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion) - Procedural generation with diffusion models (SIGGRAPH '26)
@@ -1267,6 +1269,10 @@
 - [VISIONAI/clouddream](https://github.com/VISIONAI/clouddream) - Deepdreaming in the clouds: A Dockerized deepdream Guide
 - [ArtBIT/bash-skype-notify](https://github.com/ArtBIT/bash-skype-notify) - Bash Skype Notify
 
+## Standard ML 
+
+- [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
+
 ## Svelte 
 
 - [matt8707/ha-fusion](https://github.com/matt8707/ha-fusion) - A modern, easy-to-use and performant custom Home Assistant dashboard
@@ -1362,7 +1368,7 @@
 - [reactserbia/uplatnica](https://github.com/reactserbia/uplatnica) - Quick and simple way to get NBS QR code. 🧾
 - [Vagr9K/gatsby-advanced-starter](https://github.com/Vagr9K/gatsby-advanced-starter) - A high performance skeleton starter for GatsbyJS with an advanced feature set.
 - [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
-- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
+- [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform for agents and developers
 - [reduxjs/redux-templates](https://github.com/reduxjs/redux-templates) - Official Redux templates for Vite, Create-React-App, and more
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
