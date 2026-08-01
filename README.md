@@ -1279,6 +1279,7 @@
 
 ## Swift 
 
+- [rafapages/DashPad](https://github.com/rafapages/DashPad) - An iPad app to turn your old tablet into a kiok-style dashboard
 - [Shopify/tracky](https://github.com/Shopify/tracky) - The easiest way to do motion tracking!
 
 ## TeX 
