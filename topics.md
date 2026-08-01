@@ -1968,6 +1968,7 @@
 
 ## others 
 
+- [rafapages/DashPad](https://github.com/rafapages/DashPad) - An iPad app to turn your old tablet into a kiok-style dashboard
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
 - [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) - 
 - [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat) - TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
