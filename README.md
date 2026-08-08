@@ -966,7 +966,7 @@
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [mkst/zte-config-utility](https://github.com/mkst/zte-config-utility) - Scripts for decoding/encoding config.bin for ZTE routers
 - [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) - "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
-- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,000+ agentic skills. Includes CLI, local MCP, catalo
+- [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
 - [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) - Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
