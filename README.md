@@ -86,6 +86,7 @@
 
 ## C 
 
+- [vmalis/AirESP32ace](https://github.com/vmalis/AirESP32ace) - 
 - [EnriqueNeyra/aether](https://github.com/EnriqueNeyra/aether) - All-in-one home air quality monitor measuring Temp, Humidity, CO2, VOCs, Particulate Matter, and NOx. Powered by ESP32-C3 running esphome, and built with Home Assistant integration
 - [kometbomb/klystrack](https://github.com/kometbomb/klystrack) - A chiptune tracker
 - [godotjs/GodotJS](https://github.com/godotjs/GodotJS) - Add TypeScript/JavaScript Support for Godot 4.x with v8/QuickJS/JavaScriptCore/Browser
