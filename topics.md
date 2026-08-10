@@ -1969,6 +1969,7 @@
 
 ## others 
 
+- [vmalis/AirESP32ace](https://github.com/vmalis/AirESP32ace) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [rafapages/DashPad](https://github.com/rafapages/DashPad) - An iPad app to turn your old tablet into a kiok-style dashboard
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
