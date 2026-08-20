@@ -1979,6 +1979,7 @@
 
 ## others 
 
+- [iltaen/spider_walker](https://github.com/iltaen/spider_walker) - Blender addon: Procedural walking for spider-like armatures
 - [vmalis/AirESP32ace](https://github.com/vmalis/AirESP32ace) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [rafapages/DashPad](https://github.com/rafapages/DashPad) - An iPad app to turn your old tablet into a kiok-style dashboard
