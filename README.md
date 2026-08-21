@@ -355,6 +355,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer & processor
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -486,6 +487,7 @@
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [react-static/react-static](https://github.com/react-static/react-static) - ⚛️ 🚀 A progressive static site generator for React.
 - [konato-debug/pokemon-phaser](https://github.com/konato-debug/pokemon-phaser) - A simple Pokemon-Inspired game created with Phaser 3.
+- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [ask0ldd/OsspitaUI](https://github.com/ask0ldd/OsspitaUI) - 
 - [sitamet/gptpo](https://github.com/sitamet/gptpo) - 
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
@@ -1331,7 +1333,6 @@
 - [adrienbrault/ha-jsx-strategy](https://github.com/adrienbrault/ha-jsx-strategy) - Dynamic Home Assistant dashboards using JSX/TSX
 - [silverbulletmd/silverbullet](https://github.com/silverbulletmd/silverbullet) - An open source personal productivity platform built on Markdown, turbo charged with the scripting power of Lua
 - [ybizeul/ybFeed](https://github.com/ybizeul/ybFeed) - Personal micro feed where you can post snippets of text or images and files.
-- [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [continuedev/continue](https://github.com/continuedev/continue) - open-source coding agent
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using LLM api, support openai/anthropic/google models
 - [carloscuesta/gitmoji](https://github.com/carloscuesta/gitmoji) - An emoji guide for your commit messages. 😜
@@ -1398,7 +1399,6 @@
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
 - [react-hook-form/react-hook-form](https://github.com/react-hook-form/react-hook-form) - 📋 React Hooks for form state management and validation (Web + React Native)
 - [lf2com/magnet.js](https://github.com/lf2com/magnet.js) - Magnet.js is a JavaScript library that groups HTML elements and makes them attractable to each other
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [harryho/react-crm](https://github.com/harryho/react-crm) - A reusable CRM project for real-world business based on React, Redux & Material-UI
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [diegomura/react-pdf](https://github.com/diegomura/react-pdf) - 📄  Create PDF files using React
