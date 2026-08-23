@@ -49,7 +49,6 @@
 - [Scheme](#scheme)
 - [ShaderLab](#shaderlab)
 - [Shell](#shell)
-- [Standard ML](#standard-ml)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -973,6 +972,7 @@
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,005+ agentic skills. Includes CLI, local MCP, catalo
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [rotki/rotki](https://github.com/rotki/rotki) - A portfolio tracking, analytics, accounting and management application that protects your privacy
+- [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 - [Roboparty/roboto_origin](https://github.com/Roboparty/roboto_origin) - Roboto_origin Fully Open-Source DIY Humanoid Robot/萝博头原型机全开源手搓级人形机器人
 - [yaxan/Naruto_Handsign_Classification](https://github.com/yaxan/Naruto_Handsign_Classification) - Naruto Hand Gesture Recognition with OpenCV and Transfer Learning
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
@@ -1272,10 +1272,6 @@
 - [AlanChatham/UnoJoy](https://github.com/AlanChatham/UnoJoy) - UnoJoy! allows you to easily turn an Arduino Uno (or Mega or Leonardo) into a PS3-compatible USB game controller
 - [VISIONAI/clouddream](https://github.com/VISIONAI/clouddream) - Deepdreaming in the clouds: A Dockerized deepdream Guide
 - [ArtBIT/bash-skype-notify](https://github.com/ArtBIT/bash-skype-notify) - Bash Skype Notify
-
-## Standard ML 
-
-- [Seeed-Projects/reBot-DevArm](https://github.com/Seeed-Projects/reBot-DevArm) - Open Source Robotic Arm for All Developers
 
 ## Svelte 
 
