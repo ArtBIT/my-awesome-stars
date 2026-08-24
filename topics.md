@@ -187,6 +187,7 @@
 - [php](#php)
 - [physics](#physics)
 - [pixel-art](#pixel-art)
+- [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [powershell](#powershell)
 - [privacy](#privacy)
@@ -2211,7 +2212,6 @@
 - [gubatron/LifeTips](https://github.com/gubatron/LifeTips) - Principles and specific tips for easier decision making and living a good life
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [reactserbia/uplatnica](https://github.com/reactserbia/uplatnica) - Quick and simple way to get NBS QR code. 🧾
-- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [mixandjam/StarFox-RailMovement](https://github.com/mixandjam/StarFox-RailMovement) - Recreating the rail movement system from Star Fox
 - [iamcal/oembed](https://github.com/iamcal/oembed) - The oEmbed Spec
 - [hellatan/metalsmith-archive](https://github.com/hellatan/metalsmith-archive) - Create an archives page for Metalsmith
@@ -2722,6 +2722,10 @@
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [LibreSprite/LibreSprite](https://github.com/LibreSprite/LibreSprite) - Animated sprite editor & pixel art tool -- Fork of the last GPLv2 commit of Aseprite
 - [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
+
+## portfolio 
+
+- [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 
 ## postgresql 
 
