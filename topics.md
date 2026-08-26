@@ -470,7 +470,6 @@
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [rehooks/awesome-react-hooks](https://github.com/rehooks/awesome-react-hooks) - Awesome React Hooks
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
-- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 - [Hack-with-Github/Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking) - A collection of various awesome lists for hackers, pentesters and security researchers
 - [thibmaek/awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
@@ -1096,6 +1095,7 @@
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [Clooos/Home-Assistant-Mobile-First](https://github.com/Clooos/Home-Assistant-Mobile-First) - A minimalist and user-friendly design, combined with an mobile first approach for the Home Assistant dashboard.
 - [chantastic/reactpatterns](https://github.com/chantastic/reactpatterns) - Patterns for React Developers
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 - [springernature/frontend-playbook](https://github.com/springernature/frontend-playbook) - The Frontend Playbook
 
 ## game 
@@ -1381,7 +1381,7 @@
 - [ESPresense/ESPresense](https://github.com/ESPresense/ESPresense) - An ESP32 based node for gathering indoor positioning and transmitting to mqtt
 - [PRProd/HA-Firemote](https://github.com/PRProd/HA-Firemote) - Apple TV, Amazon Fire TV, Chromecast, Homatics, NVIDIA Shield, onn., Roku, Xiaomi Mi, and Android TV remote control card for Home Assistant
 - [zigbee2mqtt/hassio-zigbee2mqtt](https://github.com/zigbee2mqtt/hassio-zigbee2mqtt) - Official Zigbee2MQTT Home Assistant add-on
-- [hassio-addons/addon-tasmoadmin](https://github.com/hassio-addons/addon-tasmoadmin) - TasmoAdmin - Home Assistant Community Add-ons
+- [hassio-addons/app-tasmoadmin](https://github.com/hassio-addons/app-tasmoadmin) - TasmoAdmin - Home Assistant Community Apps
 - [nerdaxic/glados-voice-assistant](https://github.com/nerdaxic/glados-voice-assistant) - DIY Voice Assistant based on the GLaDOS character from Portal video game series. Works with home assistant!
 - [frenck/awesome-home-assistant](https://github.com/frenck/awesome-home-assistant) - A curated list of amazingly awesome Home Assistant resources.
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems.
@@ -3448,6 +3448,7 @@
 
 - [fand/vfx-js](https://github.com/fand/vfx-js) - WebGL effects made easy.
 - [honzaap/Systemizer](https://github.com/honzaap/Systemizer) - A system design tool that allows you to simulate data flow of distributed systems.
+- [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 
 ## web3 
 
