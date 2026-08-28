@@ -364,6 +364,7 @@
 ## HTML 
 
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
+- [satyajiit/aster-mcp](https://github.com/satyajiit/aster-mcp) - Control your Android device with AI via MCP (Model Context Protocol)
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [mianmar11/Monsters-Mini-Jam-](https://github.com/mianmar11/Monsters-Mini-Jam-) - 
 - [ariroffe/personal-website](https://github.com/ariroffe/personal-website) - Code for my Pokémon-style personal website, made with Phaser 3
@@ -766,7 +767,6 @@
 
 ## Kotlin 
 
-- [satyajiit/aster-mcp](https://github.com/satyajiit/aster-mcp) - Control your Android device with AI via MCP (Model Context Protocol)
 - [rogro82/PiPup](https://github.com/rogro82/PiPup) - Enhanced notifications for Android TV
 
 ## Less 
