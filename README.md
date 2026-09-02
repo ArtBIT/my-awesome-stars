@@ -1049,7 +1049,7 @@
 - [imagiscope/EarthStudioTools](https://github.com/imagiscope/EarthStudioTools) - Blender Panel to import Google Earth Studio, KML Routes, and 3D Masking
 - [sopelj/python-ember-mug](https://github.com/sopelj/python-ember-mug) - Python Library to Interact with Ember Mugs
 - [AntonOsika/gpt-engineer](https://github.com/AntonOsika/gpt-engineer) - CLI platform to experiment with codegen. Precursor to: https://lovable.dev
-- [The-Vibe-Company/Quivr](https://github.com/The-Vibe-Company/Quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [The-Vibe-Company/quivr](https://github.com/The-Vibe-Company/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [davem2/sfz2bitwig](https://github.com/davem2/sfz2bitwig) - Convert .SFZ files into Bitwig Studio multisample instruments.
 - [CiaraStrawberry/TemporalKit](https://github.com/CiaraStrawberry/TemporalKit) - An all in one solution for adding Temporal Stability to a Stable Diffusion Render via an automatic1111 extension
 - [pathofleastresistor/activity-manager](https://github.com/pathofleastresistor/activity-manager) - A Home Assistant custom component to manage recurring activities.
