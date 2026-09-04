@@ -1313,7 +1313,7 @@
 - [virattt/ai-financial-agent](https://github.com/virattt/ai-financial-agent) - A financial agent for investment research
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
 - [agentsmd/agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [zlnvch/Webverse](https://github.com/zlnvch/Webverse) - Webverse is the collaborative canvas to annotate the web. Draw together in real time. Public, private, and shared spaces.
 - [Mesh2Motion/mesh2motion-app](https://github.com/Mesh2Motion/mesh2motion-app) - Import a 3D Model and automatically assign and export animations
 - [sweriko/Horde](https://github.com/sweriko/Horde) - large scale crowd simulation in threejs
