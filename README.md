@@ -464,7 +464,7 @@
 
 ## JavaScript 
 
-- [blakeshao/p5-playground](https://github.com/blakeshao/p5-playground) - A repository for p5-playground
+- [blakeshao/kool-brushez](https://github.com/blakeshao/kool-brushez) - cool p5js brushes
 - [piecesjs/piecesjs](https://github.com/piecesjs/piecesjs) - Front-end framework for a versatile and native web components management.
 - [kaolti/monolith-terrain](https://github.com/kaolti/monolith-terrain) - Interactive 3D topographic map — real-world elevation data rendered as a vintage USGS topo sheet with a sci-fi HUD. Three.js.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -706,7 +706,6 @@
 - [mattdesl/kami-demos](https://github.com/mattdesl/kami-demos) - :construction: Some demos for the Kami WebGL renderer
 - [wellflat/imageprocessing-labs](https://github.com/wellflat/imageprocessing-labs) - computer vision, image processing and machine learning on the web browser or node.
 - [auduno/clmtrackr](https://github.com/auduno/clmtrackr) - Javascript library for precise tracking of facial features via Constrained Local Models
-- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [toji/gl-matrix](https://github.com/toji/gl-matrix) - Javascript Matrix and Vector library for High Performance WebGL apps
 - [evanw/glfx.js](https://github.com/evanw/glfx.js) - An image effects library for JavaScript using WebGL
 - [martinwells/objects.js](https://github.com/martinwells/objects.js) - Core class tools and object pooling for high-performance gaming in Javascript
@@ -1425,6 +1424,7 @@
 - [furnishup/blueprint3d](https://github.com/furnishup/blueprint3d) - Build interior spaces in 3D
 - [nfriend/inspiral-web](https://github.com/nfriend/inspiral-web) - The web version of the Inspiral app.
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
+- [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [rendro/vintageJS](https://github.com/rendro/vintageJS) - Add a retro/vintage effect to images using the HTML5 canvas element
 
