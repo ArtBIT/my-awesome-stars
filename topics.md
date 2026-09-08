@@ -1982,7 +1982,7 @@
 
 ## others 
 
-- [blakeshao/p5-playground](https://github.com/blakeshao/p5-playground) - A repository for p5-playground
+- [blakeshao/kool-brushez](https://github.com/blakeshao/kool-brushez) - cool p5js brushes
 - [iltaen/spider_walker](https://github.com/iltaen/spider_walker) - Blender addon: Procedural walking for spider-like armatures
 - [vmalis/AirESP32ace](https://github.com/vmalis/AirESP32ace) - 
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
