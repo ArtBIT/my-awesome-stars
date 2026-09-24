@@ -10,6 +10,7 @@
 - [agent-skills](#agent-skills)
 - [agents](#agents)
 - [ai](#ai)
+- [ai-agent](#ai-agent)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithms](#algorithms)
@@ -343,6 +344,11 @@
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Open Data Platform for analysts, quants and AI agents.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
+
+## ai-agent 
+
+- [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 
 ## ai-agents 
 
