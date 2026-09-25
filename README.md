@@ -581,7 +581,6 @@
 - [jnordberg/gif.js](https://github.com/jnordberg/gif.js) - JavaScript GIF encoding library
 - [mschmo/reveal-speech](https://github.com/mschmo/reveal-speech) - Speech Recognition Plugin for Reveal.js
 - [mattdesl/rust](https://github.com/mattdesl/rust) - experiments
-- [ArtBIT/pixel-sprite-generator](https://github.com/ArtBIT/pixel-sprite-generator) - html5 random pixel sprite generator
 - [krasimir/react-in-patterns](https://github.com/krasimir/react-in-patterns) - A free book that talks about design patterns/techniques used while developing with React.
 - [flowhub/the-graph](https://github.com/flowhub/the-graph) - SVG custom elements for FBP graph editing and visualization. Used in noflo/noflo-ui
 - [flowbased/fbp](https://github.com/flowbased/fbp) - FBP flow definition language parser
@@ -1295,6 +1294,7 @@
 
 ## TypeScript 
 
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [danielwh2/cube-motion](https://github.com/danielwh2/cube-motion) - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.
 - [danielravina/stemkit](https://github.com/danielravina/stemkit) - Split any YouTube song into stems
 - [allixsenos/asu](https://github.com/allixsenos/asu) - Agent subscription usage: a pluggable CLI for humans and agents
@@ -1416,6 +1416,7 @@
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [ArtBIT/pixel-sprite-generator](https://github.com/ArtBIT/pixel-sprite-generator) - html5 random pixel sprite generator
 - [timbertson/slinger](https://github.com/timbertson/slinger) - gnome-shell extension for throwing windows around efficiently
 - [funkia/list](https://github.com/funkia/list) - 🐆 An immutable list with unmatched performance and a comprehensive functional API.
 - [azerion/phaser-nineslice](https://github.com/azerion/phaser-nineslice) - NineSlice plugin for Phaser!
