@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [richardwilkes/gcs](https://github.com/richardwilkes/gcs) - GURPS Character Sheet
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
@@ -363,6 +364,7 @@
 
 ## HTML 
 
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [iamcal/emoji-data](https://github.com/iamcal/emoji-data) - Easy to parse data and spritesheets for emoji
 - [mianmar11/Monsters-Mini-Jam-](https://github.com/mianmar11/Monsters-Mini-Jam-) - 
@@ -867,7 +869,6 @@
 - [sobotka/filmic-blender](https://github.com/sobotka/filmic-blender) - Film Emulsion-Like Camera Rendering Transforms for Blender
 - [cjbarber/ToolsOfTheTrade](https://github.com/cjbarber/ToolsOfTheTrade) - Tools of The Trade, from Hacker News.
 - [kamweti/kenya-constitution](https://github.com/kamweti/kenya-constitution) - Constitution of the Republic of Kenya
-- [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
 - [vasanthk/react-bits](https://github.com/vasanthk/react-bits) - ✨ React patterns, techniques, tips and tricks ✨
@@ -1043,7 +1044,7 @@
 - [ManglerFTW/ComfyI2I](https://github.com/ManglerFTW/ComfyI2I) - ComfyI2I is a set of custom nodes for ComfyUI that help with image 2 image functions.
 - [Plachtaa/VALL-E-X](https://github.com/Plachtaa/VALL-E-X) - An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io/vallex/
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [vye16/slahmr](https://github.com/vye16/slahmr) - 
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mmcc-xx/WhosAtMyFeeder](https://github.com/mmcc-xx/WhosAtMyFeeder) - 
@@ -1258,6 +1259,7 @@
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [Gazler/githug](https://github.com/Gazler/githug) - Git your game on!
+- [ValveSoftware/SteamVR-for-Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) - Issue tracker for the Linux port of SteamVR
 - [dylanaraps/pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
 - [kahkhang/Inquirer.sh](https://github.com/kahkhang/Inquirer.sh) - Modern terminal prompt inspired by inquirer.js
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
