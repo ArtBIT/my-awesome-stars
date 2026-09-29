@@ -2181,7 +2181,7 @@
 - [adafruit/Adafruit_HMC5883_Unified](https://github.com/adafruit/Adafruit_HMC5883_Unified) - 
 - [cbh123/narrator](https://github.com/cbh123/narrator) - David Attenborough narrates your life
 - [Rezmason/drivey](https://github.com/Rezmason/drivey) - An ECMAScript port of the graphics demo "Drivey"
-- [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
+- [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler (FFDec) is open-source Flash SWF decompiler and editor. Extract and edit ActionScript, images, sounds, shapes, fonts, and other SWF resources.
 - [rogro82/PiPup](https://github.com/rogro82/PiPup) - Enhanced notifications for Android TV
 - [dklynn/SuperScan](https://github.com/dklynn/SuperScan) - Detect changed files using PHP/MySQL/CRON
 - [thejeffreystone/homeassistant-config](https://github.com/thejeffreystone/homeassistant-config) - Current Home Assistant Config
