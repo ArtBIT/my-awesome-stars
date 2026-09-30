@@ -542,7 +542,7 @@
 - [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [xibyte/jsketcher](https://github.com/xibyte/jsketcher) - Parametric 2D and 3D modeler written in pure javascript
 - [cdiggins/myna-parser](https://github.com/cdiggins/myna-parser) - Myna Parsing Library
-- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js
+- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A uniquely capable, unusually fast &lt;canvas&gt; for Node.js
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
 - [electrode-io/electrode-electrify](https://github.com/electrode-io/electrode-electrify) - Electrify is an webpack visualizer for analyzing webpack bundles.
 - [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
@@ -1045,6 +1045,7 @@
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [vye16/slahmr](https://github.com/vye16/slahmr) - 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mmcc-xx/WhosAtMyFeeder](https://github.com/mmcc-xx/WhosAtMyFeeder) - 
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1232,6 +1233,7 @@
 
 ## Shell 
 
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [nilsve/docker-aseprite-linux](https://github.com/nilsve/docker-aseprite-linux) - Docker container for easily building Aseprite for linux
 - [ArtBIT/bash-bookmarks](https://github.com/ArtBIT/bash-bookmarks) - CLI-first plain-text URL bookmarks manager
@@ -1360,7 +1362,6 @@
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [daybrush/scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
 - [ievgennaida/animation-timeline-control](https://github.com/ievgennaida/animation-timeline-control) - Canvas based TypeScript animation timeline editor.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
