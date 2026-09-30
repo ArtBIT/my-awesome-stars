@@ -355,6 +355,7 @@
 
 ## ai-agents 
 
+- [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1916,7 +1917,7 @@
 
 - [sindresorhus/awesome-npm](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
-- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A multi-threaded, GPU-powered, 2D vector graphics environment for Node.js
+- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A uniquely capable, unusually fast &lt;canvas&gt; for Node.js
 - [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 
 ## nodejs 
