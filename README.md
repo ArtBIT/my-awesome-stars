@@ -35,7 +35,6 @@
 - [Lua](#lua)
 - [MATLAB](#matlab)
 - [Markdown](#markdown)
-- [Max](#max)
 - [Nemerle](#nemerle)
 - [Nunjucks](#nunjucks)
 - [Objective-C](#objective-c)
@@ -393,6 +392,7 @@
 - [denilsonsa/html5-knob](https://github.com/denilsonsa/html5-knob) - A rotary web input component
 - [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) - 🐧 A list of awesome Linux softwares
 - [jed/140bytes](https://github.com/jed/140bytes) - Once a tweet-sized, fork-to-play, community-curated collection of JavaScript.
+- [CNMAT/OSC](https://github.com/CNMAT/OSC) - OSC: Arduino and Teensy implementation of OSC encoding
 - [ml4a/ml4a.github.io](https://github.com/ml4a/ml4a.github.io) - machine learning for artists
 - [fiebrink1/wekinator](https://github.com/fiebrink1/wekinator) - The current version of the Wekinator. It used to be mini, now it's not, but it still lives here.
 - [triplefox/khaguide](https://github.com/triplefox/khaguide) - Tutorial for Kha Framework
@@ -793,10 +793,6 @@
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 
-## Max 
-
-- [CNMAT/OSC](https://github.com/CNMAT/OSC) - OSC: Arduino and Teensy implementation of OSC encoding
-
 ## Nemerle 
 
 - [CloudKidStudio/AS3ToHaxe](https://github.com/CloudKidStudio/AS3ToHaxe) - Simple utility to convert AS3 source code to Haxe.
@@ -1045,6 +1041,7 @@
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [vye16/slahmr](https://github.com/vye16/slahmr) - 
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [mmcc-xx/WhosAtMyFeeder](https://github.com/mmcc-xx/WhosAtMyFeeder) - 
 - [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models) - Generative Models by Stability AI
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1076,7 +1073,6 @@
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
 - [smartHomeHub/SmartIR](https://github.com/smartHomeHub/SmartIR) - Home Assistant integration to manage climate systems, TVs, fans and lights using IR/RF controllers. Compatible with Broadlink, Xiaomi, MQTT, LOOKin and ESPHome
 - [karkin2002/Project-Arctic](https://github.com/karkin2002/Project-Arctic) - 
-- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) - A list of useful payloads and bypass for Web Application Security and Pentest/CTF
@@ -1361,7 +1357,6 @@
 - [keesschollaart81/vscode-home-assistant](https://github.com/keesschollaart81/vscode-home-assistant) - Visual Studio Code Extension for Home Assistant. ⭐ if you think this is cool!
 - [gristlabs/grist-core](https://github.com/gristlabs/grist-core) - Grist is the evolution of spreadsheets.
 - [yoannmoinet/nipplejs](https://github.com/yoannmoinet/nipplejs) - :video_game: A virtual joystick for touch capable interfaces.
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [daybrush/scenejs](https://github.com/daybrush/scenejs) - 🎬 Scene.js is JavaScript & CSS timeline-based animation library
 - [ievgennaida/animation-timeline-control](https://github.com/ievgennaida/animation-timeline-control) - Canvas based TypeScript animation timeline editor.
 - [AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) - A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend.
@@ -1371,6 +1366,7 @@
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
 - [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
+- [invoke-ai/InvokeAI](https://github.com/invoke-ai/InvokeAI) - Invoke is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. The sol
 - [allusion-app/Allusion](https://github.com/allusion-app/Allusion) - A free and open source desktop application for managing your visual library
 - [Cogoport/cogo-toast](https://github.com/Cogoport/cogo-toast) - Beautiful, Zero Configuration, Toast Messages for React. Only ~ 4kb gzip, with styles and icons
 - [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
