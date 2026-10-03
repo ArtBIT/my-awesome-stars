@@ -2012,6 +2012,7 @@
 
 ## others 
 
+- [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) - Godot Tool to create procedural pixel creatures
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
 - [danielwh2/cube-motion](https://github.com/danielwh2/cube-motion) - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.
 - [danielravina/stemkit](https://github.com/danielravina/stemkit) - Split any YouTube song into stems
@@ -2228,7 +2229,7 @@
 - [lowagner/pyanoh3ro](https://github.com/lowagner/pyanoh3ro) - Learn and compose midi music.
 - [dionyziz/blockchain-book](https://github.com/dionyziz/blockchain-book) - "Blockchain Foundations" lecture notes
 - [HorrorPills/ChatGPT-Gnome-Desktop-Extension](https://github.com/HorrorPills/ChatGPT-Gnome-Desktop-Extension) - ChatGPT Gnome Desktop Extension | Talk with ChatGPT from your menubar!
-- [stuffmatic/fSpy-Blender](https://github.com/stuffmatic/fSpy-Blender) - Official fSpy importer for Blender
+- [perarnia/fSpy-Blender](https://github.com/perarnia/fSpy-Blender) - Official fSpy importer for Blender
 - [mharrys/fluids-2d](https://github.com/mharrys/fluids-2d) - Real-time fluid dynamics running on the GPU with the help of WebGL and Three.js
 - [terror/chatgpt.nvim](https://github.com/terror/chatgpt.nvim) - Query ChatGPT in Neovim
 - [daybrush/moveable](https://github.com/daybrush/moveable) - Moveable! Draggable! Resizable! Scalable! Rotatable! Warpable! Pinchable! Groupable! Snappable!
@@ -2277,7 +2278,7 @@
 - [pft/script-fu](https://github.com/pft/script-fu) - script-fu scripts for GIMP
 - [bitcraft/animation](https://github.com/bitcraft/animation) - animation helper for pygame projects (and more!)
 - [Pullusb/SB_auto-blueprint](https://github.com/Pullusb/SB_auto-blueprint) - Blender Addon - Create a blueprint of the selected object in one click
-- [stuffmatic/fSpy](https://github.com/stuffmatic/fSpy) - A cross platform app for quick and easy still image camera matching
+- [perarnia/fSpy](https://github.com/perarnia/fSpy) - A cross platform app for quick and easy still image camera matching
 - [Two9A/midi-vis](https://github.com/Two9A/midi-vis) - A scrolling piano visualiser, using the Web MIDI API
 - [IRCSS/Unity-Stencil-Portal](https://github.com/IRCSS/Unity-Stencil-Portal) - An example of Stencil Portal in Unity
 - [SebLague/Portals](https://github.com/SebLague/Portals) - Portals in Unity
