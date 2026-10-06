@@ -121,6 +121,7 @@
 
 ## C# # 
 
+- [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) - Godot Tool to create procedural pixel creatures
 - [jess-hammer/dual-grid-tilemap-system-godot](https://github.com/jess-hammer/dual-grid-tilemap-system-godot) - 
 - [JamesMcMahon/monocle-engine](https://github.com/JamesMcMahon/monocle-engine) - Mirror of Maddy Thorson's C# Game Engine. "A MonoGame C# game engine! Based on the TowerFall Ascension core engine code."
@@ -946,7 +947,7 @@
 - [iltaen/spider_walker](https://github.com/iltaen/spider_walker) - Blender addon: Procedural walking for spider-like armatures
 - [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) - 
 - [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat) - TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion) - [SIGGRAPH 2026] InfiniteDiffusion & Terrain Diffusion: Procedural generation with diffusion models
 - [jaskirat1616/Splatline](https://github.com/jaskirat1616/Splatline) - Convert 2D videos and photos into interactive 3D scenes using Gaussian splatting backends (VGGT, LongSplat, DepthSplat, SHARP, TripoSplat), Rerun, and the SuperSplat editor.
 - [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.
