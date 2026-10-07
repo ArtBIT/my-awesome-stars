@@ -80,7 +80,7 @@
 ## Astro 
 
 - [chasemp/timeline](https://github.com/chasemp/timeline) - 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## C 
 
@@ -950,6 +950,7 @@
 - [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion) - [SIGGRAPH 2026] InfiniteDiffusion & Terrain Diffusion: Procedural generation with diffusion models
 - [jaskirat1616/Splatline](https://github.com/jaskirat1616/Splatline) - Convert 2D videos and photos into interactive 3D scenes using Gaussian splatting backends (VGGT, LongSplat, DepthSplat, SHARP, TripoSplat), Rerun, and the SuperSplat editor.
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.
 - [ArtBIT/MagicPy](https://github.com/ArtBIT/MagicPy) - A Magic Eye autostereogram generator
 - [odysseus-dev/odysseus](https://github.com/odysseus-dev/odysseus) - Self-hosted AI workspace.
@@ -1027,7 +1028,7 @@
 - [Auto1111SDK/Auto1111SDK](https://github.com/Auto1111SDK/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
 - [sopelj/hass-ember-mug-component](https://github.com/sopelj/hass-ember-mug-component) - Ember Mug Integration for Home Assistant
 - [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything) - [CVPR 2024] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, qua
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
 - [rougier/ML-Recipes](https://github.com/rougier/ML-Recipes) - A collection of stand-alone Python machine learning recipes
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -1302,7 +1303,6 @@
 - [paper-design/shaders](https://github.com/paper-design/shaders) - Zero-dependency canvas shaders that can be installed from npm or designed in Paper
 - [iptv-org/iptv](https://github.com/iptv-org/iptv) - Collection of publicly available IPTV channels from all over the world
 - [rjx18/codor](https://github.com/rjx18/codor) - 
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
 - [jangles-byte/Pythia](https://github.com/jangles-byte/Pythia) - One local API call gives your agent the entire live state of the planet — every major world event at once, plus forecasts. 40+ free keyless feeds, runs entirely on Ollama. No cloud, no cost.  Keyless 
 - [IgnisDa/ryot](https://github.com/IgnisDa/ryot) - Roll your own tracker!
 - [diffusionstudio/lottie](https://github.com/diffusionstudio/lottie) - Generate production-ready Lottie animations with Claude Code or Codex
