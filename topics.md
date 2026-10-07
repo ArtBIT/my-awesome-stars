@@ -569,7 +569,7 @@
 ## bootstrap 
 
 - [tabler/tabler-react](https://github.com/tabler/tabler-react) - React components and demo for the Tabler UI theme.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [jasny/bootstrap](https://github.com/jasny/bootstrap) - The missing components for your favorite front-end framework.
 - [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 - [jschr/bootstrap-modal](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
@@ -771,7 +771,7 @@
 - [colmap/colmap](https://github.com/colmap/colmap) - COLMAP - Structure-from-Motion and Multi-View Stereo
 - [askui/python-sdk](https://github.com/askui/python-sdk) - Enable AI to control your desktop, mobile and HMI devices
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - CVAT is a leading data annotation platform for image, video, audio, and 3D datasets. It offers open-source, cloud, and enterprise products, as well as labeling services, with AI-assisted labeling, qua
 - [graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting) - Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
 - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) - OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation
 - [alicevision/Meshroom](https://github.com/alicevision/Meshroom) - Node-based Visual Programming Toolbox
@@ -816,7 +816,7 @@
 - [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [AllThingsSmitty/css-protips](https://github.com/AllThingsSmitty/css-protips) - A collection of tips to help take your CSS skills pro. 🕹
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [springernature/frontend-playbook](https://github.com/springernature/frontend-playbook) - The Frontend Playbook
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -884,7 +884,6 @@
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn it. Build it. Ship it for others.
 - [yaxan/Naruto_Handsign_Classification](https://github.com/yaxan/Naruto_Handsign_Classification) - Naruto Hand Gesture Recognition with OpenCV and Transfer Learning
 - [Auto1111SDK/Auto1111SDK](https://github.com/Auto1111SDK/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [HeyWillow/willow](https://github.com/HeyWillow/willow) - Open source, local, and self-hosted Amazon Echo/Google Home competitive Voice Assistant alternative
@@ -1424,7 +1423,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 - [jonathandion/awesome-emails](https://github.com/jonathandion/awesome-emails) - ✉️ An awesome list of resources to build better emails.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [mattn/emmet-vim](https://github.com/mattn/emmet-vim) - emmet for vim: http://emmet.io/
 - [springernature/frontend-playbook](https://github.com/springernature/frontend-playbook) - The Frontend Playbook
 - [beautifier/js-beautify](https://github.com/beautifier/js-beautify) - Beautifier for javascript
@@ -1436,7 +1435,7 @@
 - [vanrez-nez/awesome-glsl](https://github.com/vanrez-nez/awesome-glsl) - :sparkler: Compilation of the best resources to learn programming OpenGL Shaders
 - [1j01/jspaint](https://github.com/1j01/jspaint) - 🎨 Classic MS Paint, ＲＥＶＩＶＥＤ + ✨Extras
 - [ArtBIT/pixel-sprite-generator](https://github.com/ArtBIT/pixel-sprite-generator) - html5 random pixel sprite generator
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 - [ArtBIT/triangulate-image](https://github.com/ArtBIT/triangulate-image) - Image Triangulation
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1598,7 +1597,7 @@
 
 ## jekyll 
 
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 
 ## jquery 
 
@@ -2015,6 +2014,7 @@
 
 ## others 
 
+- [SubtitleEdit/subtitleedit](https://github.com/SubtitleEdit/subtitleedit) - the subtitle editor :)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [IgorAherne/TRELLIS.2-stableprojectorz](https://github.com/IgorAherne/TRELLIS.2-stableprojectorz) - Native and Compact Structured Latents for 3D Generation
 - [idlerunner00/procedural-pixel-creatures](https://github.com/idlerunner00/procedural-pixel-creatures) - Godot Tool to create procedural pixel creatures
@@ -2031,7 +2031,7 @@
 - [VAST-AI-Research/TripoSplat](https://github.com/VAST-AI-Research/TripoSplat) - TripoSplat converts a single 2D image into high-quality and variable number of 3D Gaussians, developed by TripoAI.
 - [rjx18/codor](https://github.com/rjx18/codor) - 
 - [lspr98/conformer-stt-s3](https://github.com/lspr98/conformer-stt-s3) - Automatic speech recognition (ASR) running on the ESP32-S3 based on a 13.1M parameters convolution transformer.
-- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - (ECCV 2026 oral & best paper candidate) LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
+- [Robbyant/lingbot-map](https://github.com/Robbyant/lingbot-map) - [ECCV 2026 Best Paper Award Candidate] LingBot-Map: Geometric Context Transformer for Streaming 3D Reconstruction
 - [VitSoonYoung/SpriteStack2D](https://github.com/VitSoonYoung/SpriteStack2D) - Render pseudo 3D sprite node from a single 2D texture of different view angles
 - [xandergos/terrain-diffusion](https://github.com/xandergos/terrain-diffusion) - [SIGGRAPH 2026] InfiniteDiffusion & Terrain Diffusion: Procedural generation with diffusion models
 - [majidmanzarpour/threejs-game-skills](https://github.com/majidmanzarpour/threejs-game-skills) - Agent skills for building playable, polished Three.js browser games with gameplay, AAA-style graphics, UI, QA, and optional AI-generated 3D, image, and audio assets.
@@ -2926,7 +2926,6 @@
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Auto1111SDK/Auto1111SDK](https://github.com/Auto1111SDK/Auto1111SDK) - An SDK/Python library for Automatic 1111 to run state-of-the-art diffusion models
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface. The fastest local inference engine in the world.
 - [satellite-image-deep-learning/techniques](https://github.com/satellite-image-deep-learning/techniques) - Techniques for deep learning with satellite & aerial imagery
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -3122,7 +3121,7 @@
 ## sass 
 
 - [ericalli/static-site-boilerplate](https://github.com/ericalli/static-site-boilerplate) - A better workflow for building modern static websites.
-- [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
+- [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 5,000+ icons, dark mode, RTL.
 - [IanLunn/Hover](https://github.com/IanLunn/Hover) - A collection of CSS3 powered hover effects to be applied to links, buttons, logos, SVG, featured images and so on. Easily apply to your own elements, modify or just use for inspiration. Available in C
 
 ## security 
@@ -3269,7 +3268,6 @@
 
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [yaxan/Naruto_Handsign_Classification](https://github.com/yaxan/Naruto_Handsign_Classification) - Naruto Hand Gesture Recognition with OpenCV and Transfer Learning
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling service
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [cifkao/groove2groove](https://github.com/cifkao/groove2groove) - Code for "Groove2Groove: One-Shot Music Style Transfer with Supervision from Synthetic Data"
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
