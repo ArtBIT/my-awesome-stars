@@ -2013,6 +2013,7 @@
 
 ## others 
 
+- [RobertDaleSmith/mouthpad-usb](https://github.com/RobertDaleSmith/mouthpad-usb) - MouthPad^USB Dongle
 - [manycore-research/SpatialLM](https://github.com/manycore-research/SpatialLM) - [NeurIPS 2025] SpatialLM: Training Large Language Models for Structured Indoor Modeling
 - [filipedeschamps/doom-fire-algorithm](https://github.com/filipedeschamps/doom-fire-algorithm) - Playground for the fire effect from DOOM. Really simple algorithm and all experiments are welcome!
 - [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) - Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
