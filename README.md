@@ -84,6 +84,7 @@
 
 ## C 
 
+- [RobertDaleSmith/mouthpad-usb](https://github.com/RobertDaleSmith/mouthpad-usb) - MouthPad^USB Dongle
 - [vmalis/AirESP32ace](https://github.com/vmalis/AirESP32ace) - 
 - [EnriqueNeyra/aether](https://github.com/EnriqueNeyra/aether) - All-in-one home air quality monitor measuring Temp, Humidity, CO2, VOCs, Particulate Matter, and NOx. Powered by ESP32-C3 running esphome, and built with Home Assistant integration
 - [kometbomb/klystrack](https://github.com/kometbomb/klystrack) - A chiptune tracker
