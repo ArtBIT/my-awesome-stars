@@ -668,7 +668,6 @@
 - [mcountis/dfp-events](https://github.com/mcountis/dfp-events) - For use with Google's Doubleclick for Publishers (DFP).  Taps into dfp's logger function and fires triggers events using jQuery.
 - [brookhong/Surfingkeys](https://github.com/brookhong/Surfingkeys) - Map your keys for web surfing, expand your browser with javascript and keyboard.
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
-- [finom/vanillatree](https://github.com/finom/vanillatree) - Vanilla.js replacement of jstree
 - [finom/balalaika](https://github.com/finom/balalaika) - Tiny DOM library
 - [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 - [dialupnoises/unitconvert](https://github.com/dialupnoises/unitconvert) - Simple but powerful Node.js unit conversion library.
@@ -1307,6 +1306,7 @@
 
 ## TypeScript 
 
+- [zilvestro/grammai](https://github.com/zilvestro/grammai) - AI writing assistance. Free & open source. Offline English and German grammar checks, with rewrites and translation through your own AI.
 - [enclosedev/enclose](https://github.com/enclosedev/enclose) - 
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [danielwh2/cube-motion](https://github.com/danielwh2/cube-motion) - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.
@@ -1443,6 +1443,7 @@
 - [msurguy/triangles](https://github.com/msurguy/triangles) - Delaunay triangulation + Lambertian reflectance
 - [sindresorhus/emoj](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line :open_mouth: :sparkles: :raised_hands: :horse: :boom: :see_no_evil:
 - [howdyai/botkit](https://github.com/howdyai/botkit) - Botkit is an open source developer tool for building chat bots, apps and custom integrations for major messaging platforms.
+- [finom/vanillatree](https://github.com/finom/vanillatree) - A tree view with no dependencies: one small script, keyboard and screen reader support, IE 10 and up
 - [furnishup/blueprint3d](https://github.com/furnishup/blueprint3d) - Build interior spaces in 3D
 - [nfriend/inspiral-web](https://github.com/nfriend/inspiral-web) - The web version of the Inspiral app.
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
