@@ -174,6 +174,7 @@
 - [numpy](#numpy)
 - [objective-c](#objective-c)
 - [obsidian](#obsidian)
+- [obsidian-md](#obsidian-md)
 - [open-source](#open-source)
 - [openai](#openai)
 - [opencv](#opencv)
@@ -314,6 +315,7 @@
 
 ## ai 
 
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source AI voice studio. Clone, dictate, create.
@@ -357,6 +359,7 @@
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
 - [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
@@ -624,6 +627,7 @@
 
 ## chrome-extension 
 
+- [zilvestro/grammai](https://github.com/zilvestro/grammai) - AI writing assistance. Free & open source. Offline English and German grammar checks, with rewrites and translation through your own AI.
 - [1995eaton/chromium-vim](https://github.com/1995eaton/chromium-vim) - Vim bindings for Google Chrome.
 
 ## claude 
@@ -642,6 +646,7 @@
 ## claude-code 
 
 - [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [allixsenos/asu](https://github.com/allixsenos/asu) - Agent subscription usage: a pluggable CLI for humans and agents
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, v
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1575,6 +1580,7 @@
 - [bchanx/slidr](https://github.com/bchanx/slidr) - add some slide effects.
 - [pa7/nude.js](https://github.com/pa7/nude.js) - Nudity detection with JavaScript and HTMLCanvas
 - [mourner/rbush](https://github.com/mourner/rbush) - RBush — a high-performance JavaScript R-tree-based 2D spatial index for points and rectangles
+- [finom/vanillatree](https://github.com/finom/vanillatree) - A tree view with no dependencies: one small script, keyboard and screen reader support, IE 10 and up
 - [MikeMcl/decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [mdaines/viz-js](https://github.com/mdaines/viz-js) - Graphviz in your browser
@@ -1962,8 +1968,13 @@
 
 ## obsidian 
 
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
 - [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
+
+## obsidian-md 
+
+- [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source platform for knowledge management and collaboration.
 
 ## open-source 
 
@@ -2536,7 +2547,6 @@
 - [dpeek/hvm](https://github.com/dpeek/hvm) - Haxe Version Manager for users of Bash
 - [loudoweb/SpriterHaxeEngine](https://github.com/loudoweb/SpriterHaxeEngine) - Engine to use Brashmonkey's Spriter SCML for haxe.
 - [ufront/ufront](https://github.com/ufront/ufront) - Ufront is a powerful MVC web framework for Haxe. It gives you quick development, shared code on the client and server, powerful extensibility, easy testing, and targets PHP or Neko.  This is the mothe
-- [finom/vanillatree](https://github.com/finom/vanillatree) - Vanilla.js replacement of jstree
 - [finom/balalaika](https://github.com/finom/balalaika) - Tiny DOM library
 - [dialupnoises/unitconvert](https://github.com/dialupnoises/unitconvert) - Simple but powerful Node.js unit conversion library.
 - [HaxeFlixel/flixel-addons](https://github.com/HaxeFlixel/flixel-addons) - Additional classes for HaxeFlixel
@@ -3376,6 +3386,7 @@
 - [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
 - [Badacadabra/JavaScript-Design-Patterns](https://github.com/Badacadabra/JavaScript-Design-Patterns) - :paperclip: ES5 + ES6 + CoffeeScript + TypeScript design patterns with some theory, real-world examples and UML diagrams
 - [AtomicGameEngine/AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine) - The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
+- [finom/vanillatree](https://github.com/finom/vanillatree) - A tree view with no dependencies: one small script, keyboard and screen reader support, IE 10 and up
 - [CJex/regulex](https://github.com/CJex/regulex) - :construction: Regular Expression Excited!
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - a modern & lightweight HTML5 game engine
 
@@ -3414,7 +3425,6 @@
 
 ## video 
 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 
 ## vim 
