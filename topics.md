@@ -299,7 +299,7 @@
 ## agent-skills 
 
 - [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,884+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -365,7 +365,7 @@
 - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [google/artemis](https://github.com/google/artemis) - ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity,
 - [steipete/agent-scripts](https://github.com/steipete/agent-scripts) - Scripts for agents, shared between my repositories.
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -665,7 +665,7 @@
 
 ## claude 
 
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
@@ -679,7 +679,7 @@
 ## claude-code 
 
 - [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - 77 game-dev skills for AI coding agents — Godot, Unity, Unreal, Phaser, PixiJS, three.js, Bevy, pygame, LÖVE, Roblox. Portable SKILL.md Agent Skills (the format Anthropic launched as Claude Skills), w
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [allixsenos/asu](https://github.com/allixsenos/asu) - Agent subscription usage: a pluggable CLI for humans and agents
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, v
@@ -699,7 +699,7 @@
 
 ## claude-skills 
 
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 
 ## cli 
 
@@ -1763,7 +1763,7 @@
 
 ## llm 
 
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -1864,7 +1864,7 @@
 
 - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [DuarteSantos8/openGym](https://github.com/DuarteSantos8/openGym) - Open-source gym & body-weight tracker, now in the App Store (iPhone + Apple Watch) and as an Android APK. Plan routines, log workouts, see which muscles are trained, import from Strong/Hevy/FitNotes. 
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [Drobiazkin/ai-agent-architecture](https://github.com/Drobiazkin/ai-agent-architecture) - Build LLM systems you actually control. A free, open engineering book + course — from tokenization to serving your own models. Mechanisms, trade-offs, and numbers, not prompt tips
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.
@@ -2007,7 +2007,7 @@
 ## obsidian 
 
 - [jpzk/opensidian](https://github.com/jpzk/opensidian) - A privacy-first, open-source, markdown PKM tool with graphs, canvas and community plugins
-- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - An AI second brain that maintains itself. Full guide, starter vault, agent skills and scripts for a self-organizing knowledge base in Claude Code and Obsidian.
+- [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os) - Guides and resources for AI engineers: an agents course, five handbooks, a hands-on second-brain project and a vetted reading list.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 
 ## obsidian-md 
