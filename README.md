@@ -1310,6 +1310,7 @@
 
 ## TypeScript 
 
+- [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports
 - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [zilvestro/grammai](https://github.com/zilvestro/grammai) - AI writing assistance. Free & open source. Offline English and German grammar checks, with rewrites and translation through your own AI.
 - [enclosedev/enclose](https://github.com/enclosedev/enclose) - 
