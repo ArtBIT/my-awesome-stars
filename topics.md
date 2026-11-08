@@ -158,6 +158,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [mcp](#mcp)
+- [mcp-server](#mcp-server)
 - [microservices](#microservices)
 - [minecraft](#minecraft)
 - [mongodb](#mongodb)
@@ -1890,6 +1891,12 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
+
+## mcp-server 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [thorsten/phpMyFAQ](https://github.com/thorsten/phpMyFAQ) - phpMyFAQ - Open Source FAQ web application for PHP 8.4+ and MySQL, PostgreSQL and other databases
 
 ## microservices 
 
