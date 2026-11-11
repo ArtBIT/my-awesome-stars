@@ -416,6 +416,7 @@
 
 ## Haxe 
 
+- [deepnight/ldtk](https://github.com/deepnight/ldtk) - Modern, lightweight and efficient 2D level editor
 - [motion-twin/WebGamesArchives](https://github.com/motion-twin/WebGamesArchives) - 
 - [Tw1ddle/game-of-life](https://github.com/Tw1ddle/game-of-life) - :game_die: Interactive Conway's Game of Life simulation written in Haxe
 - [NicoM1/IceEntity](https://github.com/NicoM1/IceEntity) - A simple framework for managing entitys, components, and live-at-runtime scripts in haxeflixel
@@ -552,7 +553,6 @@
 - [foone/SierraDeathGenerator](https://github.com/foone/SierraDeathGenerator) - Generate fake screenshots from video games
 - [xibyte/jsketcher](https://github.com/xibyte/jsketcher) - Parametric 2D and 3D modeler written in pure javascript
 - [cdiggins/myna-parser](https://github.com/cdiggins/myna-parser) - Myna Parsing Library
-- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A uniquely capable, unusually fast &lt;canvas&gt; for Node.js
 - [dataarts/dat.gui](https://github.com/dataarts/dat.gui) - Lightweight controller library for JavaScript.
 - [electrode-io/electrode-electrify](https://github.com/electrode-io/electrode-electrify) - Electrify is an webpack visualizer for analyzing webpack bundles.
 - [react-webpack-generators/generator-react-webpack](https://github.com/react-webpack-generators/generator-react-webpack) - Yeoman generator for ReactJS and Webpack
@@ -1220,6 +1220,7 @@
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [skerkour/bloom](https://github.com/skerkour/bloom) - 
+- [samizdatco/skia-canvas](https://github.com/samizdatco/skia-canvas) - A uniquely capable, unusually fast &lt;canvas&gt; for Node.js
 - [swsnr/mdcat](https://github.com/swsnr/mdcat) - cat for markdown
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
