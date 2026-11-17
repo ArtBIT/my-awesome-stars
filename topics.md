@@ -8,6 +8,7 @@
 - [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
+- [agentic-ai](#agentic-ai)
 - [agents](#agents)
 - [ai](#ai)
 - [ai-agent](#ai-agent)
@@ -316,6 +317,12 @@
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [melonjs/melonJS](https://github.com/melonjs/melonJS) - A modern & fully featured HTML5 game engine (2D & 3D) for JavaScript/TypeScript, with WebGL/WebGPU rendering, built-in physics, Tiled map & glTF support and WebAudio.
 
+## agentic-ai 
+
+- [allixsenos/asu](https://github.com/allixsenos/asu) - Agent subscription usage: a pluggable CLI for humans and agents
+- [kardolus/chatgpt-cli](https://github.com/kardolus/chatgpt-cli) - ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, p
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
 ## agents 
 
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -380,7 +387,7 @@
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [rohitg00/ai-engineering-from-scratch](https://github.com/rohitg00/ai-engineering-from-scratch) - Learn AI Engineering! Learn it. Build it. Ship it for others.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [MoizIbnYousaf/ai-agent-skills](https://github.com/MoizIbnYousaf/ai-agent-skills) - Universal skill installer and package manager for AI coding agents. One command, 12+ runtimes. npx ai-agent-skills
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Your lightweight open-source personal agent.
@@ -679,7 +686,7 @@
 - [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo w
 - [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [coder/claudecode.nvim](https://github.com/coder/claudecode.nvim) - 🧩 Claude Code Neovim IDE Extension
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [ryanhex53/gpt-po](https://github.com/ryanhex53/gpt-po) - command tool for translate po files by using LLM api, support openai/anthropic/google models
@@ -701,7 +708,7 @@
 - [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [devanshutak25/blenderKey](https://github.com/devanshutak25/blenderKey) - Blender 5.0+ Addon to visualize and edit the hotkey bindings
 - [sickn33/agentic-awesome-skills](https://github.com/sickn33/agentic-awesome-skills) - 2,955+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.
 - [RedPlanetHQ/core](https://github.com/RedPlanetHQ/core) - Your Personal AI OS
@@ -1198,7 +1205,7 @@
 - [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
 - [ihhub/fheroes2](https://github.com/ihhub/fheroes2) - fheroes2 is a recreation of Heroes of Might and Magic II game engine
 - [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [matmadness/HumanShaders](https://github.com/matmadness/HumanShaders) - A set of shaders for Godot to create realistic humanoid characters
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
@@ -1236,7 +1243,7 @@
 - [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports
 - [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines.
 - [Hugo-Dz/spritefusion-pixel-snapper](https://github.com/Hugo-Dz/spritefusion-pixel-snapper) - A tool to snap pixels to a perfect grid. Designed to fix messy and inconsistent pixel art generated by AI.
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [gdquest-demos/godot-open-rpg](https://github.com/gdquest-demos/godot-open-rpg) - Learn to create turn-based combat with this Open Source RPG demo ⚔
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
@@ -1307,7 +1314,7 @@
 
 - [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines.
 - [htdt/godogen](https://github.com/htdt/godogen) - Autonomous game development with Claude Code and Codex
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [nklbdev/godot-4-aseprite-importers](https://github.com/nklbdev/godot-4-aseprite-importers) - The addon for Godot 4 that adds several plugins for importing images and animations from Aseprite
 - [hectorid/aseprite_importer](https://github.com/hectorid/aseprite_importer) - A plugin for the Godot Engine that imports animations from Aseprite
 - [nathanhoad/godot_dialogue_manager](https://github.com/nathanhoad/godot_dialogue_manager) - A powerful nonlinear dialogue system for Godot
@@ -2956,7 +2963,7 @@
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
 - [tchar/ulauncher-albert-calculate-anything](https://github.com/tchar/ulauncher-albert-calculate-anything) - A ULauncher/Albert extension that supports currency, units and date time conversion, as well as a calculator that supports complex numbers and functions.
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [francesco-sodano/birdy](https://github.com/francesco-sodano/birdy) - Birdy is a nicely designed wild bird feeder that takes photos, identifies and classifies birds. - based on Raspberry Pi, Azure IoT and Azure cognitive Service.
 - [bieniu/ha-shellies-discovery](https://github.com/bieniu/ha-shellies-discovery) - Script that adds MQTT discovery support for Shellies devices
 - [philippj/SteamworksPy](https://github.com/philippj/SteamworksPy) - A working Python API system for Valve's Steamworks.
@@ -3196,7 +3203,7 @@
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3 and GLM 5.3
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A coding agent for open models like Kimi K3.1 and GLM 5.3
 - [espanso/espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 - [ynqa/jnv](https://github.com/ynqa/jnv) - Interactive JSON filter using jq
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
@@ -3501,7 +3508,7 @@
 ## unity 
 
 - [gamedev-skills/awesome-gamedev-agent-skills](https://github.com/gamedev-skills/awesome-gamedev-agent-skills) - Make games with your AI coding agent: 79 game-dev skills and a router for Godot, Unity, Unreal, Roblox, three.js, Phaser and 6 more engines. Checked on the real engines.
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 - [lettier/3d-game-shaders-for-beginners](https://github.com/lettier/3d-game-shaders-for-beginners) - 🎮 A step-by-step guide to implementing SSAO, depth of field, lighting, normal mapping, and more for your 3D game.
 - [geoffb/dawnbringer-palettes](https://github.com/geoffb/dawnbringer-palettes) - Limited color palettes by DawnBringer in various formats.
 - [mixandjam/Celeste-Movement](https://github.com/mixandjam/Celeste-Movement) - Recreating the movement and feel from Celeste
@@ -3511,7 +3518,7 @@
 
 ## unreal-engine 
 
-- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.
+- [Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios) - Turn Claude Code into a full game dev studio — 49 AI agents, 75 workflow skills, and a complete coordination system mirroring real studio hierarchy.
 
 ## video 
 
