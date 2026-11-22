@@ -2119,6 +2119,7 @@
 
 ## others 
 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [toyxyz/toyxyz_RGBMocap](https://github.com/toyxyz/toyxyz_RGBMocap) - Native Windows video motion capture with ExMR, FlowHMR and GVHMR, contact correction, humanoid retargeting, and FBX/VMD export.
 - [Tpojka/neleceni](https://github.com/Tpojka/neleceni) - Chrome extension that mutes a YouTube stream while a chosen speaker holds the floor, by reading the on-screen name caption (built for @ParlamentSrbija).
 - [wesbos/photo-frame-dashboard](https://github.com/wesbos/photo-frame-dashboard) - Getting ADB, root, backups and custom apps onto locked-down Android photo frames (Skylight Calendar, BIUFRAME)
