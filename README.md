@@ -505,7 +505,6 @@
 - [gramps-project/gramps-web](https://github.com/gramps-project/gramps-web) - Open Source Online Genealogy System
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
 - [jsonresume/resume-schema](https://github.com/jsonresume/resume-schema) - MOVED to jsonresume/jsonresume.org (packages/schema) — npm @jsonresume/schema unchanged
-- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [aemkei/jsfuck](https://github.com/aemkei/jsfuck) - Write any JavaScript with 6 Characters: []()!+
 - [pinbackit/pinback](https://github.com/pinbackit/pinback) - Backup and export bookmarklet for Pinterest
 - [dyatko/arkit](https://github.com/dyatko/arkit) - JavaScript architecture diagrams and dependency graphs
@@ -1319,7 +1318,7 @@
 - [0xS4N4TG/kinetograph](https://github.com/0xS4N4TG/kinetograph) - A blazingly fast programmatic video engine, made for agents.
 - [zilvestro/grammai](https://github.com/zilvestro/grammai) - AI writing assistance. Free & open source. Offline English and German grammar checks, with rewrites and translation through your own AI.
 - [enclosedev/enclose](https://github.com/enclosedev/enclose) - 
-- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - AI video you can actually edit. HyperFrames is a free, open-source AI video editor. Describe any video and get a real project you can change down to the frame.
+- [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Open-source AI video editor: edit your own footage, or create and remake any video with Claude Code, Codex or the free Studio app. Write HTML, render MP4. By HeyGen.
 - [danielwh2/cube-motion](https://github.com/danielwh2/cube-motion) - Four motions, no dials. Every duration, curve and distance is already decided, so the only thing left to choose is which element moves.
 - [danielravina/stemkit](https://github.com/danielravina/stemkit) - Split any YouTube song into stems
 - [allixsenos/asu](https://github.com/allixsenos/asu) - Agent subscription usage: a pluggable CLI for humans and agents
@@ -1367,6 +1366,7 @@
 - [rbardini/resumed](https://github.com/rbardini/resumed) - 👔 Lightweight JSON Resume builder, no-frills alternative to resume-cli
 - [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
+- [piskelapp/piskel](https://github.com/piskelapp/piskel) - A simple web-based tool for Spriting and Pixel art.
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [SandroMaglione/infinite-html-canvas](https://github.com/SandroMaglione/infinite-html-canvas) - Infinite HTML &lt;canvas&gt; that can be zoomed and panned using touch on mobile 🤏
 - [apptension/saas-boilerplate](https://github.com/apptension/saas-boilerplate) - SaaS Boilerplate - Open Source and free SaaS stack that lets you build SaaS products faster in React, Django and AWS. Focus on essential business logic instead of coding repeatable features!
