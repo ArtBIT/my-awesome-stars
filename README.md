@@ -1312,6 +1312,7 @@
 
 ## TypeScript 
 
+- [bestboyhq/grip](https://github.com/bestboyhq/grip) - Beautiful, free & open-source screen capture for MacOS
 - [Tpojka/neleceni](https://github.com/Tpojka/neleceni) - Chrome extension that mutes a YouTube stream while a chosen speaker holds the floor, by reading the on-screen name caption (built for @ParlamentSrbija).
 - [arjun988/blender-skills](https://github.com/arjun988/blender-skills) - 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -&gt; MCP-powered production pipeline from blockout to engine export.
 - [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports
@@ -1442,7 +1443,7 @@
 - [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 - [wclr/yalc](https://github.com/wclr/yalc) - Work with yarn/npm packages locally like a boss.
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
-- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+- [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - Image processing in plain JavaScript. Read, edit and write images in Node.js and the browser, with no native dependencies.
 - [ArtBIT/pixel-sprite-generator](https://github.com/ArtBIT/pixel-sprite-generator) - html5 random pixel sprite generator
 - [tabler/tabler](https://github.com/tabler/tabler) - Free and open source admin dashboard UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL.
 - [timbertson/slinger](https://github.com/timbertson/slinger) - gnome-shell extension for throwing windows around efficiently
