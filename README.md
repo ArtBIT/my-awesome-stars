@@ -1312,7 +1312,7 @@
 
 ## TypeScript 
 
-- [bestboyhq/grip](https://github.com/bestboyhq/grip) - Beautiful, free & open-source screen capture for MacOS
+- [bestboystudio/grip](https://github.com/bestboystudio/grip) - Beautiful, free & open-source screen capture for MacOS
 - [Tpojka/neleceni](https://github.com/Tpojka/neleceni) - Chrome extension that mutes a YouTube stream while a chosen speaker holds the floor, by reading the on-screen name caption (built for @ParlamentSrbija).
 - [arjun988/blender-skills](https://github.com/arjun988/blender-skills) - 94 specialist Blender skills for Cursor, Claude Code, Kiro & Codex -&gt; MCP-powered production pipeline from blockout to engine export.
 - [with-pebbly/aseprite-ai-artist](https://github.com/with-pebbly/aseprite-ai-artist) - Your coding agent paints pixel art in the Aseprite window you already have open. MCP server + skills for Claude Code, omp, Codex, Gemini CLI and Cursor — draws, looks at its work, animates and exports
